@@ -452,7 +452,7 @@ _Libraries for building standard or basic Command Line applications._
 - [sand](https://github.com/Zaba505/sand) - Simple API for creating interpreters and so much more.
 - [sflags](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
 - [strumt](https://github.com/antham/strumt) - Library to create prompt chain.
-- [subcmd](https://github.com/bobg/subcmd) - Another approach to parsing and running subcommands. Works alongside the standard `flag` package.
+- [subcmd](https://github.com/bobg/subcmd) - Another approach to parsing and running subcommands. Works alongside the standard `flag` package. ![stars](https://img.shields.io/badge/stars-8-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
 - [survey](https://github.com/go-survey/survey) - Build interactive and accessible prompts with full support for windows and posix terminals.
 - [teris-io/cli](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 - [ts](https://github.com/liujianping/ts) - Timestamp convert & compare tool.
@@ -2151,7 +2151,7 @@ _Official experimental tooling for package management_
 _Unofficial libraries for package and dependency management._
 
 - [glide](https://github.com/Masterminds/glide) - Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip.
-- [godep](https://github.com/tools/godep) - dependency tool for go, godep helps build packages reproducibly by fixing their dependencies. ![stars](https://img.shields.io/badge/stars-5538-blue) ![forks](https://img.shields.io/badge/forks-454-blue)
+- [godep](https://github.com/tools/godep) - dependency tool for go, godep helps build packages reproducibly by fixing their dependencies.
 - [gom](https://github.com/mattn/gom) - Go Manager - bundle for go.
 - [goop](https://github.com/nitrous-io/goop) - Simple dependency manager for Go (golang), inspired by Bundler.
 - [gop](https://github.com/lunny/gop) - Build and manage your Go applications out of GOPATH.
@@ -3259,7 +3259,7 @@ _Plugin for text editors and IDEs._
 - [generic](https://github.com/usk81/generic) - flexible data type for Go.
 - [genny](https://github.com/cheekybits/genny) - Elegant generics for Go.
 - [gocontracts](https://github.com/Parquery/gocontracts) - brings design-by-contract to Go by synchronizing the code with the documentation.
-- [godal](https://github.com/mafulong/godal) - Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm.
+- [godal](https://github.com/mafulong/godal) - Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm. ![stars](https://img.shields.io/badge/stars-18-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
 - [gonerics](https://github.com/bouk/gonerics) - Idiomatic Generics in Go.
 - [gotests](https://github.com/cweill/gotests) - Generate Go tests from your source code.
 - [gounit](https://github.com/hexdigest/gounit) - Generate Go tests using your own templates.
@@ -3433,7 +3433,7 @@ _Software written in Go._
 - [GoNB](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
 - [Gor](https://github.com/buger/gor) - Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time.
 - [Guora](https://github.com/meloalright/guora) - A self-hosted Quora like web application written in Go.
-- [hoofli](https://github.com/dnnrly/hoofli) - Generate PlantUML diagrams from Chrome or Firefox network inspections.
+- [hoofli](https://github.com/dnnrly/hoofli) - Generate PlantUML diagrams from Chrome or Firefox network inspections. ![stars](https://img.shields.io/badge/stars-8-blue) ![forks](https://img.shields.io/badge/forks-1-blue)
 - [hotswap](https://github.com/edwingeng/hotswap) - A complete solution to reload your go code without restarting your server, interrupting or blocking any ongoing procedure.
 - [hugo](https://gohugo.io/) - Fast and Modern Static Website Engine.
 - [ide](https://github.com/thestrukture/ide) - Browser accessible IDE. Designed for Go with Go.
