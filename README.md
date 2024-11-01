@@ -3106,7 +3106,7 @@ _Full stack web frameworks._
 - [catena](https://github.com/codemodus/catena) - http.Handler wrapper catenation (same API as "chain").
 - [chain](https://github.com/codemodus/chain) - Handler wrapper chaining with scoped data (net/context-based "middleware").
 - [gores](https://github.com/alioygur/gores) - Go package that handles HTML, JSON, XML and etc. responses. Useful for RESTful APIs.
-- [interpose](https://github.com/carbocation/interpose) - Minimalist net/http middleware for golang. ![stars](https://img.shields.io/badge/stars-294-blue) ![forks](https://img.shields.io/badge/forks-18-blue)
+- [interpose](https://github.com/carbocation/interpose) - Minimalist net/http middleware for golang.
 - [mediary](https://github.com/HereMobilityDevelopers/mediary) - add interceptors to `http.Client` to allow dumping/shaping/tracing/... of requests/responses.
 - [muxchain](https://github.com/stephens2424/muxchain) - Lightweight middleware for net/http.
 - [negroni](https://github.com/urfave/negroni) - Idiomatic HTTP middleware for Golang.
