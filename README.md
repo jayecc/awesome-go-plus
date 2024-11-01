@@ -332,7 +332,7 @@ _Libraries for building and working with bots._
 - [slackscot](https://github.com/alexandre-normand/slackscot) - Another framework for building Slack bots.
 - [tbot](https://github.com/yanzay/tbot) - Telegram bot server with API similar to net/http.
 - [telebot](https://github.com/tucnak/telebot) - Telegram bot framework is written in Go.
-- [telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation.
+- [telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation. ![stars](https://img.shields.io/badge/stars-551-blue) ![forks](https://img.shields.io/badge/forks-42-blue)
 - [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client.
 - [teleterm](https://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command.
 - [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
