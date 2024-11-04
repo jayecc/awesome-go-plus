@@ -407,12 +407,12 @@ _Libraries for building standard or basic Command Line applications._
 - [acmd](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go. ![stars](https://img.shields.io/badge/stars-115-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
 - [argparse](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module. ![stars](https://img.shields.io/badge/stars-607-blue) ![forks](https://img.shields.io/badge/forks-62-blue)
 - [argv](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax. ![stars](https://img.shields.io/badge/stars-41-blue) ![forks](https://img.shields.io/badge/forks-8-blue)
-- [carapace](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
-- [carapace-bin](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
-- [carapace-spec](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
-- [climax](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
-- [clîr](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free.
-- [cmd](https://github.com/posener/cmd) - Extends the standard `flag` package to support sub commands and more in idiomatic way.
+- [carapace](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra. ![stars](https://img.shields.io/badge/stars-387-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
+- [carapace-bin](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer. ![stars](https://img.shields.io/badge/stars-913-blue) ![forks](https://img.shields.io/badge/forks-49-blue)
+- [carapace-spec](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file. ![stars](https://img.shields.io/badge/stars-19-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
+- [climax](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command. ![stars](https://img.shields.io/badge/stars-217-blue) ![forks](https://img.shields.io/badge/forks-16-blue)
+- [clîr](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free. ![stars](https://img.shields.io/badge/stars-180-blue) ![forks](https://img.shields.io/badge/forks-18-blue)
+- [cmd](https://github.com/posener/cmd) - Extends the standard `flag` package to support sub commands and more in idiomatic way. ![stars](https://img.shields.io/badge/stars-40-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
 - [cmdr](https://github.com/hedzr/cmdr) - A POSIX/GNU style, getopt-like command-line UI Go library.
 - [cobra](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions.
 - [command-chain](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells.
