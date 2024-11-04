@@ -390,13 +390,13 @@ _Libraries for building Console Applications and Console User Interfaces._
 - [table](https://github.com/tomlazar/table) - Small library for terminal color based tables. ![stars](https://img.shields.io/badge/stars-51-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
 - [tabular](https://github.com/InVisionApp/tabular) - Print ASCII tables from command line utilities without the need to pass large sets of data to the API. ![stars](https://img.shields.io/badge/stars-76-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
 - [termbox-go](https://github.com/nsf/termbox-go) - Termbox is a library for creating cross-platform text-based interfaces. ![stars](https://img.shields.io/badge/stars-4669-blue) ![forks](https://img.shields.io/badge/forks-373-blue)
-- [termdash](https://github.com/mum4k/termdash) - Go terminal dashboard based on **termbox-go** and inspired by [termui](https://github.com/gizak/termui).
-- [termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications.
-- [termui](https://github.com/gizak/termui) - Go terminal dashboard based on **termbox-go** and inspired by [blessed-contrib](https://github.com/yaronn/blessed-contrib).
-- [uilive](https://github.com/gosuri/uilive) - Library for updating terminal output in real time.
-- [uiprogress](https://github.com/gosuri/uiprogress) - Flexible library to render progress bars in terminal applications.
-- [uitable](https://github.com/gosuri/uitable) - Library to improve readability in terminal apps using tabular data.
-- [yacspin](https://github.com/theckman/yacspin) - Yet Another CLi Spinner package, for working with terminal spinners.
+- [termdash](https://github.com/mum4k/termdash) - Go terminal dashboard based on **termbox-go** and inspired by [termui](https://github.com/gizak/termui). ![stars](https://img.shields.io/badge/stars-2720-blue) ![forks](https://img.shields.io/badge/forks-136-blue)
+- [termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications. ![stars](https://img.shields.io/badge/stars-1748-blue) ![forks](https://img.shields.io/badge/forks-71-blue)
+- [termui](https://github.com/gizak/termui) - Go terminal dashboard based on **termbox-go** and inspired by [blessed-contrib](https://github.com/yaronn/blessed-contrib). ![stars](https://img.shields.io/badge/stars-13198-blue) ![forks](https://img.shields.io/badge/forks-786-blue)
+- [uilive](https://github.com/gosuri/uilive) - Library for updating terminal output in real time. ![stars](https://img.shields.io/badge/stars-1696-blue) ![forks](https://img.shields.io/badge/forks-87-blue)
+- [uiprogress](https://github.com/gosuri/uiprogress) - Flexible library to render progress bars in terminal applications. ![stars](https://img.shields.io/badge/stars-2106-blue) ![forks](https://img.shields.io/badge/forks-127-blue)
+- [uitable](https://github.com/gosuri/uitable) - Library to improve readability in terminal apps using tabular data. ![stars](https://img.shields.io/badge/stars-736-blue) ![forks](https://img.shields.io/badge/forks-33-blue)
+- [yacspin](https://github.com/theckman/yacspin) - Yet Another CLi Spinner package, for working with terminal spinners. ![stars](https://img.shields.io/badge/stars-440-blue) ![forks](https://img.shields.io/badge/forks-11-blue)
 
 **[⬆ back to top](#contents)**
 
@@ -404,9 +404,9 @@ _Libraries for building Console Applications and Console User Interfaces._
 
 _Libraries for building standard or basic Command Line applications._
 
-- [acmd](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
-- [argparse](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
-- [argv](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
+- [acmd](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go. ![stars](https://img.shields.io/badge/stars-115-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
+- [argparse](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module. ![stars](https://img.shields.io/badge/stars-607-blue) ![forks](https://img.shields.io/badge/forks-62-blue)
+- [argv](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax. ![stars](https://img.shields.io/badge/stars-41-blue) ![forks](https://img.shields.io/badge/forks-8-blue)
 - [carapace](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
 - [carapace-bin](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 - [carapace-spec](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
