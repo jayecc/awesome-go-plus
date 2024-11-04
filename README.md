@@ -446,13 +446,13 @@ _Libraries for building standard or basic Command Line applications._
 - [strumt](https://github.com/antham/strumt) - Library to create prompt chain. ![stars](https://img.shields.io/badge/stars-61-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
 - [subcmd](https://github.com/bobg/subcmd) - Another approach to parsing and running subcommands. Works alongside the standard `flag` package.
 - [survey](https://github.com/go-survey/survey) - Build interactive and accessible prompts with full support for windows and posix terminals. ![stars](https://img.shields.io/badge/stars-4092-blue) ![forks](https://img.shields.io/badge/forks-355-blue)
-- [teris-io/cli](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
-- [ts](https://github.com/liujianping/ts) - Timestamp convert & compare tool.
-- [ukautz/clif](https://github.com/ukautz/clif) - Small command line interface framework.
-- [urfave/cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).
-- [version](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
-- [wlog](https://github.com/dixonwille/wlog) - Simple logging interface that supports cross-platform color and concurrency.
-- [wmenu](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
+- [teris-io/cli](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go. ![stars](https://img.shields.io/badge/stars-130-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
+- [ts](https://github.com/liujianping/ts) - Timestamp convert & compare tool. ![stars](https://img.shields.io/badge/stars-20-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
+- [ukautz/clif](https://github.com/ukautz/clif) - Small command line interface framework. ![stars](https://img.shields.io/badge/stars-129-blue) ![forks](https://img.shields.io/badge/forks-14-blue)
+- [urfave/cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli). ![stars](https://img.shields.io/badge/stars-22334-blue) ![forks](https://img.shields.io/badge/forks-1708-blue)
+- [version](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice. ![stars](https://img.shields.io/badge/stars-101-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
+- [wlog](https://github.com/dixonwille/wlog) - Simple logging interface that supports cross-platform color and concurrency. ![stars](https://img.shields.io/badge/stars-66-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
+- [wmenu](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices. ![stars](https://img.shields.io/badge/stars-216-blue) ![forks](https://img.shields.io/badge/forks-24-blue)
 
 **[⬆ back to top](#contents)**
 
@@ -460,9 +460,9 @@ _Libraries for building standard or basic Command Line applications._
 
 _Libraries for configuration parsing._
 
-- [aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
+- [aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader. ![stars](https://img.shields.io/badge/stars-548-blue) ![forks](https://img.shields.io/badge/forks-32-blue)
 - [bcl](https://github.com/wkhere/bcl) - BCL is a configuration language similar to HCL.
-- [cleanenv](https://github.com/ilyakaznacheev/cleanenv) - Minimalistic configuration reader (from files, ENV, and wherever you want).
+- [cleanenv](https://github.com/ilyakaznacheev/cleanenv) - Minimalistic configuration reader (from files, ENV, and wherever you want). ![stars](https://img.shields.io/badge/stars-1651-blue) ![forks](https://img.shields.io/badge/forks-115-blue)
 - [config](https://github.com/JeremyLoy/config) - Cloud native application configuration. Bind ENV to structs in only two lines.
 - [config](https://github.com/num30/config) - configure your app using file, environment variables, or flags in two lines of code
 - [configuration](https://github.com/BoRuDar/configuration) - Library for initializing configuration structs from env variables, files, flags and 'default' tag.
