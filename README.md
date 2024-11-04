@@ -380,16 +380,16 @@ _Libraries for building Console Applications and Console User Interfaces._
 - [gommon/color](https://github.com/labstack/gommon/tree/master/color) - Style terminal text. ![stars](https://img.shields.io/badge/stars-541-blue) ![forks](https://img.shields.io/badge/forks-101-blue)
 - [gookit/color](https://github.com/gookit/color) - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows. ![stars](https://img.shields.io/badge/stars-1511-blue) ![forks](https://img.shields.io/badge/forks-88-blue)
 - [lipgloss](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal. ![stars](https://img.shields.io/badge/stars-8097-blue) ![forks](https://img.shields.io/badge/forks-230-blue)
-- [marker](https://github.com/cyucelen/marker) - Easiest way to match and mark strings for colorful terminal outputs.
-- [mpb](https://github.com/vbauerster/mpb) - Multi progress bar for terminal applications.
-- [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progress bar that works in every OS.
-- [pterm](https://github.com/pterm/pterm) - A library to beautify console output on every platform with many combinable components.
-- [simpletable](https://github.com/alexeyco/simpletable) - Simple tables in a terminal with Go.
-- [spinner](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options.
-- [tabby](https://github.com/cheynewallace/tabby) - A tiny library for super simple Golang tables.
-- [table](https://github.com/tomlazar/table) - Small library for terminal color based tables.
-- [tabular](https://github.com/InVisionApp/tabular) - Print ASCII tables from command line utilities without the need to pass large sets of data to the API.
-- [termbox-go](https://github.com/nsf/termbox-go) - Termbox is a library for creating cross-platform text-based interfaces.
+- [marker](https://github.com/cyucelen/marker) - Easiest way to match and mark strings for colorful terminal outputs. ![stars](https://img.shields.io/badge/stars-48-blue) ![forks](https://img.shields.io/badge/forks-13-blue)
+- [mpb](https://github.com/vbauerster/mpb) - Multi progress bar for terminal applications. ![stars](https://img.shields.io/badge/stars-2317-blue) ![forks](https://img.shields.io/badge/forks-123-blue)
+- [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progress bar that works in every OS. ![stars](https://img.shields.io/badge/stars-4129-blue) ![forks](https://img.shields.io/badge/forks-221-blue)
+- [pterm](https://github.com/pterm/pterm) - A library to beautify console output on every platform with many combinable components. ![stars](https://img.shields.io/badge/stars-4829-blue) ![forks](https://img.shields.io/badge/forks-197-blue)
+- [simpletable](https://github.com/alexeyco/simpletable) - Simple tables in a terminal with Go. ![stars](https://img.shields.io/badge/stars-529-blue) ![forks](https://img.shields.io/badge/forks-31-blue)
+- [spinner](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options. ![stars](https://img.shields.io/badge/stars-2345-blue) ![forks](https://img.shields.io/badge/forks-129-blue)
+- [tabby](https://github.com/cheynewallace/tabby) - A tiny library for super simple Golang tables. ![stars](https://img.shields.io/badge/stars-355-blue) ![forks](https://img.shields.io/badge/forks-18-blue)
+- [table](https://github.com/tomlazar/table) - Small library for terminal color based tables. ![stars](https://img.shields.io/badge/stars-51-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
+- [tabular](https://github.com/InVisionApp/tabular) - Print ASCII tables from command line utilities without the need to pass large sets of data to the API. ![stars](https://img.shields.io/badge/stars-76-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
+- [termbox-go](https://github.com/nsf/termbox-go) - Termbox is a library for creating cross-platform text-based interfaces. ![stars](https://img.shields.io/badge/stars-4669-blue) ![forks](https://img.shields.io/badge/forks-373-blue)
 - [termdash](https://github.com/mum4k/termdash) - Go terminal dashboard based on **termbox-go** and inspired by [termui](https://github.com/gizak/termui).
 - [termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications.
 - [termui](https://github.com/gizak/termui) - Go terminal dashboard based on **termbox-go** and inspired by [blessed-contrib](https://github.com/yaronn/blessed-contrib).
