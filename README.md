@@ -370,16 +370,16 @@ _Libraries for building Console Applications and Console User Interfaces._
 - [colourize](https://github.com/TreyBastian/colourize) - Go library for ANSI colour text in terminals. ![stars](https://img.shields.io/badge/stars-27-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
 - [crab-config-files-templating](https://github.com/alfiankan/crab-config-files-templating) - Dynamic configuration file templating tool for kubernetes manifest or general configuration files.
 - [ctc](https://github.com/wzshiming/ctc) - The non-invasive cross-platform terminal color library does not need to modify the Print method. ![stars](https://img.shields.io/badge/stars-47-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [go-ataman](https://github.com/workanator/go-ataman) - Go library for rendering ANSI colored text templates in terminals.
-- [go-colorable](https://github.com/mattn/go-colorable) - Colorable writer for windows.
-- [go-colortext](https://github.com/daviddengcn/go-colortext) - Go library for color output in terminals.
-- [go-isatty](https://github.com/mattn/go-isatty) - isatty for golang.
-- [go-palette](https://github.com/abusomani/go-palette) - Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the [fmt library](https://pkg.go.dev/fmt) for nice terminal layouts.
-- [go-prompt](https://github.com/c-bata/go-prompt) - Library for building a powerful interactive prompt, inspired by [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit).
-- [gocui](https://github.com/jroimartin/gocui) - Minimalist Go library aimed at creating Console User Interfaces.
-- [gommon/color](https://github.com/labstack/gommon/tree/master/color) - Style terminal text.
-- [gookit/color](https://github.com/gookit/color) - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows.
-- [lipgloss](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
+- [go-ataman](https://github.com/workanator/go-ataman) - Go library for rendering ANSI colored text templates in terminals. ![stars](https://img.shields.io/badge/stars-17-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
+- [go-colorable](https://github.com/mattn/go-colorable) - Colorable writer for windows. ![stars](https://img.shields.io/badge/stars-766-blue) ![forks](https://img.shields.io/badge/forks-93-blue)
+- [go-colortext](https://github.com/daviddengcn/go-colortext) - Go library for color output in terminals. ![stars](https://img.shields.io/badge/stars-214-blue) ![forks](https://img.shields.io/badge/forks-22-blue)
+- [go-isatty](https://github.com/mattn/go-isatty) - isatty for golang. ![stars](https://img.shields.io/badge/stars-832-blue) ![forks](https://img.shields.io/badge/forks-108-blue)
+- [go-palette](https://github.com/abusomani/go-palette) - Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the [fmt library](https://pkg.go.dev/fmt) for nice terminal layouts. ![stars](https://img.shields.io/badge/stars-17-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
+- [go-prompt](https://github.com/c-bata/go-prompt) - Library for building a powerful interactive prompt, inspired by [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit). ![stars](https://img.shields.io/badge/stars-5288-blue) ![forks](https://img.shields.io/badge/forks-348-blue)
+- [gocui](https://github.com/jroimartin/gocui) - Minimalist Go library aimed at creating Console User Interfaces. ![stars](https://img.shields.io/badge/stars-9908-blue) ![forks](https://img.shields.io/badge/forks-610-blue)
+- [gommon/color](https://github.com/labstack/gommon/tree/master/color) - Style terminal text. ![stars](https://img.shields.io/badge/stars-541-blue) ![forks](https://img.shields.io/badge/forks-101-blue)
+- [gookit/color](https://github.com/gookit/color) - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows. ![stars](https://img.shields.io/badge/stars-1511-blue) ![forks](https://img.shields.io/badge/forks-88-blue)
+- [lipgloss](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal. ![stars](https://img.shields.io/badge/stars-8097-blue) ![forks](https://img.shields.io/badge/forks-230-blue)
 - [marker](https://github.com/cyucelen/marker) - Easiest way to match and mark strings for colorful terminal outputs.
 - [mpb](https://github.com/vbauerster/mpb) - Multi progress bar for terminal applications.
 - [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progress bar that works in every OS.
@@ -2539,7 +2539,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 - [address](https://github.com/bojanz/address) - Handles address representation, validation and formatting.
 - [align](https://github.com/Guitarbum722/align) - A general purpose application that aligns text.
-- [bytes](https://github.com/labstack/gommon/tree/master/bytes) - Formats and parses numeric byte values (10K, 2M, 3G, etc.).
+- [bytes](https://github.com/labstack/gommon/tree/master/bytes) - Formats and parses numeric byte values (10K, 2M, 3G, etc.). ![stars](https://img.shields.io/badge/stars-541-blue) ![forks](https://img.shields.io/badge/forks-101-blue)
 - [go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth) - Fixed-width text formatting (encoder/decoder with reflection).
 - [go-humanize](https://github.com/dustin/go-humanize) - Formatters for time, numbers, and memory size to human readable format.
 - [gotabulate](https://github.com/bndr/gotabulate) - Easily pretty-print your tabular data with Go.
