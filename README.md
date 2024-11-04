@@ -312,20 +312,20 @@ _Libraries for building and working with bots._
 - [go-tgbot](https://github.com/olebedev/go-tgbot) - Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based router, and middleware. ![stars](https://img.shields.io/badge/stars-121-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
 - [go-twitch-irc](https://github.com/gempir/go-twitch-irc) - Library to write bots for twitch.tv chat ![stars](https://img.shields.io/badge/stars-357-blue) ![forks](https://img.shields.io/badge/forks-59-blue)
 - [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) - A golang implementation of a console-based trading bot for cryptocurrency exchanges. ![stars](https://img.shields.io/badge/stars-1078-blue) ![forks](https://img.shields.io/badge/forks-243-blue)
-- [govkbot](https://github.com/nikepan/govkbot) - Simple Go [VK](https://vk.com) bot library.
-- [hanu](https://github.com/sbstjn/hanu) - Framework for writing Slack bots.
-- [Kelp](https://github.com/stellar/kelp) - official trading and market-making bot for the [Stellar](https://www.stellar.org/) DEX. Works out-of-the-box, written in Golang, compatible with centralized exchanges and custom trading strategies.
-- [larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a really simple Twitter bot generator that tweets random repositories from Github built in Go.
-- [margelet](https://github.com/zhulik/margelet) - Framework for building Telegram bots.
-- [micha](https://github.com/onrik/micha) - Go Library for Telegram bot api.
-- [olivia](https://github.com/olivia-ai/olivia) - A chatbot built with an artificial neural network.
-- [slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack Bot for lazy developers: Custom commands, Jenkins, Jira, Bitbucket, Github...
-- [slacker](https://github.com/slack-io/slacker) - Easy to use framework to create Slack bots.
-- [slackscot](https://github.com/alexandre-normand/slackscot) - Another framework for building Slack bots.
-- [tbot](https://github.com/yanzay/tbot) - Telegram bot server with API similar to net/http.
-- [telebot](https://github.com/tucnak/telebot) - Telegram bot framework is written in Go.
-- [telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation.
-- [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client.
+- [govkbot](https://github.com/nikepan/govkbot) - Simple Go [VK](https://vk.com) bot library. ![stars](https://img.shields.io/badge/stars-51-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
+- [hanu](https://github.com/sbstjn/hanu) - Framework for writing Slack bots. ![stars](https://img.shields.io/badge/stars-155-blue) ![forks](https://img.shields.io/badge/forks-25-blue)
+- [Kelp](https://github.com/stellar/kelp) - official trading and market-making bot for the [Stellar](https://www.stellar.org/) DEX. Works out-of-the-box, written in Golang, compatible with centralized exchanges and custom trading strategies. ![stars](https://img.shields.io/badge/stars-1101-blue) ![forks](https://img.shields.io/badge/forks-260-blue)
+- [larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a really simple Twitter bot generator that tweets random repositories from Github built in Go. ![stars](https://img.shields.io/badge/stars-162-blue) ![forks](https://img.shields.io/badge/forks-29-blue)
+- [margelet](https://github.com/zhulik/margelet) - Framework for building Telegram bots. ![stars](https://img.shields.io/badge/stars-87-blue) ![forks](https://img.shields.io/badge/forks-15-blue)
+- [micha](https://github.com/onrik/micha) - Go Library for Telegram bot api. ![stars](https://img.shields.io/badge/stars-31-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
+- [olivia](https://github.com/olivia-ai/olivia) - A chatbot built with an artificial neural network. ![stars](https://img.shields.io/badge/stars-3681-blue) ![forks](https://img.shields.io/badge/forks-351-blue)
+- [slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack Bot for lazy developers: Custom commands, Jenkins, Jira, Bitbucket, Github... ![stars](https://img.shields.io/badge/stars-182-blue) ![forks](https://img.shields.io/badge/forks-43-blue)
+- [slacker](https://github.com/slack-io/slacker) - Easy to use framework to create Slack bots. ![stars](https://img.shields.io/badge/stars-42-blue) ![forks](https://img.shields.io/badge/forks-13-blue)
+- [slackscot](https://github.com/alexandre-normand/slackscot) - Another framework for building Slack bots. ![stars](https://img.shields.io/badge/stars-56-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
+- [tbot](https://github.com/yanzay/tbot) - Telegram bot server with API similar to net/http. ![stars](https://img.shields.io/badge/stars-356-blue) ![forks](https://img.shields.io/badge/forks-55-blue)
+- [telebot](https://github.com/tucnak/telebot) - Telegram bot framework is written in Go. ![stars](https://img.shields.io/badge/stars-4003-blue) ![forks](https://img.shields.io/badge/forks-466-blue)
+- [telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation. ![stars](https://img.shields.io/badge/stars-553-blue) ![forks](https://img.shields.io/badge/forks-42-blue)
+- [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client. ![stars](https://img.shields.io/badge/stars-5803-blue) ![forks](https://img.shields.io/badge/forks-895-blue)
 - [teleterm](https://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command.
 - [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
 - [wayback](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
