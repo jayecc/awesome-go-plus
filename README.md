@@ -342,13 +342,13 @@ _Libraries and tools help with build automation._
 - [gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes. ![stars](https://img.shields.io/badge/stars-81-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
 - [gilbert](https://go-gilbert.github.io) - Build system and task runner for Go projects.
 - [gob](https://github.com/kcmvp/gob) - [Gradle](https://docs.gradle.org/)/[Maven](https://maven.apache.org/) like build tool for Go projects.
-- [goyek](https://github.com/goyek/goyek) - Create build pipelines in Go.
-- [mage](https://github.com/magefile/mage) - Mage is a make/rake-like build tool using Go.
-- [mmake](https://github.com/tj/mmake) - Modern Make.
-- [realize](https://github.com/tockins/realize) - Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths.
-- [Task](https://github.com/go-task/task) - simple "Make" alternative.
-- [taskctl](https://github.com/taskctl/taskctl) - Concurrent task runner.
-- [xc](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
+- [goyek](https://github.com/goyek/goyek) - Create build pipelines in Go. ![stars](https://img.shields.io/badge/stars-569-blue) ![forks](https://img.shields.io/badge/forks-29-blue)
+- [mage](https://github.com/magefile/mage) - Mage is a make/rake-like build tool using Go. ![stars](https://img.shields.io/badge/stars-4143-blue) ![forks](https://img.shields.io/badge/forks-257-blue)
+- [mmake](https://github.com/tj/mmake) - Modern Make. ![stars](https://img.shields.io/badge/stars-1721-blue) ![forks](https://img.shields.io/badge/forks-42-blue)
+- [realize](https://github.com/tockins/realize) - Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. ![stars](https://img.shields.io/badge/stars-4459-blue) ![forks](https://img.shields.io/badge/forks-229-blue)
+- [Task](https://github.com/go-task/task) - simple "Make" alternative. ![stars](https://img.shields.io/badge/stars-11360-blue) ![forks](https://img.shields.io/badge/forks-612-blue)
+- [taskctl](https://github.com/taskctl/taskctl) - Concurrent task runner. ![stars](https://img.shields.io/badge/stars-294-blue) ![forks](https://img.shields.io/badge/forks-38-blue)
+- [xc](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown. ![stars](https://img.shields.io/badge/stars-1192-blue) ![forks](https://img.shields.io/badge/forks-26-blue)
 
 **[⬆ back to top](#contents)**
 
@@ -358,8 +358,8 @@ _Libraries and tools help with build automation._
 
 _Libraries for building Console Applications and Console User Interfaces._
 
-- [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
-- [aurora](https://github.com/logrusorgru/aurora) - ANSI terminal colors that support fmt.Printf/Sprintf.
+- [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies. ![stars](https://img.shields.io/badge/stars-2673-blue) ![forks](https://img.shields.io/badge/forks-100-blue)
+- [aurora](https://github.com/logrusorgru/aurora) - ANSI terminal colors that support fmt.Printf/Sprintf. ![stars](https://img.shields.io/badge/stars-1423-blue) ![forks](https://img.shields.io/badge/forks-57-blue)
 - [box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI.
 - [bubble-table](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
 - [bubbles](https://github.com/charmbracelet/bubbles) - TUI components for bubbletea.
