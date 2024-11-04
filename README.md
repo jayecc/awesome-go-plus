@@ -413,16 +413,16 @@ _Libraries for building standard or basic Command Line applications._
 - [climax](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command. ![stars](https://img.shields.io/badge/stars-217-blue) ![forks](https://img.shields.io/badge/forks-16-blue)
 - [clîr](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free. ![stars](https://img.shields.io/badge/stars-180-blue) ![forks](https://img.shields.io/badge/forks-18-blue)
 - [cmd](https://github.com/posener/cmd) - Extends the standard `flag` package to support sub commands and more in idiomatic way. ![stars](https://img.shields.io/badge/stars-40-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [cmdr](https://github.com/hedzr/cmdr) - A POSIX/GNU style, getopt-like command-line UI Go library.
-- [cobra](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions.
-- [command-chain](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells.
-- [commandeer](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
-- [complete](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion.
-- [Dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
-- [elvish](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell.
-- [env](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
-- [flag](https://github.com/cosiner/flag) - Simple but powerful command line option parsing library for Go supporting subcommand.
-- [flaggy](https://github.com/integrii/flaggy) - A robust and idiomatic flags package with excellent subcommand support.
+- [cmdr](https://github.com/hedzr/cmdr) - A POSIX/GNU style, getopt-like command-line UI Go library. ![stars](https://img.shields.io/badge/stars-136-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
+- [cobra](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions. ![stars](https://img.shields.io/badge/stars-38144-blue) ![forks](https://img.shields.io/badge/forks-2851-blue)
+- [command-chain](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells. ![stars](https://img.shields.io/badge/stars-61-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
+- [commandeer](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags. ![stars](https://img.shields.io/badge/stars-174-blue) ![forks](https://img.shields.io/badge/forks-16-blue)
+- [complete](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion. ![stars](https://img.shields.io/badge/stars-929-blue) ![forks](https://img.shields.io/badge/forks-72-blue)
+- [Dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync. ![stars](https://img.shields.io/badge/stars-2793-blue) ![forks](https://img.shields.io/badge/forks-118-blue)
+- [elvish](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell. ![stars](https://img.shields.io/badge/stars-5672-blue) ![forks](https://img.shields.io/badge/forks-300-blue)
+- [env](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs. ![stars](https://img.shields.io/badge/stars-113-blue) ![forks](https://img.shields.io/badge/forks-14-blue)
+- [flag](https://github.com/cosiner/flag) - Simple but powerful command line option parsing library for Go supporting subcommand. ![stars](https://img.shields.io/badge/stars-131-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
+- [flaggy](https://github.com/integrii/flaggy) - A robust and idiomatic flags package with excellent subcommand support. ![stars](https://img.shields.io/badge/stars-858-blue) ![forks](https://img.shields.io/badge/forks-31-blue)
 - [flagvar](https://github.com/sgreben/flagvar) - A collection of flag argument types for Go's standard `flag` package.
 - [go-andotp](https://github.com/grijul/go-andotp) - A CLI program to encrypt/decrypt [andOTP](https://github.com/andOTP/andOTP) files. Can be used as a library as well.
 - [go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go.
