@@ -326,9 +326,9 @@ _Libraries for building and working with bots._
 - [telebot](https://github.com/tucnak/telebot) - Telegram bot framework is written in Go. ![stars](https://img.shields.io/badge/stars-4003-blue) ![forks](https://img.shields.io/badge/forks-466-blue)
 - [telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation. ![stars](https://img.shields.io/badge/stars-553-blue) ![forks](https://img.shields.io/badge/forks-42-blue)
 - [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client. ![stars](https://img.shields.io/badge/stars-5803-blue) ![forks](https://img.shields.io/badge/forks-895-blue)
-- [teleterm](https://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command.
-- [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
-- [wayback](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+- [teleterm](https://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command. ![stars](https://img.shields.io/badge/stars-38-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
+- [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging. ![stars](https://img.shields.io/badge/stars-177-blue) ![forks](https://img.shields.io/badge/forks-19-blue)
+- [wayback](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. ![stars](https://img.shields.io/badge/stars-1799-blue) ![forks](https://img.shields.io/badge/forks-64-blue)
 
 **[⬆ back to top](#contents)**
 
@@ -336,10 +336,10 @@ _Libraries for building and working with bots._
 
 _Libraries and tools help with build automation._
 
-- [1build](https://github.com/gopinath-langote/1build) - Command line tool to frictionlessly manage project-specific commands.
-- [air](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
-- [anko](https://github.com/GuilhermeCaruso/anko) - Simple application watcher for multiple programming languages.
-- [gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes.
+- [1build](https://github.com/gopinath-langote/1build) - Command line tool to frictionlessly manage project-specific commands. ![stars](https://img.shields.io/badge/stars-227-blue) ![forks](https://img.shields.io/badge/forks-30-blue)
+- [air](https://github.com/cosmtrek/air) - Air - Live reload for Go apps. ![stars](https://img.shields.io/badge/stars-18055-blue) ![forks](https://img.shields.io/badge/forks-811-blue)
+- [anko](https://github.com/GuilhermeCaruso/anko) - Simple application watcher for multiple programming languages. ![stars](https://img.shields.io/badge/stars-39-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
+- [gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes. ![stars](https://img.shields.io/badge/stars-81-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
 - [gilbert](https://go-gilbert.github.io) - Build system and task runner for Go projects.
 - [gob](https://github.com/kcmvp/gob) - [Gradle](https://docs.gradle.org/)/[Maven](https://maven.apache.org/) like build tool for Go projects.
 - [goyek](https://github.com/goyek/goyek) - Create build pipelines in Go.
