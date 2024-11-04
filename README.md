@@ -256,17 +256,17 @@ _Libraries for implementing authentication schemes._
 - [gosession](https://github.com/Kwynto/gosession) - This is quick session for net/http in GoLang. This package is perhaps the best implementation of the session mechanism, or at least it tries to become one. ![stars](https://img.shields.io/badge/stars-251-blue) ![forks](https://img.shields.io/badge/forks-17-blue)
 - [goth](https://github.com/markbates/goth) - provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box. ![stars](https://img.shields.io/badge/stars-5581-blue) ![forks](https://img.shields.io/badge/forks-596-blue)
 - [jeff](https://github.com/abraithwaite/jeff) - Simple, flexible, secure, and idiomatic web session management with pluggable backends. ![stars](https://img.shields.io/badge/stars-266-blue) ![forks](https://img.shields.io/badge/forks-17-blue)
-- [jwt](https://github.com/pascaldekloe/jwt) - Lightweight JSON Web Token (JWT) library.
-- [jwt](https://github.com/cristalhq/jwt) - Safe, simple, and fast JSON Web Tokens for Go.
-- [jwt-auth](https://github.com/adam-hanna/jwt-auth) - JWT middleware for Golang http servers with many configuration options.
-- [jwt-go](https://github.com/golang-jwt/jwt) - A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs.
-- [jwx](https://github.com/lestrrat-go/jwx) - Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies
-- [keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
-- [loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with pluggable backends such as OAuth2 (Github), htpasswd, osiam.
-- [oauth2](https://github.com/golang/oauth2) - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support.
-- [oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [openfga](https://github.com/openfga/openfga) - Implementation of fine-grained authorization based on the "Zanzibar: Google's Consistent, Global Authorization System" paper. Backed by [CNCF](https://www.cncf.io/).
-- [osin](https://github.com/openshift/osin) - Golang OAuth2 server library.
+- [jwt](https://github.com/pascaldekloe/jwt) - Lightweight JSON Web Token (JWT) library. ![stars](https://img.shields.io/badge/stars-354-blue) ![forks](https://img.shields.io/badge/forks-25-blue)
+- [jwt](https://github.com/cristalhq/jwt) - Safe, simple, and fast JSON Web Tokens for Go. ![stars](https://img.shields.io/badge/stars-670-blue) ![forks](https://img.shields.io/badge/forks-45-blue)
+- [jwt-auth](https://github.com/adam-hanna/jwt-auth) - JWT middleware for Golang http servers with many configuration options. ![stars](https://img.shields.io/badge/stars-231-blue) ![forks](https://img.shields.io/badge/forks-43-blue)
+- [jwt-go](https://github.com/golang-jwt/jwt) - A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs. ![stars](https://img.shields.io/badge/stars-7185-blue) ![forks](https://img.shields.io/badge/forks-346-blue)
+- [jwx](https://github.com/lestrrat-go/jwx) - Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies ![stars](https://img.shields.io/badge/stars-1945-blue) ![forks](https://img.shields.io/badge/forks-164-blue)
+- [keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. ![stars](https://img.shields.io/badge/stars-4822-blue) ![forks](https://img.shields.io/badge/forks-349-blue)
+- [loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with pluggable backends such as OAuth2 (Github), htpasswd, osiam. ![stars](https://img.shields.io/badge/stars-1920-blue) ![forks](https://img.shields.io/badge/forks-148-blue)
+- [oauth2](https://github.com/golang/oauth2) - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support. ![stars](https://img.shields.io/badge/stars-5381-blue) ![forks](https://img.shields.io/badge/forks-990-blue)
+- [oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation ![stars](https://img.shields.io/badge/stars-1390-blue) ![forks](https://img.shields.io/badge/forks-147-blue)
+- [openfga](https://github.com/openfga/openfga) - Implementation of fine-grained authorization based on the "Zanzibar: Google's Consistent, Global Authorization System" paper. Backed by [CNCF](https://www.cncf.io/). ![stars](https://img.shields.io/badge/stars-2875-blue) ![forks](https://img.shields.io/badge/forks-205-blue)
+- [osin](https://github.com/openshift/osin) - Golang OAuth2 server library. ![stars](https://img.shields.io/badge/stars-1913-blue) ![forks](https://img.shields.io/badge/forks-399-blue)
 - [otpgen](https://github.com/grijul/otpgen) - Library to generate TOTP/HOTP codes.
 - [otpgo](https://github.com/jltorresm/otpgo) - Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go.
 - [paseto](https://github.com/o1egl/paseto) - Golang implementation of Platform-Agnostic Security Tokens (PASETO).
