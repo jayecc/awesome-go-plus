@@ -207,20 +207,20 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 _Libraries for building actor-based programs._
 
-- [Goakt](https://github.com/Tochemey/goakt) - Fast and Distributed Actor framework using protocol buffers as message for Golang. ![stars](https://img.shields.io/badge/stars-3661-blue) ![forks](https://img.shields.io/badge/forks-143-blue)
-- [Hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang. ![stars](https://img.shields.io/badge/stars-187-blue) ![forks](https://img.shields.io/badge/forks-13-blue)
-- [ProtoActor](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin. ![stars](https://img.shields.io/badge/stars-1203-blue) ![forks](https://img.shields.io/badge/forks-101-blue)
- ![stars](https://img.shields.io/badge/stars-5072-blue) ![forks](https://img.shields.io/badge/forks-522-blue)
+- [Ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.
+- [Goakt](https://github.com/Tochemey/goakt) - Fast and Distributed Actor framework using protocol buffers as message for Golang.
+- [Hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang.
+- [ProtoActor](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
 
 ## Artificial Intelligence
 
 _Libraries for building programs that leverage AI._
 
-- [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go. ![stars](https://img.shields.io/badge/stars-277-blue) ![forks](https://img.shields.io/badge/forks-20-blue)
+- [chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 - [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
-- [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models. ![stars](https://img.shields.io/badge/stars-4565-blue) ![forks](https://img.shields.io/badge/forks-620-blue)
-- [Ollama](https://github.com/jmorganca/ollama) - Run large language models locally. ![stars](https://img.shields.io/badge/stars-24361-blue) ![forks](https://img.shields.io/badge/forks-1868-blue)
-- [OllamaFarm](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas ![stars](https://img.shields.io/badge/stars-96142-blue) ![forks](https://img.shields.io/badge/forks-7635-blue)
+- [langchaingo](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
+- [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
+- [Ollama](https://github.com/jmorganca/ollama) - Run large language models locally.
 - [OllamaFarm](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas
 
 **[⬆ back to top](#contents)**
