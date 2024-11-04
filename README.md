@@ -326,7 +326,7 @@ _Libraries for building and working with bots._
 - [telebot](https://github.com/tucnak/telebot) - Telegram bot framework is written in Go.
 - [telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation.
 - [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client.
-- [teleterm](https://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command.
+- [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging. ![stars](https://img.shields.io/badge/stars-177-blue) ![forks](https://img.shields.io/badge/forks-19-blue)
 - [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
 - [wayback](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
@@ -2254,7 +2254,7 @@ _Libraries for scientific computing and data analyzing._
 - [ode](https://github.com/ChristopherRabotin/ode) - Ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions.
 - [orb](https://github.com/paulmach/orb) - 2D geometry types with clipping, GeoJSON and Mapbox Vector Tile support.
 - [pagerank](https://github.com/alixaxel/pagerank) - Weighted PageRank algorithm implemented in Go.
-- [piecewiselinear](https://github.com/sgreben/piecewiselinear) - Tiny linear interpolation library.
+- [PiHex](https://github.com/claygod/PiHex) - Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi. ![stars](https://img.shields.io/badge/stars-20-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
 - [PiHex](https://github.com/claygod/PiHex) - Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi.
 - [Poly](https://github.com/bebop/poly) - A Go package for engineering organisms.
 - [rootfinding](https://github.com/khezen/rootfinding) - root-finding algorithms library for finding roots of quadratic functions.
@@ -3050,7 +3050,7 @@ _Full stack web frameworks._
 - [Huma](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 - [iWF](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
 - [Lit](https://github.com/jvcoutinho/lit) - Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
-- [Macaron](https://github.com/go-macaron/macaron) - Macaron is a high productive and modular design web framework in Go.
+- [mango](https://github.com/paulbellamy/mango) - Mango is a modular web-application framework for Go, inspired by Rack, and PEP333. ![stars](https://img.shields.io/badge/stars-372-blue) ![forks](https://img.shields.io/badge/forks-38-blue)
 - [mango](https://github.com/paulbellamy/mango) - Mango is a modular web-application framework for Go, inspired by Rack, and PEP333.
 - [Microservice](https://github.com/claygod/microservice) - The framework for the creation of microservices, written in Golang.
 - [neo](https://github.com/ivpusic/neo) - Neo is minimal and fast Go Web Framework with extremely simple API.
@@ -3213,7 +3213,7 @@ _Source code analysis tools, also known as Static Application Security Testing (
 - [staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
 - [testifylint](https://github.com/Antonboom/testifylint) – A linter that checks usage of [github.com/stretchr/testify](https://github.com/stretchr/testify).
 - [tickgit](https://github.com/augmentable-dev/tickgit) - CLI and go package for surfacing code comment TODOs (in any language) and applying a `git blame`to identify the author.
-- [todocheck](https://github.com/preslavmihaylov/todocheck) - Static code analyser which links TODO comments in code with issues in your issue tracker.
+- [unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source. ![stars](https://img.shields.io/badge/stars-378-blue) ![forks](https://img.shields.io/badge/forks-26-blue)
 - [unconvert](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 - [usestdlibvars](https://github.com/sashamelentyev/usestdlibvars) - A linter that detect the possibility to use variables/constants from the Go standard library.
 - [vacuum](https://github.com/daveshanley/vacuum) - An ultra-super-fast, lightweight OpenAPI linter and quality checking tool.
@@ -3402,7 +3402,7 @@ _Software written in Go._
 - [borg](https://github.com/crufter/borg) - Terminal based search engine for bash snippets.
 - [boxed](https://github.com/tejo/boxed) - Dropbox based blog engine.
 - [Cherry](https://github.com/rafael-santiago/cherry) - Tiny webchat server in Go.
-- [Circuit](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
+- [Comcast](https://github.com/tylertreat/Comcast) - Simulate bad network connections. ![stars](https://img.shields.io/badge/stars-10312-blue) ![forks](https://img.shields.io/badge/forks-384-blue)
 - [Comcast](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 - [confd](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
 - [crawley](https://github.com/s0rg/crawley) - Web scraper/crawler for cli.
