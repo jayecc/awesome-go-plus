@@ -220,7 +220,7 @@ _Libraries for building programs that leverage AI._
 - [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
 - [langchaingo](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models. ![stars](https://img.shields.io/badge/stars-4570-blue) ![forks](https://img.shields.io/badge/forks-620-blue)
 - [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models. ![stars](https://img.shields.io/badge/stars-24381-blue) ![forks](https://img.shields.io/badge/forks-1868-blue)
-- [Ollama](https://github.com/jmorganca/ollama) - Run large language models locally.
+- [Ollama](https://github.com/jmorganca/ollama) - Run large language models locally. ![stars](https://img.shields.io/badge/stars-96268-blue) ![forks](https://img.shields.io/badge/forks-7644-blue)
 - [OllamaFarm](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas
 
 **[⬆ back to top](#contents)**
