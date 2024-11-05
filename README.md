@@ -341,7 +341,7 @@ _Libraries and tools help with build automation._
 - [anko](https://github.com/GuilhermeCaruso/anko) - Simple application watcher for multiple programming languages. ![stars](https://img.shields.io/badge/stars-39-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
 - [gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes. ![stars](https://img.shields.io/badge/stars-81-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
 - [gilbert](https://go-gilbert.github.io) - Build system and task runner for Go projects.
-- [gob](https://github.com/kcmvp/gob) - [Gradle](https://docs.gradle.org/)/[Maven](https://maven.apache.org/) like build tool for Go projects.
+- [gob](https://github.com/kcmvp/gob) - [Gradle](https://docs.gradle.org/)/[Maven](https://maven.apache.org/) like build tool for Go projects. ![stars](https://img.shields.io/badge/stars-11-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
 - [goyek](https://github.com/goyek/goyek) - Create build pipelines in Go. ![stars](https://img.shields.io/badge/stars-569-blue) ![forks](https://img.shields.io/badge/forks-29-blue)
 - [mage](https://github.com/magefile/mage) - Mage is a make/rake-like build tool using Go. ![stars](https://img.shields.io/badge/stars-4143-blue) ![forks](https://img.shields.io/badge/forks-257-blue)
 - [mmake](https://github.com/tj/mmake) - Modern Make. ![stars](https://img.shields.io/badge/stars-1721-blue) ![forks](https://img.shields.io/badge/forks-42-blue)
@@ -368,7 +368,7 @@ _Libraries for building Console Applications and Console User Interfaces._
 - [cfmt](https://github.com/i582/cfmt) - Simple and convenient formatted stylized output fully compatible with fmt library. ![stars](https://img.shields.io/badge/stars-68-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
 - [chalk](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output. ![stars](https://img.shields.io/badge/stars-451-blue) ![forks](https://img.shields.io/badge/forks-21-blue)
 - [colourize](https://github.com/TreyBastian/colourize) - Go library for ANSI colour text in terminals. ![stars](https://img.shields.io/badge/stars-27-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [crab-config-files-templating](https://github.com/alfiankan/crab-config-files-templating) - Dynamic configuration file templating tool for kubernetes manifest or general configuration files.
+- [crab-config-files-templating](https://github.com/alfiankan/crab-config-files-templating) - Dynamic configuration file templating tool for kubernetes manifest or general configuration files. ![stars](https://img.shields.io/badge/stars-7-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
 - [ctc](https://github.com/wzshiming/ctc) - The non-invasive cross-platform terminal color library does not need to modify the Print method. ![stars](https://img.shields.io/badge/stars-47-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
 - [go-ataman](https://github.com/workanator/go-ataman) - Go library for rendering ANSI colored text templates in terminals. ![stars](https://img.shields.io/badge/stars-17-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
 - [go-colorable](https://github.com/mattn/go-colorable) - Colorable writer for windows. ![stars](https://img.shields.io/badge/stars-766-blue) ![forks](https://img.shields.io/badge/forks-93-blue)
@@ -444,7 +444,7 @@ _Libraries for building standard or basic Command Line applications._
 - [sand](https://github.com/Zaba505/sand) - Simple API for creating interpreters and so much more. ![stars](https://img.shields.io/badge/stars-27-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
 - [sflags](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries. ![stars](https://img.shields.io/badge/stars-150-blue) ![forks](https://img.shields.io/badge/forks-37-blue)
 - [strumt](https://github.com/antham/strumt) - Library to create prompt chain. ![stars](https://img.shields.io/badge/stars-61-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [subcmd](https://github.com/bobg/subcmd) - Another approach to parsing and running subcommands. Works alongside the standard `flag` package.
+- [subcmd](https://github.com/bobg/subcmd) - Another approach to parsing and running subcommands. Works alongside the standard `flag` package. ![stars](https://img.shields.io/badge/stars-8-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
 - [survey](https://github.com/go-survey/survey) - Build interactive and accessible prompts with full support for windows and posix terminals. ![stars](https://img.shields.io/badge/stars-4092-blue) ![forks](https://img.shields.io/badge/forks-355-blue)
 - [teris-io/cli](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go. ![stars](https://img.shields.io/badge/stars-130-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
 - [ts](https://github.com/liujianping/ts) - Timestamp convert & compare tool. ![stars](https://img.shields.io/badge/stars-20-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
@@ -461,14 +461,14 @@ _Libraries for building standard or basic Command Line applications._
 _Libraries for configuration parsing._
 
 - [aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader. ![stars](https://img.shields.io/badge/stars-548-blue) ![forks](https://img.shields.io/badge/forks-32-blue)
-- [bcl](https://github.com/wkhere/bcl) - BCL is a configuration language similar to HCL.
+- [bcl](https://github.com/wkhere/bcl) - BCL is a configuration language similar to HCL. ![stars](https://img.shields.io/badge/stars-19-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
 - [cleanenv](https://github.com/ilyakaznacheev/cleanenv) - Minimalistic configuration reader (from files, ENV, and wherever you want). ![stars](https://img.shields.io/badge/stars-1651-blue) ![forks](https://img.shields.io/badge/forks-115-blue)
 - [config](https://github.com/JeremyLoy/config) - Cloud native application configuration. Bind ENV to structs in only two lines. ![stars](https://img.shields.io/badge/stars-336-blue) ![forks](https://img.shields.io/badge/forks-14-blue)
 - [config](https://github.com/num30/config) - configure your app using file, environment variables, or flags in two lines of code ![stars](https://img.shields.io/badge/stars-50-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
 - [configuration](https://github.com/BoRuDar/configuration) - Library for initializing configuration structs from env variables, files, flags and 'default' tag. ![stars](https://img.shields.io/badge/stars-108-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
 - [configure](https://github.com/paked/configure) - Provides configuration through multiple sources, including JSON, flags and environment variables. ![stars](https://img.shields.io/badge/stars-56-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
 - [configuro](https://github.com/sherifabdlnaby/configuro) - opinionated configuration loading & validation framework from ENV and Files focused towards 12-Factor compliant applications. ![stars](https://img.shields.io/badge/stars-94-blue) ![forks](https://img.shields.io/badge/forks-12-blue)
-- [confiq](https://github.com/greencoda/confiq) - Structured data format to config struct decoder library for Go - supporting multiple data formats
+- [confiq](https://github.com/greencoda/confiq) - Structured data format to config struct decoder library for Go - supporting multiple data formats ![stars](https://img.shields.io/badge/stars-35-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
 - [confita](https://github.com/heetch/confita) - Load configuration in cascade from multiple backends into a struct. ![stars](https://img.shields.io/badge/stars-495-blue) ![forks](https://img.shields.io/badge/forks-51-blue)
 - [conflate](https://github.com/the4thamigo-uk/conflate) - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema. ![stars](https://img.shields.io/badge/stars-32-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
 - [env](https://github.com/caarlos0/env) - Parse environment variables to Go structs (with defaults). ![stars](https://img.shields.io/badge/stars-4906-blue) ![forks](https://img.shields.io/badge/forks-252-blue)
@@ -478,14 +478,14 @@ _Libraries for configuration parsing._
 - [envh](https://github.com/antham/envh) - Helpers to manage environment variables. ![stars](https://img.shields.io/badge/stars-99-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
 - [fig](https://github.com/kkyr/fig) - Tiny library for reading configuration from a file and from environment variables (with validation & defaults). ![stars](https://img.shields.io/badge/stars-380-blue) ![forks](https://img.shields.io/badge/forks-31-blue)
 - [genv](https://github.com/sakirsensoy/genv) - Read environment variables easily with dotenv support. ![stars](https://img.shields.io/badge/stars-39-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
-- [go-array](https://github.com/deatil/go-array) - A Go package that read or set data from map, slice or json.
+- [go-array](https://github.com/deatil/go-array) - A Go package that read or set data from map, slice or json. ![stars](https://img.shields.io/badge/stars-19-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
 - [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) - Go package that fetches parameters from AWS System Manager - Parameter Store. ![stars](https://img.shields.io/badge/stars-59-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
 - [go-cfg](https://github.com/dsbasko/go-cfg) - The library provides a unified way to read configuration data into a structure from various sources, such as env, flags, and configuration files (.json, .yaml, .toml, .env). ![stars](https://img.shields.io/badge/stars-42-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
 - [go-conf](https://github.com/ThomasObenaus/go-conf) - Simple library for application configuration based on annotated structs. It supports reading the configuration from environment variables, config files and command line parameters. ![stars](https://img.shields.io/badge/stars-11-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
 - [go-ini](https://github.com/subpop/go-ini) - A Go package that marshals and unmarshals INI-files. ![stars](https://img.shields.io/badge/stars-14-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
 - [go-ssm-config](https://github.com/ianlopshire/go-ssm-config) - Go utility for loading configuration parameters from AWS SSM (Parameter Store). ![stars](https://img.shields.io/badge/stars-22-blue) ![forks](https://img.shields.io/badge/forks-13-blue)
 - [go-up](https://github.com/ufoscout/go-up) - A simple configuration library with recursive placeholders resolution and no magic. ![stars](https://img.shields.io/badge/stars-43-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
-- [GoCfg](https://github.com/Jagerente/gocfg) - Config manager with Struct Tags based contracts, custom value providers, parsers, and documentation generation. Customizable yet simple.
+- [GoCfg](https://github.com/Jagerente/gocfg) - Config manager with Struct Tags based contracts, custom value providers, parsers, and documentation generation. Customizable yet simple. ![stars](https://img.shields.io/badge/stars-6-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
 - [goConfig](https://github.com/crgimenes/goConfig) - Parses a struct as input and populates the fields of this struct with parameters from command line, environment variables and configuration file.
 - [godotenv](https://github.com/joho/godotenv) - Go port of Ruby's dotenv library (Loads environment variables from `.env`).
 - [gofigure](https://github.com/ian-kent/gofigure) - Go application configuration made easy.
