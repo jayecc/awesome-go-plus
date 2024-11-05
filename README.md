@@ -571,62 +571,62 @@ _Frameworks for performing ELT / ETL_
 - [bingo](https://github.com/iancmcc/bingo) - Fast, zero-allocation, lexicographical-order-preserving packing of native types to bytes. ![stars](https://img.shields.io/badge/stars-41-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
 - [binpacker](https://github.com/zhuangsirui/binpacker) - Binary packer and unpacker helps user build custom binary stream. ![stars](https://img.shields.io/badge/stars-220-blue) ![forks](https://img.shields.io/badge/forks-37-blue)
 - [bit](https://github.com/yourbasic/bit) - Golang set data structure with bonus bit-twiddling functions. ![stars](https://img.shields.io/badge/stars-158-blue) ![forks](https://img.shields.io/badge/forks-26-blue)
-- [crunch](https://github.com/superwhiskers/crunch) - Go package implementing buffers for handling various datatypes easily.
-- [go-ef](https://github.com/amallia/go-ef) - A Go implementation of the Elias-Fano encoding.
-- [roaring](https://github.com/RoaringBitmap/roaring) - Go package implementing compressed bitsets.
+- [crunch](https://github.com/superwhiskers/crunch) - Go package implementing buffers for handling various datatypes easily. ![stars](https://img.shields.io/badge/stars-97-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
+- [go-ef](https://github.com/amallia/go-ef) - A Go implementation of the Elias-Fano encoding. ![stars](https://img.shields.io/badge/stars-31-blue) ![forks](https://img.shields.io/badge/forks-8-blue)
+- [roaring](https://github.com/RoaringBitmap/roaring) - Go package implementing compressed bitsets. ![stars](https://img.shields.io/badge/stars-2519-blue) ![forks](https://img.shields.io/badge/forks-230-blue)
 
 ### Bit Sets
 
-- [bitmap](https://github.com/kelindar/bitmap) - Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go.
-- [bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets.
+- [bitmap](https://github.com/kelindar/bitmap) - Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go. ![stars](https://img.shields.io/badge/stars-308-blue) ![forks](https://img.shields.io/badge/forks-23-blue)
+- [bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets. ![stars](https://img.shields.io/badge/stars-1341-blue) ![forks](https://img.shields.io/badge/forks-175-blue)
 
 ### Bloom and Cuckoo Filters
 
-- [bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters.
-- [bloom](https://github.com/zhenjl/bloom) - Bloom filters implemented in Go.
-- [bloom](https://github.com/yourbasic/bloom) - Golang Bloom filter implementation.
-- [bloomfilter](https://github.com/OldPanda/bloomfilter) - Yet another Bloomfilter implementation in Go, compatible with Java's Guava library.
-- [boomfilters](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams.
-- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper are available.
-- [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo filter: a good alternative to a counting bloom filter implemented in Go.
-- [ring](https://github.com/TheTannerRyan/ring) - Go implementation of a high performance, thread safe bloom filter.
+- [bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters. ![stars](https://img.shields.io/badge/stars-2430-blue) ![forks](https://img.shields.io/badge/forks-231-blue)
+- [bloom](https://github.com/zhenjl/bloom) - Bloom filters implemented in Go. ![stars](https://img.shields.io/badge/stars-147-blue) ![forks](https://img.shields.io/badge/forks-21-blue)
+- [bloom](https://github.com/yourbasic/bloom) - Golang Bloom filter implementation. ![stars](https://img.shields.io/badge/stars-86-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
+- [bloomfilter](https://github.com/OldPanda/bloomfilter) - Yet another Bloomfilter implementation in Go, compatible with Java's Guava library. ![stars](https://img.shields.io/badge/stars-17-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
+- [boomfilters](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams. ![stars](https://img.shields.io/badge/stars-1594-blue) ![forks](https://img.shields.io/badge/forks-112-blue)
+- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper are available. ![stars](https://img.shields.io/badge/stars-295-blue) ![forks](https://img.shields.io/badge/forks-27-blue)
+- [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo filter: a good alternative to a counting bloom filter implemented in Go. ![stars](https://img.shields.io/badge/stars-1129-blue) ![forks](https://img.shields.io/badge/forks-109-blue)
+- [ring](https://github.com/TheTannerRyan/ring) - Go implementation of a high performance, thread safe bloom filter. ![stars](https://img.shields.io/badge/stars-138-blue) ![forks](https://img.shields.io/badge/forks-17-blue)
 
 ### Data Structure and Algorithm Collections
 
-- [algorithms](https://github.com/shady831213/algorithms) - Algorithms and data structures.CLRS study.
-- [go-datastructures](https://github.com/Workiva/go-datastructures) - Collection of useful, performant, and thread-safe data structures.
-- [gods](https://github.com/emirpasic/gods) - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
-- [gostl](https://github.com/liyue201/gostl) - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
+- [algorithms](https://github.com/shady831213/algorithms) - Algorithms and data structures.CLRS study. ![stars](https://img.shields.io/badge/stars-804-blue) ![forks](https://img.shields.io/badge/forks-121-blue)
+- [go-datastructures](https://github.com/Workiva/go-datastructures) - Collection of useful, performant, and thread-safe data structures. ![stars](https://img.shields.io/badge/stars-7668-blue) ![forks](https://img.shields.io/badge/forks-834-blue)
+- [gods](https://github.com/emirpasic/gods) - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. ![stars](https://img.shields.io/badge/stars-16330-blue) ![forks](https://img.shields.io/badge/forks-1775-blue)
+- [gostl](https://github.com/liyue201/gostl) - Data structure and algorithm library for go, designed to provide functions similar to C++ STL. ![stars](https://img.shields.io/badge/stars-1052-blue) ![forks](https://img.shields.io/badge/forks-114-blue)
 
 ### Iterators
 
-- [goterator](https://github.com/yaa110/goterator) - Iterator implementation to provide map and reduce functionalities.
-- [iter](https://github.com/disksing/iter) - Go implementation of C++ STL iterators and algorithms.
+- [goterator](https://github.com/yaa110/goterator) - Iterator implementation to provide map and reduce functionalities. ![stars](https://img.shields.io/badge/stars-16-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
+- [iter](https://github.com/disksing/iter) - Go implementation of C++ STL iterators and algorithms. ![stars](https://img.shields.io/badge/stars-187-blue) ![forks](https://img.shields.io/badge/forks-13-blue)
 
 ### Maps
 
 See also [Database](#database) for more complex key-value stores, and [Trees](#trees) for
 additional ordered map implementations.
 
-- [cmap](https://github.com/lrita/cmap) - a thread-safe concurrent map for go, support using `interface{}` as key and auto scale up shards.
-- [dict](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go.
-- [go-shelve](https://github.com/lucmq/go-shelve) - A persistent, map-like object for the Go programming language. Supports multiple embedded key-value stores.
-- [goradd/maps](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
+- [cmap](https://github.com/lrita/cmap) - a thread-safe concurrent map for go, support using `interface{}` as key and auto scale up shards. ![stars](https://img.shields.io/badge/stars-92-blue) ![forks](https://img.shields.io/badge/forks-8-blue)
+- [dict](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go. ![stars](https://img.shields.io/badge/stars-45-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
+- [go-shelve](https://github.com/lucmq/go-shelve) - A persistent, map-like object for the Go programming language. Supports multiple embedded key-value stores. ![stars](https://img.shields.io/badge/stars-7-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
+- [goradd/maps](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc. ![stars](https://img.shields.io/badge/stars-41-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
 
 ### Miscellaneous Data Structures and Algorithms
 
-- [concurrent-writer](https://github.com/free/concurrent-writer) - Highly concurrent drop-in replacement for `bufio.Writer`.
-- [conjungo](https://github.com/InVisionApp/conjungo) - A small, powerful and flexible merge library.
-- [count-min-log](https://github.com/seiflotfy/count-min-log) - Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory).
-- [fsm](https://github.com/cocoonspace/fsm) - Finite-State Machine package.
-- [genfuncs](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
-- [go-generics](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
-- [go-geoindex](https://github.com/hailocab/go-geoindex) - In-memory geo index.
-- [go-rampart](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
-- [go-rquad](https://github.com/aurelien-rainone/go-rquad) - Region quadtrees with efficient point location and neighbour finding.
-- [go-tuple](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.
-- [go18ds](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
-- [gofal](https://github.com/xxjwxc/gofal) - fractional api for Go.
+- [concurrent-writer](https://github.com/free/concurrent-writer) - Highly concurrent drop-in replacement for `bufio.Writer`. ![stars](https://img.shields.io/badge/stars-54-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
+- [conjungo](https://github.com/InVisionApp/conjungo) - A small, powerful and flexible merge library. ![stars](https://img.shields.io/badge/stars-126-blue) ![forks](https://img.shields.io/badge/forks-18-blue)
+- [count-min-log](https://github.com/seiflotfy/count-min-log) - Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory). ![stars](https://img.shields.io/badge/stars-66-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
+- [fsm](https://github.com/cocoonspace/fsm) - Finite-State Machine package. ![stars](https://img.shields.io/badge/stars-64-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
+- [genfuncs](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map. ![stars](https://img.shields.io/badge/stars-51-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
+- [go-generics](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities. ![stars](https://img.shields.io/badge/stars-73-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
+- [go-geoindex](https://github.com/hailocab/go-geoindex) - In-memory geo index. ![stars](https://img.shields.io/badge/stars-355-blue) ![forks](https://img.shields.io/badge/forks-49-blue)
+- [go-rampart](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other. ![stars](https://img.shields.io/badge/stars-101-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
+- [go-rquad](https://github.com/aurelien-rainone/go-rquad) - Region quadtrees with efficient point location and neighbour finding. ![stars](https://img.shields.io/badge/stars-134-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
+- [go-tuple](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+. ![stars](https://img.shields.io/badge/stars-82-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
+- [go18ds](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics. ![stars](https://img.shields.io/badge/stars-45-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
+- [gofal](https://github.com/xxjwxc/gofal) - fractional api for Go. ![stars](https://img.shields.io/badge/stars-19-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
 - [gogu](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
 - [gota](https://github.com/kniren/gota) - Implementation of dataframes, series, and data wrangling methods for Go.
 - [hide](https://github.com/emvi/hide) - ID type with marshalling to/from hash to prevent sending IDs to clients.
