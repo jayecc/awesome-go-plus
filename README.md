@@ -207,21 +207,21 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 _Libraries for building actor-based programs._
 
-- [Ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. ![stars](https://img.shields.io/badge/stars-3661-blue) ![forks](https://img.shields.io/badge/forks-143-blue)
-- [Goakt](https://github.com/Tochemey/goakt) - Fast and Distributed Actor framework using protocol buffers as message for Golang. ![stars](https://img.shields.io/badge/stars-187-blue) ![forks](https://img.shields.io/badge/forks-13-blue)
-- [Hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang. ![stars](https://img.shields.io/badge/stars-1203-blue) ![forks](https://img.shields.io/badge/forks-101-blue)
-- [ProtoActor](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin. ![stars](https://img.shields.io/badge/stars-5073-blue) ![forks](https://img.shields.io/badge/forks-522-blue)
+- [Ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. ![stars](https://img.shields.io/badge/stars-3663-blue) ![forks](https://img.shields.io/badge/forks-143-blue)
+- [Goakt](https://github.com/Tochemey/goakt) - Fast and Distributed Actor framework using protocol buffers as message for Golang. ![stars](https://img.shields.io/badge/stars-188-blue) ![forks](https://img.shields.io/badge/forks-13-blue)
+- [Hollywood](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang.
+- [ProtoActor](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
 
 ## Artificial Intelligence
 
 _Libraries for building programs that leverage AI._
 
-- [chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. ![stars](https://img.shields.io/badge/stars-277-blue) ![forks](https://img.shields.io/badge/forks-20-blue)
+- [chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 - [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
-- [langchaingo](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models. ![stars](https://img.shields.io/badge/stars-4566-blue) ![forks](https://img.shields.io/badge/forks-620-blue)
-- [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models. ![stars](https://img.shields.io/badge/stars-24361-blue) ![forks](https://img.shields.io/badge/forks-1868-blue)
-- [Ollama](https://github.com/jmorganca/ollama) - Run large language models locally. ![stars](https://img.shields.io/badge/stars-96161-blue) ![forks](https://img.shields.io/badge/forks-7638-blue)
-- [OllamaFarm](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas ![stars](https://img.shields.io/badge/stars-39-blue) ![forks](https://img.shields.io/badge/forks-1-blue)
+- [langchaingo](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models.
+- [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models.
+- [Ollama](https://github.com/jmorganca/ollama) - Run large language models locally.
+- [OllamaFarm](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas
 
 **[⬆ back to top](#contents)**
 
@@ -229,15 +229,15 @@ _Libraries for building programs that leverage AI._
 
 _Libraries for manipulating audio._
 
-- [flac](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams. ![stars](https://img.shields.io/badge/stars-316-blue) ![forks](https://img.shields.io/badge/forks-44-blue)
-- [gaad](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser. ![stars](https://img.shields.io/badge/stars-126-blue) ![forks](https://img.shields.io/badge/forks-19-blue)
-- [GoAudio](https://github.com/DylanMeeus/GoAudio) - Native Go Audio Processing Library. ![stars](https://img.shields.io/badge/stars-350-blue) ![forks](https://img.shields.io/badge/forks-39-blue)
-- [gosamplerate](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go. ![stars](https://img.shields.io/badge/stars-34-blue) ![forks](https://img.shields.io/badge/forks-11-blue)
-- [id3v2](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go. ![stars](https://img.shields.io/badge/stars-337-blue) ![forks](https://img.shields.io/badge/forks-52-blue)
-- [malgo](https://github.com/gen2brain/malgo) - Mini audio library. ![stars](https://img.shields.io/badge/stars-300-blue) ![forks](https://img.shields.io/badge/forks-51-blue)
-- [minimp3](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library. ![stars](https://img.shields.io/badge/stars-126-blue) ![forks](https://img.shields.io/badge/forks-19-blue)
-- [Oto](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms. ![stars](https://img.shields.io/badge/stars-1588-blue) ![forks](https://img.shields.io/badge/forks-133-blue)
-- [PortAudio](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library. ![stars](https://img.shields.io/badge/stars-706-blue) ![forks](https://img.shields.io/badge/forks-94-blue)
+- [flac](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
+- [gaad](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
+- [GoAudio](https://github.com/DylanMeeus/GoAudio) - Native Go Audio Processing Library.
+- [gosamplerate](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go.
+- [id3v2](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go.
+- [malgo](https://github.com/gen2brain/malgo) - Mini audio library.
+- [minimp3](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library.
+- [Oto](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
+- [PortAudio](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
 
 **[⬆ back to top](#contents)**
 
@@ -245,39 +245,39 @@ _Libraries for manipulating audio._
 
 _Libraries for implementing authentication schemes._
 
-- [authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time. ![stars](https://img.shields.io/badge/stars-3853-blue) ![forks](https://img.shields.io/badge/forks-207-blue)
-- [branca](https://github.com/essentialkaos/branca) - branca token [specification implementation](https://github.com/tuupola/branca-spec) for Golang 1.15+. ![stars](https://img.shields.io/badge/stars-84-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
-- [casbin](https://github.com/hsluoyz/casbin) - Authorization library that supports access control models like ACL, RBAC, and ABAC. ![stars](https://img.shields.io/badge/stars-17742-blue) ![forks](https://img.shields.io/badge/forks-1642-blue)
-- [cookiestxt](https://github.com/mengzhuo/cookiestxt) - provides a parser of cookies.txt file format. ![stars](https://img.shields.io/badge/stars-16-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
-- [go-guardian](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication. ![stars](https://img.shields.io/badge/stars-558-blue) ![forks](https://img.shields.io/badge/forks-56-blue)
-- [go-jose](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs. ![stars](https://img.shields.io/badge/stars-330-blue) ![forks](https://img.shields.io/badge/forks-78-blue)
-- [gologin](https://github.com/dghubble/gologin) - chainable handlers for login with OAuth1 and OAuth2 authentication providers. ![stars](https://img.shields.io/badge/stars-1816-blue) ![forks](https://img.shields.io/badge/forks-141-blue)
-- [gorbac](https://github.com/mikespook/gorbac) - provides a lightweight role-based access control (RBAC) implementation in Golang. ![stars](https://img.shields.io/badge/stars-1603-blue) ![forks](https://img.shields.io/badge/forks-176-blue)
-- [gosession](https://github.com/Kwynto/gosession) - This is quick session for net/http in GoLang. This package is perhaps the best implementation of the session mechanism, or at least it tries to become one. ![stars](https://img.shields.io/badge/stars-251-blue) ![forks](https://img.shields.io/badge/forks-17-blue)
-- [goth](https://github.com/markbates/goth) - provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box. ![stars](https://img.shields.io/badge/stars-5581-blue) ![forks](https://img.shields.io/badge/forks-596-blue)
-- [jeff](https://github.com/abraithwaite/jeff) - Simple, flexible, secure, and idiomatic web session management with pluggable backends. ![stars](https://img.shields.io/badge/stars-266-blue) ![forks](https://img.shields.io/badge/forks-17-blue)
-- [jwt](https://github.com/pascaldekloe/jwt) - Lightweight JSON Web Token (JWT) library. ![stars](https://img.shields.io/badge/stars-354-blue) ![forks](https://img.shields.io/badge/forks-25-blue)
-- [jwt](https://github.com/cristalhq/jwt) - Safe, simple, and fast JSON Web Tokens for Go. ![stars](https://img.shields.io/badge/stars-670-blue) ![forks](https://img.shields.io/badge/forks-45-blue)
-- [jwt-auth](https://github.com/adam-hanna/jwt-auth) - JWT middleware for Golang http servers with many configuration options. ![stars](https://img.shields.io/badge/stars-231-blue) ![forks](https://img.shields.io/badge/forks-43-blue)
-- [jwt-go](https://github.com/golang-jwt/jwt) - A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs. ![stars](https://img.shields.io/badge/stars-7185-blue) ![forks](https://img.shields.io/badge/forks-346-blue)
-- [jwx](https://github.com/lestrrat-go/jwx) - Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies ![stars](https://img.shields.io/badge/stars-1945-blue) ![forks](https://img.shields.io/badge/forks-164-blue)
-- [keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. ![stars](https://img.shields.io/badge/stars-4822-blue) ![forks](https://img.shields.io/badge/forks-349-blue)
-- [loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with pluggable backends such as OAuth2 (Github), htpasswd, osiam. ![stars](https://img.shields.io/badge/stars-1920-blue) ![forks](https://img.shields.io/badge/forks-148-blue)
-- [oauth2](https://github.com/golang/oauth2) - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support. ![stars](https://img.shields.io/badge/stars-5381-blue) ![forks](https://img.shields.io/badge/forks-990-blue)
-- [oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation ![stars](https://img.shields.io/badge/stars-1390-blue) ![forks](https://img.shields.io/badge/forks-147-blue)
-- [openfga](https://github.com/openfga/openfga) - Implementation of fine-grained authorization based on the "Zanzibar: Google's Consistent, Global Authorization System" paper. Backed by [CNCF](https://www.cncf.io/). ![stars](https://img.shields.io/badge/stars-2875-blue) ![forks](https://img.shields.io/badge/forks-205-blue)
-- [osin](https://github.com/openshift/osin) - Golang OAuth2 server library. ![stars](https://img.shields.io/badge/stars-1913-blue) ![forks](https://img.shields.io/badge/forks-399-blue)
-- [otpgen](https://github.com/grijul/otpgen) - Library to generate TOTP/HOTP codes. ![stars](https://img.shields.io/badge/stars-137-blue) ![forks](https://img.shields.io/badge/forks-12-blue)
-- [otpgo](https://github.com/jltorresm/otpgo) - Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go. ![stars](https://img.shields.io/badge/stars-67-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
-- [paseto](https://github.com/o1egl/paseto) - Golang implementation of Platform-Agnostic Security Tokens (PASETO). ![stars](https://img.shields.io/badge/stars-851-blue) ![forks](https://img.shields.io/badge/forks-34-blue)
-- [permissions2](https://github.com/xyproto/permissions2) - Library for keeping track of users, login states, and permissions. Uses secure cookies and bcrypt. ![stars](https://img.shields.io/badge/stars-512-blue) ![forks](https://img.shields.io/badge/forks-38-blue)
-- [scope](https://github.com/SonicRoshan/scope) - Easily Manage OAuth2 Scopes In Go. ![stars](https://img.shields.io/badge/stars-38-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
-- [scs](https://github.com/alexedwards/scs) - Session Manager for HTTP servers. ![stars](https://img.shields.io/badge/stars-2146-blue) ![forks](https://img.shields.io/badge/forks-166-blue)
-- [securecookie](https://github.com/chmike/securecookie) - Efficient secure cookie encoding/decoding. ![stars](https://img.shields.io/badge/stars-79-blue) ![forks](https://img.shields.io/badge/forks-11-blue)
-- [session](https://github.com/icza/session) - Go session management for web servers (including support for Google App Engine - GAE). ![stars](https://img.shields.io/badge/stars-118-blue) ![forks](https://img.shields.io/badge/forks-15-blue)
-- [sessions](https://github.com/adam-hanna/sessions) - Dead simple, highly performant, highly customizable sessions service for go http servers. ![stars](https://img.shields.io/badge/stars-78-blue) ![forks](https://img.shields.io/badge/forks-11-blue)
-- [sessionup](https://github.com/swithek/sessionup) - Simple, yet effective HTTP session management and identification package. ![stars](https://img.shields.io/badge/stars-125-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
-- [sjwt](https://github.com/brianvoe/sjwt) - Simple jwt generator and parser. ![stars](https://img.shields.io/badge/stars-118-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
+- [authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.
+- [branca](https://github.com/essentialkaos/branca) - branca token [specification implementation](https://github.com/tuupola/branca-spec) for Golang 1.15+.
+- [casbin](https://github.com/hsluoyz/casbin) - Authorization library that supports access control models like ACL, RBAC, and ABAC.
+- [cookiestxt](https://github.com/mengzhuo/cookiestxt) - provides a parser of cookies.txt file format.
+- [go-guardian](https://github.com/shaj13/go-guardian) - Go-Guardian is a golang library that provides a simple, clean, and idiomatic way to create powerful modern API and web authentication that supports LDAP, Basic, Bearer token, and Certificate based authentication.
+- [go-jose](https://github.com/go-jose/go-jose) - Fairly complete implementation of the JOSE working group's JSON Web Token, JSON Web Signatures, and JSON Web Encryption specs.
+- [gologin](https://github.com/dghubble/gologin) - chainable handlers for login with OAuth1 and OAuth2 authentication providers.
+- [gorbac](https://github.com/mikespook/gorbac) - provides a lightweight role-based access control (RBAC) implementation in Golang.
+- [gosession](https://github.com/Kwynto/gosession) - This is quick session for net/http in GoLang. This package is perhaps the best implementation of the session mechanism, or at least it tries to become one.
+- [goth](https://github.com/markbates/goth) - provides a simple, clean, and idiomatic way to use OAuth and OAuth2. Handles multiple providers out of the box.
+- [jeff](https://github.com/abraithwaite/jeff) - Simple, flexible, secure, and idiomatic web session management with pluggable backends.
+- [jwt](https://github.com/pascaldekloe/jwt) - Lightweight JSON Web Token (JWT) library.
+- [jwt](https://github.com/cristalhq/jwt) - Safe, simple, and fast JSON Web Tokens for Go.
+- [jwt-auth](https://github.com/adam-hanna/jwt-auth) - JWT middleware for Golang http servers with many configuration options.
+- [jwt-go](https://github.com/golang-jwt/jwt) - A full featured implementation of JSON Web Tokens (JWT). This library supports the parsing and verification as well as the generation and signing of JWTs.
+- [jwx](https://github.com/lestrrat-go/jwx) - Go module implementing various JWx (JWA/JWE/JWK/JWS/JWT, otherwise known as JOSE) technologies
+- [keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+- [loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with pluggable backends such as OAuth2 (Github), htpasswd, osiam.
+- [oauth2](https://github.com/golang/oauth2) - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support.
+- [oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [openfga](https://github.com/openfga/openfga) - Implementation of fine-grained authorization based on the "Zanzibar: Google's Consistent, Global Authorization System" paper. Backed by [CNCF](https://www.cncf.io/).
+- [osin](https://github.com/openshift/osin) - Golang OAuth2 server library.
+- [otpgen](https://github.com/grijul/otpgen) - Library to generate TOTP/HOTP codes.
+- [otpgo](https://github.com/jltorresm/otpgo) - Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go.
+- [paseto](https://github.com/o1egl/paseto) - Golang implementation of Platform-Agnostic Security Tokens (PASETO).
+- [permissions2](https://github.com/xyproto/permissions2) - Library for keeping track of users, login states, and permissions. Uses secure cookies and bcrypt.
+- [scope](https://github.com/SonicRoshan/scope) - Easily Manage OAuth2 Scopes In Go.
+- [scs](https://github.com/alexedwards/scs) - Session Manager for HTTP servers.
+- [securecookie](https://github.com/chmike/securecookie) - Efficient secure cookie encoding/decoding.
+- [session](https://github.com/icza/session) - Go session management for web servers (including support for Google App Engine - GAE).
+- [sessions](https://github.com/adam-hanna/sessions) - Dead simple, highly performant, highly customizable sessions service for go http servers.
+- [sessionup](https://github.com/swithek/sessionup) - Simple, yet effective HTTP session management and identification package.
+- [sjwt](https://github.com/brianvoe/sjwt) - Simple jwt generator and parser.
 
 **[⬆ back to top](#contents)**
 
@@ -285,16 +285,16 @@ _Libraries for implementing authentication schemes._
 
 _Tools for building blockchains._
 
-- [cometbft](https://github.com/cometbft/cometbft) - A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm. ![stars](https://img.shields.io/badge/stars-642-blue) ![forks](https://img.shields.io/badge/forks-463-blue)
-- [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - A Framework for Building Public Blockchains in the Cosmos Ecosystem. ![stars](https://img.shields.io/badge/stars-6259-blue) ![forks](https://img.shields.io/badge/forks-3617-blue)
-- [gno](https://github.com/gnolang/gno) - A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains. ![stars](https://img.shields.io/badge/stars-893-blue) ![forks](https://img.shields.io/badge/forks-373-blue)
-- [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol. ![stars](https://img.shields.io/badge/stars-47519-blue) ![forks](https://img.shields.io/badge/forks-20110-blue)
-- [gosemble](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes. ![stars](https://img.shields.io/badge/stars-11-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [gossamer](https://github.com/ChainSafe/gossamer) - A Go implementation of the Polkadot Host. ![stars](https://img.shields.io/badge/stars-431-blue) ![forks](https://img.shields.io/badge/forks-112-blue)
-- [kubo](https://github.com/ipfs/kubo) - A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol. ![stars](https://img.shields.io/badge/stars-16143-blue) ![forks](https://img.shields.io/badge/forks-3014-blue)
-- [lnd](https://github.com/lightningnetwork/lnd) - A complete implementation of a Lighting Network node. ![stars](https://img.shields.io/badge/stars-7691-blue) ![forks](https://img.shields.io/badge/forks-2082-blue)
-- [solana-go](https://github.com/gagliardetto/solana-go) - Go library to interface with Solana JSON RPC and WebSocket interfaces. ![stars](https://img.shields.io/badge/stars-874-blue) ![forks](https://img.shields.io/badge/forks-256-blue)
-- [tendermint](https://github.com/tendermint/tendermint) - High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols. ![stars](https://img.shields.io/badge/stars-5715-blue) ![forks](https://img.shields.io/badge/forks-2072-blue)
+- [cometbft](https://github.com/cometbft/cometbft) - A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm.
+- [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - A Framework for Building Public Blockchains in the Cosmos Ecosystem.
+- [gno](https://github.com/gnolang/gno) - A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains.
+- [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol.
+- [gosemble](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
+- [gossamer](https://github.com/ChainSafe/gossamer) - A Go implementation of the Polkadot Host.
+- [kubo](https://github.com/ipfs/kubo) - A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
+- [lnd](https://github.com/lightningnetwork/lnd) - A complete implementation of a Lighting Network node.
+- [solana-go](https://github.com/gagliardetto/solana-go) - Go library to interface with Solana JSON RPC and WebSocket interfaces.
+- [tendermint](https://github.com/tendermint/tendermint) - High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.
 
 **[⬆ back to top](#contents)**
 
@@ -302,33 +302,33 @@ _Tools for building blockchains._
 
 _Libraries for building and working with bots._
 
-- [bot](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components ![stars](https://img.shields.io/badge/stars-731-blue) ![forks](https://img.shields.io/badge/forks-65-blue)
-- [echotron](https://github.com/NicoNex/echotron) - An elegant and concurrent library for Telegram Bots in Go. ![stars](https://img.shields.io/badge/stars-372-blue) ![forks](https://img.shields.io/badge/forks-26-blue)
-- [ephemeral-roles](https://github.com/ewohltman/ephemeral-roles) - A Discord bot for managing ephemeral roles based upon voice channel member presence. ![stars](https://img.shields.io/badge/stars-90-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [go-chat-bot](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go. ![stars](https://img.shields.io/badge/stars-826-blue) ![forks](https://img.shields.io/badge/forks-195-blue)
+- [bot](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components
+- [echotron](https://github.com/NicoNex/echotron) - An elegant and concurrent library for Telegram Bots in Go.
+- [ephemeral-roles](https://github.com/ewohltman/ephemeral-roles) - A Discord bot for managing ephemeral roles based upon voice channel member presence.
+- [go-chat-bot](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go.
 - [go-joe](https://joe-bot.net) - A general-purpose bot library inspired by Hubot but written in Go.
-- [go-sarah](https://github.com/oklahomer/go-sarah) - Framework to build a bot for desired chat services including LINE, Slack, Gitter, and more. ![stars](https://img.shields.io/badge/stars-262-blue) ![forks](https://img.shields.io/badge/forks-16-blue)
-- [go-tg](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included. ![stars](https://img.shields.io/badge/stars-105-blue) ![forks](https://img.shields.io/badge/forks-11-blue)
-- [go-tgbot](https://github.com/olebedev/go-tgbot) - Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based router, and middleware. ![stars](https://img.shields.io/badge/stars-121-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [go-twitch-irc](https://github.com/gempir/go-twitch-irc) - Library to write bots for twitch.tv chat ![stars](https://img.shields.io/badge/stars-357-blue) ![forks](https://img.shields.io/badge/forks-59-blue)
-- [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) - A golang implementation of a console-based trading bot for cryptocurrency exchanges. ![stars](https://img.shields.io/badge/stars-1078-blue) ![forks](https://img.shields.io/badge/forks-243-blue)
-- [govkbot](https://github.com/nikepan/govkbot) - Simple Go [VK](https://vk.com) bot library. ![stars](https://img.shields.io/badge/stars-51-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [hanu](https://github.com/sbstjn/hanu) - Framework for writing Slack bots. ![stars](https://img.shields.io/badge/stars-155-blue) ![forks](https://img.shields.io/badge/forks-25-blue)
-- [Kelp](https://github.com/stellar/kelp) - official trading and market-making bot for the [Stellar](https://www.stellar.org/) DEX. Works out-of-the-box, written in Golang, compatible with centralized exchanges and custom trading strategies. ![stars](https://img.shields.io/badge/stars-1101-blue) ![forks](https://img.shields.io/badge/forks-260-blue)
-- [larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a really simple Twitter bot generator that tweets random repositories from Github built in Go. ![stars](https://img.shields.io/badge/stars-162-blue) ![forks](https://img.shields.io/badge/forks-29-blue)
-- [margelet](https://github.com/zhulik/margelet) - Framework for building Telegram bots. ![stars](https://img.shields.io/badge/stars-87-blue) ![forks](https://img.shields.io/badge/forks-15-blue)
-- [micha](https://github.com/onrik/micha) - Go Library for Telegram bot api. ![stars](https://img.shields.io/badge/stars-31-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
-- [olivia](https://github.com/olivia-ai/olivia) - A chatbot built with an artificial neural network. ![stars](https://img.shields.io/badge/stars-3681-blue) ![forks](https://img.shields.io/badge/forks-351-blue)
-- [slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack Bot for lazy developers: Custom commands, Jenkins, Jira, Bitbucket, Github... ![stars](https://img.shields.io/badge/stars-182-blue) ![forks](https://img.shields.io/badge/forks-43-blue)
-- [slacker](https://github.com/slack-io/slacker) - Easy to use framework to create Slack bots. ![stars](https://img.shields.io/badge/stars-42-blue) ![forks](https://img.shields.io/badge/forks-13-blue)
-- [slackscot](https://github.com/alexandre-normand/slackscot) - Another framework for building Slack bots. ![stars](https://img.shields.io/badge/stars-56-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
-- [tbot](https://github.com/yanzay/tbot) - Telegram bot server with API similar to net/http. ![stars](https://img.shields.io/badge/stars-356-blue) ![forks](https://img.shields.io/badge/forks-55-blue)
-- [telebot](https://github.com/tucnak/telebot) - Telegram bot framework is written in Go. ![stars](https://img.shields.io/badge/stars-4003-blue) ![forks](https://img.shields.io/badge/forks-466-blue)
-- [telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation. ![stars](https://img.shields.io/badge/stars-553-blue) ![forks](https://img.shields.io/badge/forks-42-blue)
-- [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client. ![stars](https://img.shields.io/badge/stars-5803-blue) ![forks](https://img.shields.io/badge/forks-895-blue)
-- [teleterm](https://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command. ![stars](https://img.shields.io/badge/stars-38-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging. ![stars](https://img.shields.io/badge/stars-177-blue) ![forks](https://img.shields.io/badge/forks-19-blue)
-- [wayback](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages. ![stars](https://img.shields.io/badge/stars-1799-blue) ![forks](https://img.shields.io/badge/forks-64-blue)
+- [go-sarah](https://github.com/oklahomer/go-sarah) - Framework to build a bot for desired chat services including LINE, Slack, Gitter, and more.
+- [go-tg](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
+- [go-tgbot](https://github.com/olebedev/go-tgbot) - Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based router, and middleware.
+- [go-twitch-irc](https://github.com/gempir/go-twitch-irc) - Library to write bots for twitch.tv chat
+- [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) - A golang implementation of a console-based trading bot for cryptocurrency exchanges.
+- [govkbot](https://github.com/nikepan/govkbot) - Simple Go [VK](https://vk.com) bot library.
+- [hanu](https://github.com/sbstjn/hanu) - Framework for writing Slack bots.
+- [Kelp](https://github.com/stellar/kelp) - official trading and market-making bot for the [Stellar](https://www.stellar.org/) DEX. Works out-of-the-box, written in Golang, compatible with centralized exchanges and custom trading strategies.
+- [larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a really simple Twitter bot generator that tweets random repositories from Github built in Go.
+- [margelet](https://github.com/zhulik/margelet) - Framework for building Telegram bots.
+- [micha](https://github.com/onrik/micha) - Go Library for Telegram bot api.
+- [olivia](https://github.com/olivia-ai/olivia) - A chatbot built with an artificial neural network.
+- [slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack Bot for lazy developers: Custom commands, Jenkins, Jira, Bitbucket, Github...
+- [slacker](https://github.com/slack-io/slacker) - Easy to use framework to create Slack bots.
+- [slackscot](https://github.com/alexandre-normand/slackscot) - Another framework for building Slack bots.
+- [tbot](https://github.com/yanzay/tbot) - Telegram bot server with API similar to net/http.
+- [telebot](https://github.com/tucnak/telebot) - Telegram bot framework is written in Go.
+- [telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation.
+- [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client.
+- [teleterm](https://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command.
+- [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
+- [wayback](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 **[⬆ back to top](#contents)**
 
@@ -336,19 +336,19 @@ _Libraries for building and working with bots._
 
 _Libraries and tools help with build automation._
 
-- [1build](https://github.com/gopinath-langote/1build) - Command line tool to frictionlessly manage project-specific commands. ![stars](https://img.shields.io/badge/stars-227-blue) ![forks](https://img.shields.io/badge/forks-30-blue)
-- [air](https://github.com/cosmtrek/air) - Air - Live reload for Go apps. ![stars](https://img.shields.io/badge/stars-18055-blue) ![forks](https://img.shields.io/badge/forks-811-blue)
-- [anko](https://github.com/GuilhermeCaruso/anko) - Simple application watcher for multiple programming languages. ![stars](https://img.shields.io/badge/stars-39-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
-- [gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes. ![stars](https://img.shields.io/badge/stars-81-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
+- [1build](https://github.com/gopinath-langote/1build) - Command line tool to frictionlessly manage project-specific commands.
+- [air](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
+- [anko](https://github.com/GuilhermeCaruso/anko) - Simple application watcher for multiple programming languages.
+- [gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes.
 - [gilbert](https://go-gilbert.github.io) - Build system and task runner for Go projects.
-- [gob](https://github.com/kcmvp/gob) - [Gradle](https://docs.gradle.org/)/[Maven](https://maven.apache.org/) like build tool for Go projects. ![stars](https://img.shields.io/badge/stars-11-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
-- [goyek](https://github.com/goyek/goyek) - Create build pipelines in Go. ![stars](https://img.shields.io/badge/stars-569-blue) ![forks](https://img.shields.io/badge/forks-29-blue)
-- [mage](https://github.com/magefile/mage) - Mage is a make/rake-like build tool using Go. ![stars](https://img.shields.io/badge/stars-4143-blue) ![forks](https://img.shields.io/badge/forks-257-blue)
-- [mmake](https://github.com/tj/mmake) - Modern Make. ![stars](https://img.shields.io/badge/stars-1721-blue) ![forks](https://img.shields.io/badge/forks-42-blue)
-- [realize](https://github.com/tockins/realize) - Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths. ![stars](https://img.shields.io/badge/stars-4459-blue) ![forks](https://img.shields.io/badge/forks-229-blue)
-- [Task](https://github.com/go-task/task) - simple "Make" alternative. ![stars](https://img.shields.io/badge/stars-11360-blue) ![forks](https://img.shields.io/badge/forks-612-blue)
-- [taskctl](https://github.com/taskctl/taskctl) - Concurrent task runner. ![stars](https://img.shields.io/badge/stars-294-blue) ![forks](https://img.shields.io/badge/forks-38-blue)
-- [xc](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown. ![stars](https://img.shields.io/badge/stars-1192-blue) ![forks](https://img.shields.io/badge/forks-26-blue)
+- [gob](https://github.com/kcmvp/gob) - [Gradle](https://docs.gradle.org/)/[Maven](https://maven.apache.org/) like build tool for Go projects.
+- [goyek](https://github.com/goyek/goyek) - Create build pipelines in Go.
+- [mage](https://github.com/magefile/mage) - Mage is a make/rake-like build tool using Go.
+- [mmake](https://github.com/tj/mmake) - Modern Make.
+- [realize](https://github.com/tockins/realize) - Go build a system with file watchers and live to reload. Run, build and watch file changes with custom paths.
+- [Task](https://github.com/go-task/task) - simple "Make" alternative.
+- [taskctl](https://github.com/taskctl/taskctl) - Concurrent task runner.
+- [xc](https://github.com/joerdav/xc) - Task runner with README.md defined tasks, executable markdown.
 
 **[⬆ back to top](#contents)**
 
@@ -358,45 +358,45 @@ _Libraries and tools help with build automation._
 
 _Libraries for building Console Applications and Console User Interfaces._
 
-- [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies. ![stars](https://img.shields.io/badge/stars-2673-blue) ![forks](https://img.shields.io/badge/forks-100-blue)
-- [aurora](https://github.com/logrusorgru/aurora) - ANSI terminal colors that support fmt.Printf/Sprintf. ![stars](https://img.shields.io/badge/stars-1423-blue) ![forks](https://img.shields.io/badge/forks-57-blue)
-- [box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI. ![stars](https://img.shields.io/badge/stars-537-blue) ![forks](https://img.shields.io/badge/forks-23-blue)
-- [bubble-table](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea. ![stars](https://img.shields.io/badge/stars-451-blue) ![forks](https://img.shields.io/badge/forks-27-blue)
-- [bubbles](https://github.com/charmbracelet/bubbles) - TUI components for bubbletea. ![stars](https://img.shields.io/badge/stars-5558-blue) ![forks](https://img.shields.io/badge/forks-264-blue)
-- [bubbletea](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture. ![stars](https://img.shields.io/badge/stars-27764-blue) ![forks](https://img.shields.io/badge/forks-800-blue)
-- [cfmt](https://github.com/mingrammer/cfmt) - Contextual fmt inspired by bootstrap color classes. ![stars](https://img.shields.io/badge/stars-103-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
-- [cfmt](https://github.com/i582/cfmt) - Simple and convenient formatted stylized output fully compatible with fmt library. ![stars](https://img.shields.io/badge/stars-68-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [chalk](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output. ![stars](https://img.shields.io/badge/stars-451-blue) ![forks](https://img.shields.io/badge/forks-21-blue)
-- [colourize](https://github.com/TreyBastian/colourize) - Go library for ANSI colour text in terminals. ![stars](https://img.shields.io/badge/stars-27-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [crab-config-files-templating](https://github.com/alfiankan/crab-config-files-templating) - Dynamic configuration file templating tool for kubernetes manifest or general configuration files. ![stars](https://img.shields.io/badge/stars-7-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
-- [ctc](https://github.com/wzshiming/ctc) - The non-invasive cross-platform terminal color library does not need to modify the Print method. ![stars](https://img.shields.io/badge/stars-47-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [go-ataman](https://github.com/workanator/go-ataman) - Go library for rendering ANSI colored text templates in terminals. ![stars](https://img.shields.io/badge/stars-17-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [go-colorable](https://github.com/mattn/go-colorable) - Colorable writer for windows. ![stars](https://img.shields.io/badge/stars-766-blue) ![forks](https://img.shields.io/badge/forks-93-blue)
-- [go-colortext](https://github.com/daviddengcn/go-colortext) - Go library for color output in terminals. ![stars](https://img.shields.io/badge/stars-214-blue) ![forks](https://img.shields.io/badge/forks-22-blue)
-- [go-isatty](https://github.com/mattn/go-isatty) - isatty for golang. ![stars](https://img.shields.io/badge/stars-832-blue) ![forks](https://img.shields.io/badge/forks-108-blue)
-- [go-palette](https://github.com/abusomani/go-palette) - Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the [fmt library](https://pkg.go.dev/fmt) for nice terminal layouts. ![stars](https://img.shields.io/badge/stars-17-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [go-prompt](https://github.com/c-bata/go-prompt) - Library for building a powerful interactive prompt, inspired by [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit). ![stars](https://img.shields.io/badge/stars-5288-blue) ![forks](https://img.shields.io/badge/forks-348-blue)
-- [gocui](https://github.com/jroimartin/gocui) - Minimalist Go library aimed at creating Console User Interfaces. ![stars](https://img.shields.io/badge/stars-9908-blue) ![forks](https://img.shields.io/badge/forks-610-blue)
-- [gommon/color](https://github.com/labstack/gommon/tree/master/color) - Style terminal text. ![stars](https://img.shields.io/badge/stars-541-blue) ![forks](https://img.shields.io/badge/forks-101-blue)
-- [gookit/color](https://github.com/gookit/color) - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows. ![stars](https://img.shields.io/badge/stars-1511-blue) ![forks](https://img.shields.io/badge/forks-88-blue)
-- [lipgloss](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal. ![stars](https://img.shields.io/badge/stars-8097-blue) ![forks](https://img.shields.io/badge/forks-230-blue)
-- [marker](https://github.com/cyucelen/marker) - Easiest way to match and mark strings for colorful terminal outputs. ![stars](https://img.shields.io/badge/stars-48-blue) ![forks](https://img.shields.io/badge/forks-13-blue)
-- [mpb](https://github.com/vbauerster/mpb) - Multi progress bar for terminal applications. ![stars](https://img.shields.io/badge/stars-2317-blue) ![forks](https://img.shields.io/badge/forks-123-blue)
-- [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progress bar that works in every OS. ![stars](https://img.shields.io/badge/stars-4129-blue) ![forks](https://img.shields.io/badge/forks-221-blue)
-- [pterm](https://github.com/pterm/pterm) - A library to beautify console output on every platform with many combinable components. ![stars](https://img.shields.io/badge/stars-4829-blue) ![forks](https://img.shields.io/badge/forks-197-blue)
-- [simpletable](https://github.com/alexeyco/simpletable) - Simple tables in a terminal with Go. ![stars](https://img.shields.io/badge/stars-529-blue) ![forks](https://img.shields.io/badge/forks-31-blue)
-- [spinner](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options. ![stars](https://img.shields.io/badge/stars-2345-blue) ![forks](https://img.shields.io/badge/forks-129-blue)
-- [tabby](https://github.com/cheynewallace/tabby) - A tiny library for super simple Golang tables. ![stars](https://img.shields.io/badge/stars-355-blue) ![forks](https://img.shields.io/badge/forks-18-blue)
-- [table](https://github.com/tomlazar/table) - Small library for terminal color based tables. ![stars](https://img.shields.io/badge/stars-51-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [tabular](https://github.com/InVisionApp/tabular) - Print ASCII tables from command line utilities without the need to pass large sets of data to the API. ![stars](https://img.shields.io/badge/stars-76-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
-- [termbox-go](https://github.com/nsf/termbox-go) - Termbox is a library for creating cross-platform text-based interfaces. ![stars](https://img.shields.io/badge/stars-4669-blue) ![forks](https://img.shields.io/badge/forks-373-blue)
-- [termdash](https://github.com/mum4k/termdash) - Go terminal dashboard based on **termbox-go** and inspired by [termui](https://github.com/gizak/termui). ![stars](https://img.shields.io/badge/stars-2720-blue) ![forks](https://img.shields.io/badge/forks-136-blue)
-- [termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications. ![stars](https://img.shields.io/badge/stars-1748-blue) ![forks](https://img.shields.io/badge/forks-71-blue)
-- [termui](https://github.com/gizak/termui) - Go terminal dashboard based on **termbox-go** and inspired by [blessed-contrib](https://github.com/yaronn/blessed-contrib). ![stars](https://img.shields.io/badge/stars-13198-blue) ![forks](https://img.shields.io/badge/forks-786-blue)
-- [uilive](https://github.com/gosuri/uilive) - Library for updating terminal output in real time. ![stars](https://img.shields.io/badge/stars-1696-blue) ![forks](https://img.shields.io/badge/forks-87-blue)
-- [uiprogress](https://github.com/gosuri/uiprogress) - Flexible library to render progress bars in terminal applications. ![stars](https://img.shields.io/badge/stars-2106-blue) ![forks](https://img.shields.io/badge/forks-127-blue)
-- [uitable](https://github.com/gosuri/uitable) - Library to improve readability in terminal apps using tabular data. ![stars](https://img.shields.io/badge/stars-736-blue) ![forks](https://img.shields.io/badge/forks-33-blue)
-- [yacspin](https://github.com/theckman/yacspin) - Yet Another CLi Spinner package, for working with terminal spinners. ![stars](https://img.shields.io/badge/stars-440-blue) ![forks](https://img.shields.io/badge/forks-11-blue)
+- [asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
+- [aurora](https://github.com/logrusorgru/aurora) - ANSI terminal colors that support fmt.Printf/Sprintf.
+- [box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI.
+- [bubble-table](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
+- [bubbles](https://github.com/charmbracelet/bubbles) - TUI components for bubbletea.
+- [bubbletea](https://github.com/charmbracelet/bubbletea) - Go framework to build terminal apps, based on The Elm Architecture.
+- [cfmt](https://github.com/mingrammer/cfmt) - Contextual fmt inspired by bootstrap color classes.
+- [cfmt](https://github.com/i582/cfmt) - Simple and convenient formatted stylized output fully compatible with fmt library.
+- [chalk](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output.
+- [colourize](https://github.com/TreyBastian/colourize) - Go library for ANSI colour text in terminals.
+- [crab-config-files-templating](https://github.com/alfiankan/crab-config-files-templating) - Dynamic configuration file templating tool for kubernetes manifest or general configuration files.
+- [ctc](https://github.com/wzshiming/ctc) - The non-invasive cross-platform terminal color library does not need to modify the Print method.
+- [go-ataman](https://github.com/workanator/go-ataman) - Go library for rendering ANSI colored text templates in terminals.
+- [go-colorable](https://github.com/mattn/go-colorable) - Colorable writer for windows.
+- [go-colortext](https://github.com/daviddengcn/go-colortext) - Go library for color output in terminals.
+- [go-isatty](https://github.com/mattn/go-isatty) - isatty for golang.
+- [go-palette](https://github.com/abusomani/go-palette) - Go library that provides elegant and convenient style definitions using ANSI colors. Fully compatible & wraps the [fmt library](https://pkg.go.dev/fmt) for nice terminal layouts.
+- [go-prompt](https://github.com/c-bata/go-prompt) - Library for building a powerful interactive prompt, inspired by [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit).
+- [gocui](https://github.com/jroimartin/gocui) - Minimalist Go library aimed at creating Console User Interfaces.
+- [gommon/color](https://github.com/labstack/gommon/tree/master/color) - Style terminal text.
+- [gookit/color](https://github.com/gookit/color) - Terminal color rendering tool library, support 16 colors, 256 colors, RGB color rendering output, compatible with Windows.
+- [lipgloss](https://github.com/charmbracelet/lipgloss) - Declaratively define styles for color, format and layout in the terminal.
+- [marker](https://github.com/cyucelen/marker) - Easiest way to match and mark strings for colorful terminal outputs.
+- [mpb](https://github.com/vbauerster/mpb) - Multi progress bar for terminal applications.
+- [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progress bar that works in every OS.
+- [pterm](https://github.com/pterm/pterm) - A library to beautify console output on every platform with many combinable components.
+- [simpletable](https://github.com/alexeyco/simpletable) - Simple tables in a terminal with Go.
+- [spinner](https://github.com/briandowns/spinner) - Go package to easily provide a terminal spinner with options.
+- [tabby](https://github.com/cheynewallace/tabby) - A tiny library for super simple Golang tables.
+- [table](https://github.com/tomlazar/table) - Small library for terminal color based tables.
+- [tabular](https://github.com/InVisionApp/tabular) - Print ASCII tables from command line utilities without the need to pass large sets of data to the API.
+- [termbox-go](https://github.com/nsf/termbox-go) - Termbox is a library for creating cross-platform text-based interfaces.
+- [termdash](https://github.com/mum4k/termdash) - Go terminal dashboard based on **termbox-go** and inspired by [termui](https://github.com/gizak/termui).
+- [termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications.
+- [termui](https://github.com/gizak/termui) - Go terminal dashboard based on **termbox-go** and inspired by [blessed-contrib](https://github.com/yaronn/blessed-contrib).
+- [uilive](https://github.com/gosuri/uilive) - Library for updating terminal output in real time.
+- [uiprogress](https://github.com/gosuri/uiprogress) - Flexible library to render progress bars in terminal applications.
+- [uitable](https://github.com/gosuri/uitable) - Library to improve readability in terminal apps using tabular data.
+- [yacspin](https://github.com/theckman/yacspin) - Yet Another CLi Spinner package, for working with terminal spinners.
 
 **[⬆ back to top](#contents)**
 
@@ -404,55 +404,55 @@ _Libraries for building Console Applications and Console User Interfaces._
 
 _Libraries for building standard or basic Command Line applications._
 
-- [acmd](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go. ![stars](https://img.shields.io/badge/stars-115-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
-- [argparse](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module. ![stars](https://img.shields.io/badge/stars-607-blue) ![forks](https://img.shields.io/badge/forks-62-blue)
-- [argv](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax. ![stars](https://img.shields.io/badge/stars-41-blue) ![forks](https://img.shields.io/badge/forks-8-blue)
-- [carapace](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra. ![stars](https://img.shields.io/badge/stars-387-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
-- [carapace-bin](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer. ![stars](https://img.shields.io/badge/stars-913-blue) ![forks](https://img.shields.io/badge/forks-49-blue)
-- [carapace-spec](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file. ![stars](https://img.shields.io/badge/stars-19-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
-- [climax](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command. ![stars](https://img.shields.io/badge/stars-217-blue) ![forks](https://img.shields.io/badge/forks-16-blue)
-- [clîr](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free. ![stars](https://img.shields.io/badge/stars-180-blue) ![forks](https://img.shields.io/badge/forks-18-blue)
-- [cmd](https://github.com/posener/cmd) - Extends the standard `flag` package to support sub commands and more in idiomatic way. ![stars](https://img.shields.io/badge/stars-40-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [cmdr](https://github.com/hedzr/cmdr) - A POSIX/GNU style, getopt-like command-line UI Go library. ![stars](https://img.shields.io/badge/stars-136-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [cobra](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions. ![stars](https://img.shields.io/badge/stars-38144-blue) ![forks](https://img.shields.io/badge/forks-2851-blue)
-- [command-chain](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells. ![stars](https://img.shields.io/badge/stars-61-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
-- [commandeer](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags. ![stars](https://img.shields.io/badge/stars-174-blue) ![forks](https://img.shields.io/badge/forks-16-blue)
-- [complete](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion. ![stars](https://img.shields.io/badge/stars-929-blue) ![forks](https://img.shields.io/badge/forks-72-blue)
-- [Dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync. ![stars](https://img.shields.io/badge/stars-2793-blue) ![forks](https://img.shields.io/badge/forks-118-blue)
-- [elvish](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell. ![stars](https://img.shields.io/badge/stars-5672-blue) ![forks](https://img.shields.io/badge/forks-300-blue)
-- [env](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs. ![stars](https://img.shields.io/badge/stars-113-blue) ![forks](https://img.shields.io/badge/forks-14-blue)
-- [flag](https://github.com/cosiner/flag) - Simple but powerful command line option parsing library for Go supporting subcommand. ![stars](https://img.shields.io/badge/stars-131-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
-- [flaggy](https://github.com/integrii/flaggy) - A robust and idiomatic flags package with excellent subcommand support. ![stars](https://img.shields.io/badge/stars-858-blue) ![forks](https://img.shields.io/badge/forks-31-blue)
-- [flagvar](https://github.com/sgreben/flagvar) - A collection of flag argument types for Go's standard `flag` package. ![stars](https://img.shields.io/badge/stars-43-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
-- [go-andotp](https://github.com/grijul/go-andotp) - A CLI program to encrypt/decrypt [andOTP](https://github.com/andOTP/andOTP) files. Can be used as a library as well. ![stars](https://img.shields.io/badge/stars-30-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
-- [go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go. ![stars](https://img.shields.io/badge/stars-2022-blue) ![forks](https://img.shields.io/badge/forks-99-blue)
-- [go-commander](https://github.com/yitsushi/go-commander) - Go library to simplify CLI workflow. ![stars](https://img.shields.io/badge/stars-35-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [go-flags](https://github.com/jessevdk/go-flags) - go command line option parser. ![stars](https://img.shields.io/badge/stars-2589-blue) ![forks](https://img.shields.io/badge/forks-308-blue)
-- [go-getoptions](https://github.com/DavidGamba/go-getoptions) - Go option parser inspired by the flexibility of Perl’s GetOpt::Long. ![stars](https://img.shields.io/badge/stars-56-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
-- [gocmd](https://github.com/devfacet/gocmd) - Go library for building command line applications. ![stars](https://img.shields.io/badge/stars-65-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [hiboot cli](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection. ![stars](https://img.shields.io/badge/stars-180-blue) ![forks](https://img.shields.io/badge/forks-25-blue)
-- [job](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. ![stars](https://img.shields.io/badge/stars-145-blue) ![forks](https://img.shields.io/badge/forks-12-blue)
-- [kingpin](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`; see below). ![stars](https://img.shields.io/badge/stars-3497-blue) ![forks](https://img.shields.io/badge/forks-273-blue)
-- [liner](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces. ![stars](https://img.shields.io/badge/stars-1048-blue) ![forks](https://img.shields.io/badge/forks-131-blue)
-- [mcli](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go. ![stars](https://img.shields.io/badge/stars-30-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
-- [mitchellh/cli](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces. ![stars](https://img.shields.io/badge/stars-1732-blue) ![forks](https://img.shields.io/badge/forks-122-blue)
-- [mkideal/cli](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags. ![stars](https://img.shields.io/badge/stars-732-blue) ![forks](https://img.shields.io/badge/forks-43-blue)
-- [mow.cli](https://github.com/jawher/mow.cli) - Go library for building CLI applications with sophisticated flag and argument parsing and validation. ![stars](https://img.shields.io/badge/stars-871-blue) ![forks](https://img.shields.io/badge/forks-55-blue)
-- [ops](https://github.com/nanovms/ops) - Unikernel Builder/Orchestrator. ![stars](https://img.shields.io/badge/stars-1292-blue) ![forks](https://img.shields.io/badge/forks-132-blue)
-- [pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags. ![stars](https://img.shields.io/badge/stars-2417-blue) ![forks](https://img.shields.io/badge/forks-348-blue)
-- [readline](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features. ![stars](https://img.shields.io/badge/stars-90-blue) ![forks](https://img.shields.io/badge/forks-12-blue)
-- [sand](https://github.com/Zaba505/sand) - Simple API for creating interpreters and so much more. ![stars](https://img.shields.io/badge/stars-27-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
-- [sflags](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries. ![stars](https://img.shields.io/badge/stars-150-blue) ![forks](https://img.shields.io/badge/forks-37-blue)
-- [strumt](https://github.com/antham/strumt) - Library to create prompt chain. ![stars](https://img.shields.io/badge/stars-61-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [subcmd](https://github.com/bobg/subcmd) - Another approach to parsing and running subcommands. Works alongside the standard `flag` package. ![stars](https://img.shields.io/badge/stars-8-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
-- [survey](https://github.com/go-survey/survey) - Build interactive and accessible prompts with full support for windows and posix terminals. ![stars](https://img.shields.io/badge/stars-4092-blue) ![forks](https://img.shields.io/badge/forks-355-blue)
-- [teris-io/cli](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go. ![stars](https://img.shields.io/badge/stars-130-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [ts](https://github.com/liujianping/ts) - Timestamp convert & compare tool. ![stars](https://img.shields.io/badge/stars-20-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [ukautz/clif](https://github.com/ukautz/clif) - Small command line interface framework. ![stars](https://img.shields.io/badge/stars-129-blue) ![forks](https://img.shields.io/badge/forks-14-blue)
-- [urfave/cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli). ![stars](https://img.shields.io/badge/stars-22334-blue) ![forks](https://img.shields.io/badge/forks-1708-blue)
-- [version](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice. ![stars](https://img.shields.io/badge/stars-101-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
-- [wlog](https://github.com/dixonwille/wlog) - Simple logging interface that supports cross-platform color and concurrency. ![stars](https://img.shields.io/badge/stars-66-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [wmenu](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices. ![stars](https://img.shields.io/badge/stars-216-blue) ![forks](https://img.shields.io/badge/forks-24-blue)
+- [acmd](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
+- [argparse](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
+- [argv](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
+- [carapace](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+- [carapace-bin](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
+- [carapace-spec](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
+- [climax](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
+- [clîr](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free.
+- [cmd](https://github.com/posener/cmd) - Extends the standard `flag` package to support sub commands and more in idiomatic way.
+- [cmdr](https://github.com/hedzr/cmdr) - A POSIX/GNU style, getopt-like command-line UI Go library.
+- [cobra](https://github.com/spf13/cobra) - Commander for modern Go CLI interactions.
+- [command-chain](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells.
+- [commandeer](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
+- [complete](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion.
+- [Dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
+- [elvish](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell.
+- [env](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
+- [flag](https://github.com/cosiner/flag) - Simple but powerful command line option parsing library for Go supporting subcommand.
+- [flaggy](https://github.com/integrii/flaggy) - A robust and idiomatic flags package with excellent subcommand support.
+- [flagvar](https://github.com/sgreben/flagvar) - A collection of flag argument types for Go's standard `flag` package.
+- [go-andotp](https://github.com/grijul/go-andotp) - A CLI program to encrypt/decrypt [andOTP](https://github.com/andOTP/andOTP) files. Can be used as a library as well.
+- [go-arg](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go.
+- [go-commander](https://github.com/yitsushi/go-commander) - Go library to simplify CLI workflow.
+- [go-flags](https://github.com/jessevdk/go-flags) - go command line option parser.
+- [go-getoptions](https://github.com/DavidGamba/go-getoptions) - Go option parser inspired by the flexibility of Perl’s GetOpt::Long.
+- [gocmd](https://github.com/devfacet/gocmd) - Go library for building command line applications.
+- [hiboot cli](https://github.com/hidevopsio/hiboot/tree/master/pkg/app/cli) - cli application framework with auto configuration and dependency injection.
+- [job](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job.
+- [kingpin](https://github.com/alecthomas/kingpin) - Command line and flag parser supporting sub commands (superseded by `kong`; see below).
+- [liner](https://github.com/peterh/liner) - Go readline-like library for command-line interfaces.
+- [mcli](https://github.com/jxskiss/mcli) - A minimal but very powerful cli library for Go.
+- [mitchellh/cli](https://github.com/mitchellh/cli) - Go library for implementing command-line interfaces.
+- [mkideal/cli](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
+- [mow.cli](https://github.com/jawher/mow.cli) - Go library for building CLI applications with sophisticated flag and argument parsing and validation.
+- [ops](https://github.com/nanovms/ops) - Unikernel Builder/Orchestrator.
+- [pflag](https://github.com/spf13/pflag) - Drop-in replacement for Go's flag package, implementing POSIX/GNU-style --flags.
+- [readline](https://github.com/reeflective/readline) Shell library with modern and easy to use UI features.
+- [sand](https://github.com/Zaba505/sand) - Simple API for creating interpreters and so much more.
+- [sflags](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
+- [strumt](https://github.com/antham/strumt) - Library to create prompt chain.
+- [subcmd](https://github.com/bobg/subcmd) - Another approach to parsing and running subcommands. Works alongside the standard `flag` package.
+- [survey](https://github.com/go-survey/survey) - Build interactive and accessible prompts with full support for windows and posix terminals.
+- [teris-io/cli](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
+- [ts](https://github.com/liujianping/ts) - Timestamp convert & compare tool.
+- [ukautz/clif](https://github.com/ukautz/clif) - Small command line interface framework.
+- [urfave/cli](https://github.com/urfave/cli) - Simple, fast, and fun package for building command line apps in Go (formerly codegangsta/cli).
+- [version](https://github.com/mszostok/version) - Collects and displays CLI version information in multiple formats along with upgrade notice.
+- [wlog](https://github.com/dixonwille/wlog) - Simple logging interface that supports cross-platform color and concurrency.
+- [wmenu](https://github.com/dixonwille/wmenu) - Easy to use menu structure for cli applications that prompt users to make choices.
 
 **[⬆ back to top](#contents)**
 
@@ -460,65 +460,65 @@ _Libraries for building standard or basic Command Line applications._
 
 _Libraries for configuration parsing._
 
-- [aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader. ![stars](https://img.shields.io/badge/stars-548-blue) ![forks](https://img.shields.io/badge/forks-32-blue)
-- [bcl](https://github.com/wkhere/bcl) - BCL is a configuration language similar to HCL. ![stars](https://img.shields.io/badge/stars-19-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
-- [cleanenv](https://github.com/ilyakaznacheev/cleanenv) - Minimalistic configuration reader (from files, ENV, and wherever you want). ![stars](https://img.shields.io/badge/stars-1651-blue) ![forks](https://img.shields.io/badge/forks-115-blue)
-- [config](https://github.com/JeremyLoy/config) - Cloud native application configuration. Bind ENV to structs in only two lines. ![stars](https://img.shields.io/badge/stars-336-blue) ![forks](https://img.shields.io/badge/forks-14-blue)
-- [config](https://github.com/num30/config) - configure your app using file, environment variables, or flags in two lines of code ![stars](https://img.shields.io/badge/stars-50-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [configuration](https://github.com/BoRuDar/configuration) - Library for initializing configuration structs from env variables, files, flags and 'default' tag. ![stars](https://img.shields.io/badge/stars-108-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
-- [configure](https://github.com/paked/configure) - Provides configuration through multiple sources, including JSON, flags and environment variables. ![stars](https://img.shields.io/badge/stars-56-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
-- [configuro](https://github.com/sherifabdlnaby/configuro) - opinionated configuration loading & validation framework from ENV and Files focused towards 12-Factor compliant applications. ![stars](https://img.shields.io/badge/stars-94-blue) ![forks](https://img.shields.io/badge/forks-12-blue)
-- [confiq](https://github.com/greencoda/confiq) - Structured data format to config struct decoder library for Go - supporting multiple data formats ![stars](https://img.shields.io/badge/stars-35-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
-- [confita](https://github.com/heetch/confita) - Load configuration in cascade from multiple backends into a struct. ![stars](https://img.shields.io/badge/stars-495-blue) ![forks](https://img.shields.io/badge/forks-51-blue)
-- [conflate](https://github.com/the4thamigo-uk/conflate) - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema. ![stars](https://img.shields.io/badge/stars-32-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [env](https://github.com/caarlos0/env) - Parse environment variables to Go structs (with defaults). ![stars](https://img.shields.io/badge/stars-4906-blue) ![forks](https://img.shields.io/badge/forks-252-blue)
-- [env](https://github.com/junk1tm/env) - A lightweight package for loading environment variables into structs. ![stars](https://img.shields.io/badge/stars-64-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [env](https://github.com/syntaqx/env) - An environment utility package with support for unmarshaling into structs ![stars](https://img.shields.io/badge/stars-6-blue) ![forks](https://img.shields.io/badge/forks-1-blue)
-- [envconfig](https://github.com/vrischmann/envconfig) - Read your configuration from environment variables. ![stars](https://img.shields.io/badge/stars-241-blue) ![forks](https://img.shields.io/badge/forks-30-blue)
-- [envh](https://github.com/antham/envh) - Helpers to manage environment variables. ![stars](https://img.shields.io/badge/stars-99-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
-- [fig](https://github.com/kkyr/fig) - Tiny library for reading configuration from a file and from environment variables (with validation & defaults). ![stars](https://img.shields.io/badge/stars-380-blue) ![forks](https://img.shields.io/badge/forks-31-blue)
-- [genv](https://github.com/sakirsensoy/genv) - Read environment variables easily with dotenv support. ![stars](https://img.shields.io/badge/stars-39-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
-- [go-array](https://github.com/deatil/go-array) - A Go package that read or set data from map, slice or json. ![stars](https://img.shields.io/badge/stars-19-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
-- [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) - Go package that fetches parameters from AWS System Manager - Parameter Store. ![stars](https://img.shields.io/badge/stars-59-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
-- [go-cfg](https://github.com/dsbasko/go-cfg) - The library provides a unified way to read configuration data into a structure from various sources, such as env, flags, and configuration files (.json, .yaml, .toml, .env). ![stars](https://img.shields.io/badge/stars-42-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
-- [go-conf](https://github.com/ThomasObenaus/go-conf) - Simple library for application configuration based on annotated structs. It supports reading the configuration from environment variables, config files and command line parameters. ![stars](https://img.shields.io/badge/stars-11-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [go-ini](https://github.com/subpop/go-ini) - A Go package that marshals and unmarshals INI-files. ![stars](https://img.shields.io/badge/stars-14-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
-- [go-ssm-config](https://github.com/ianlopshire/go-ssm-config) - Go utility for loading configuration parameters from AWS SSM (Parameter Store). ![stars](https://img.shields.io/badge/stars-22-blue) ![forks](https://img.shields.io/badge/forks-13-blue)
-- [go-up](https://github.com/ufoscout/go-up) - A simple configuration library with recursive placeholders resolution and no magic. ![stars](https://img.shields.io/badge/stars-43-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
-- [GoCfg](https://github.com/Jagerente/gocfg) - Config manager with Struct Tags based contracts, custom value providers, parsers, and documentation generation. Customizable yet simple. ![stars](https://img.shields.io/badge/stars-6-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
+- [aconfig](https://github.com/cristalhq/aconfig) - Simple, useful and opinionated config loader.
+- [bcl](https://github.com/wkhere/bcl) - BCL is a configuration language similar to HCL.
+- [cleanenv](https://github.com/ilyakaznacheev/cleanenv) - Minimalistic configuration reader (from files, ENV, and wherever you want).
+- [config](https://github.com/JeremyLoy/config) - Cloud native application configuration. Bind ENV to structs in only two lines.
+- [config](https://github.com/num30/config) - configure your app using file, environment variables, or flags in two lines of code
+- [configuration](https://github.com/BoRuDar/configuration) - Library for initializing configuration structs from env variables, files, flags and 'default' tag.
+- [configure](https://github.com/paked/configure) - Provides configuration through multiple sources, including JSON, flags and environment variables.
+- [configuro](https://github.com/sherifabdlnaby/configuro) - opinionated configuration loading & validation framework from ENV and Files focused towards 12-Factor compliant applications.
+- [confiq](https://github.com/greencoda/confiq) - Structured data format to config struct decoder library for Go - supporting multiple data formats
+- [confita](https://github.com/heetch/confita) - Load configuration in cascade from multiple backends into a struct.
+- [conflate](https://github.com/the4thamigo-uk/conflate) - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema.
+- [env](https://github.com/caarlos0/env) - Parse environment variables to Go structs (with defaults).
+- [env](https://github.com/junk1tm/env) - A lightweight package for loading environment variables into structs.
+- [env](https://github.com/syntaqx/env) - An environment utility package with support for unmarshaling into structs
+- [envconfig](https://github.com/vrischmann/envconfig) - Read your configuration from environment variables.
+- [envh](https://github.com/antham/envh) - Helpers to manage environment variables.
+- [fig](https://github.com/kkyr/fig) - Tiny library for reading configuration from a file and from environment variables (with validation & defaults).
+- [genv](https://github.com/sakirsensoy/genv) - Read environment variables easily with dotenv support.
+- [go-array](https://github.com/deatil/go-array) - A Go package that read or set data from map, slice or json.
+- [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) - Go package that fetches parameters from AWS System Manager - Parameter Store.
+- [go-cfg](https://github.com/dsbasko/go-cfg) - The library provides a unified way to read configuration data into a structure from various sources, such as env, flags, and configuration files (.json, .yaml, .toml, .env).
+- [go-conf](https://github.com/ThomasObenaus/go-conf) - Simple library for application configuration based on annotated structs. It supports reading the configuration from environment variables, config files and command line parameters.
+- [go-ini](https://github.com/subpop/go-ini) - A Go package that marshals and unmarshals INI-files.
+- [go-ssm-config](https://github.com/ianlopshire/go-ssm-config) - Go utility for loading configuration parameters from AWS SSM (Parameter Store).
+- [go-up](https://github.com/ufoscout/go-up) - A simple configuration library with recursive placeholders resolution and no magic.
+- [GoCfg](https://github.com/Jagerente/gocfg) - Config manager with Struct Tags based contracts, custom value providers, parsers, and documentation generation. Customizable yet simple.
 - [goConfig](https://github.com/crgimenes/goConfig) - Parses a struct as input and populates the fields of this struct with parameters from command line, environment variables and configuration file.
-- [godotenv](https://github.com/joho/godotenv) - Go port of Ruby's dotenv library (Loads environment variables from `.env`). ![stars](https://img.shields.io/badge/stars-8386-blue) ![forks](https://img.shields.io/badge/forks-404-blue)
-- [gofigure](https://github.com/ian-kent/gofigure) - Go application configuration made easy. ![stars](https://img.shields.io/badge/stars-68-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
-- [GoLobby/Config](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language. ![stars](https://img.shields.io/badge/stars-365-blue) ![forks](https://img.shields.io/badge/forks-29-blue)
-- [gone/jconf](https://github.com/One-com/gone/tree/master/jconf) - Modular JSON configuration. Keep your config structs along with the code they configure and delegate parsing to submodules without sacrificing full config serialization. ![stars](https://img.shields.io/badge/stars-50-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [gonfig](https://github.com/milad-abbasi/gonfig) - Tag-based configuration parser which loads values from different providers into typesafe struct. ![stars](https://img.shields.io/badge/stars-9-blue) ![forks](https://img.shields.io/badge/forks-1-blue)
-- [gookit/config](https://github.com/gookit/config) - application config manage(load,get,set). support JSON, YAML, TOML, INI, HCL. multi file load, data override merge. ![stars](https://img.shields.io/badge/stars-540-blue) ![forks](https://img.shields.io/badge/forks-55-blue)
-- [harvester](https://github.com/beatlabs/harvester) - Harvester, an easy to use static and dynamic configuration package supporting seeding, env vars and Consul integration. ![stars](https://img.shields.io/badge/stars-131-blue) ![forks](https://img.shields.io/badge/forks-27-blue)
-- [hjson](https://github.com/hjson/hjson-go) - Human JSON, a configuration file format for humans. Relaxed syntax, fewer mistakes, more comments. ![stars](https://img.shields.io/badge/stars-331-blue) ![forks](https://img.shields.io/badge/forks-42-blue)
-- [hocon](https://github.com/gurkankaymak/hocon) - Configuration library for working with the HOCON(a human-friendly JSON superset) format, supports features like environment variables, referencing other values, comments and multiple files. ![stars](https://img.shields.io/badge/stars-77-blue) ![forks](https://img.shields.io/badge/forks-16-blue)
-- [ingo](https://github.com/schachmat/ingo) - Flags persisted in an ini-like config file. ![stars](https://img.shields.io/badge/stars-38-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [ini](https://github.com/go-ini/ini) - Go package to read and write INI files. ![stars](https://img.shields.io/badge/stars-3464-blue) ![forks](https://img.shields.io/badge/forks-373-blue)
-- [ini](https://github.com/wlevene/ini) - INI Parser & Write Library, Unmarshal to Struct, Marshal to Json, Write File, watch file. ![stars](https://img.shields.io/badge/stars-15-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
-- [joshbetz/config](https://github.com/joshbetz/config) - Small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP. ![stars](https://img.shields.io/badge/stars-215-blue) ![forks](https://img.shields.io/badge/forks-14-blue)
-- [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Go library for managing configuration data from environment variables. ![stars](https://img.shields.io/badge/stars-5058-blue) ![forks](https://img.shields.io/badge/forks-382-blue)
-- [koanf](https://github.com/knadh/koanf) - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line. ![stars](https://img.shields.io/badge/stars-2774-blue) ![forks](https://img.shields.io/badge/forks-151-blue)
-- [konf](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP). ![stars](https://img.shields.io/badge/stars-236-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era. ![stars](https://img.shields.io/badge/stars-648-blue) ![forks](https://img.shields.io/badge/forks-54-blue)
-- [kong](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`). ![stars](https://img.shields.io/badge/stars-2136-blue) ![forks](https://img.shields.io/badge/forks-139-blue)
-- [mini](https://github.com/sasbury/mini) - Golang package for parsing ini-style configuration files. ![stars](https://img.shields.io/badge/stars-35-blue) ![forks](https://img.shields.io/badge/forks-8-blue)
-- [nasermirzaei89/env](https://github.com/nasermirzaei89/env) - Simple useful package for read environment variables. ![stars](https://img.shields.io/badge/stars-18-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [nfigure](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML ![stars](https://img.shields.io/badge/stars-7-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
-- [onion](https://github.com/goraz/onion) - Layer based configuration for Go, Supports JSON, TOML, YAML, properties, etcd, env, and encryption using PGP. ![stars](https://img.shields.io/badge/stars-116-blue) ![forks](https://img.shields.io/badge/forks-15-blue)
-- [piper](https://github.com/Yiling-J/piper) - Viper wrapper with config inheritance and key generation. ![stars](https://img.shields.io/badge/stars-8-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
-- [sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library. ![stars](https://img.shields.io/badge/stars-6892-blue) ![forks](https://img.shields.io/badge/forks-338-blue)
-- [store](https://github.com/tucnak/store) - Lightweight configuration manager for Go. ![stars](https://img.shields.io/badge/stars-274-blue) ![forks](https://img.shields.io/badge/forks-22-blue)
-- [swap](https://github.com/oblq/swap) - Instantiate/configure structs recursively, based on build environment. (YAML, TOML, JSON and env). ![stars](https://img.shields.io/badge/stars-8-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [typenv](https://github.com/diegomarangoni/typenv) - Minimalistic, zero dependency, typed environment variables library. ![stars](https://img.shields.io/badge/stars-9-blue) ![forks](https://img.shields.io/badge/forks-1-blue)
-- [uConfig](https://github.com/omeid/uconfig) - Lightweight, zero-dependency, and extendable configuration management. ![stars](https://img.shields.io/badge/stars-69-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [viper](https://github.com/spf13/viper) - Go configuration with fangs. ![stars](https://img.shields.io/badge/stars-27126-blue) ![forks](https://img.shields.io/badge/forks-2015-blue)
-- [xdg](https://github.com/adrg/xdg) - Go implementation of the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/latest/) and [XDG user directories](https://wiki.archlinux.org/index.php/XDG_user_directories). ![stars](https://img.shields.io/badge/stars-704-blue) ![forks](https://img.shields.io/badge/forks-29-blue)
-- [xdg](https://github.com/OpenPeeDeeP/xdg) - Cross platform package that follows the [XDG Standard](https://specifications.freedesktop.org/basedir-spec/latest/). ![stars](https://img.shields.io/badge/stars-79-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
-- [yamagiconf](https://github.com/romshark/yamagiconf) - The "safe subset" of YAML for Go configs. ![stars](https://img.shields.io/badge/stars-18-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
+- [godotenv](https://github.com/joho/godotenv) - Go port of Ruby's dotenv library (Loads environment variables from `.env`).
+- [gofigure](https://github.com/ian-kent/gofigure) - Go application configuration made easy.
+- [GoLobby/Config](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language.
+- [gone/jconf](https://github.com/One-com/gone/tree/master/jconf) - Modular JSON configuration. Keep your config structs along with the code they configure and delegate parsing to submodules without sacrificing full config serialization.
+- [gonfig](https://github.com/milad-abbasi/gonfig) - Tag-based configuration parser which loads values from different providers into typesafe struct.
+- [gookit/config](https://github.com/gookit/config) - application config manage(load,get,set). support JSON, YAML, TOML, INI, HCL. multi file load, data override merge.
+- [harvester](https://github.com/beatlabs/harvester) - Harvester, an easy to use static and dynamic configuration package supporting seeding, env vars and Consul integration.
+- [hjson](https://github.com/hjson/hjson-go) - Human JSON, a configuration file format for humans. Relaxed syntax, fewer mistakes, more comments.
+- [hocon](https://github.com/gurkankaymak/hocon) - Configuration library for working with the HOCON(a human-friendly JSON superset) format, supports features like environment variables, referencing other values, comments and multiple files.
+- [ingo](https://github.com/schachmat/ingo) - Flags persisted in an ini-like config file.
+- [ini](https://github.com/go-ini/ini) - Go package to read and write INI files.
+- [ini](https://github.com/wlevene/ini) - INI Parser & Write Library, Unmarshal to Struct, Marshal to Json, Write File, watch file.
+- [joshbetz/config](https://github.com/joshbetz/config) - Small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP.
+- [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Go library for managing configuration data from environment variables.
+- [koanf](https://github.com/knadh/koanf) - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.
+- [konf](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
+- [konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era.
+- [kong](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`).
+- [mini](https://github.com/sasbury/mini) - Golang package for parsing ini-style configuration files.
+- [nasermirzaei89/env](https://github.com/nasermirzaei89/env) - Simple useful package for read environment variables.
+- [nfigure](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
+- [onion](https://github.com/goraz/onion) - Layer based configuration for Go, Supports JSON, TOML, YAML, properties, etcd, env, and encryption using PGP.
+- [piper](https://github.com/Yiling-J/piper) - Viper wrapper with config inheritance and key generation.
+- [sonic](https://github.com/bytedance/sonic) - A blazingly fast JSON serializing & deserializing library.
+- [store](https://github.com/tucnak/store) - Lightweight configuration manager for Go.
+- [swap](https://github.com/oblq/swap) - Instantiate/configure structs recursively, based on build environment. (YAML, TOML, JSON and env).
+- [typenv](https://github.com/diegomarangoni/typenv) - Minimalistic, zero dependency, typed environment variables library.
+- [uConfig](https://github.com/omeid/uconfig) - Lightweight, zero-dependency, and extendable configuration management.
+- [viper](https://github.com/spf13/viper) - Go configuration with fangs.
+- [xdg](https://github.com/adrg/xdg) - Go implementation of the [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/latest/) and [XDG user directories](https://wiki.archlinux.org/index.php/XDG_user_directories).
+- [xdg](https://github.com/OpenPeeDeeP/xdg) - Cross platform package that follows the [XDG Standard](https://specifications.freedesktop.org/basedir-spec/latest/).
+- [yamagiconf](https://github.com/romshark/yamagiconf) - The "safe subset" of YAML for Go configs.
 
 **[⬆ back to top](#contents)**
 
@@ -526,22 +526,22 @@ _Libraries for configuration parsing._
 
 _Tools for help with continuous integration._
 
-- [abstruse](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform. ![stars](https://img.shields.io/badge/stars-938-blue) ![forks](https://img.shields.io/badge/forks-103-blue)
+- [abstruse](https://github.com/bleenco/abstruse) - Abstruse is a distributed CI platform.
 - [Bencher](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
-- [CDS](https://github.com/ovh/cds) - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform. ![stars](https://img.shields.io/badge/stars-4593-blue) ![forks](https://img.shields.io/badge/forks-428-blue)
-- [dot](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages. ![stars](https://img.shields.io/badge/stars-23-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
-- [drone](https://github.com/drone/drone) - Drone is a Continuous Integration platform built on Docker, written in Go. ![stars](https://img.shields.io/badge/stars-32231-blue) ![forks](https://img.shields.io/badge/forks-2816-blue)
-- [go-beautiful-html-coverage](https://github.com/gha-common/go-beautiful-html-coverage) - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free. ![stars](https://img.shields.io/badge/stars-12-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
-- [go-fuzz-action](https://github.com/jidicula/go-fuzz-action) - Use Go 1.18's built-in fuzz testing in GitHub Actions. ![stars](https://img.shields.io/badge/stars-15-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
-- [go-semver-release](https://github.com/s0ders/go-semver-release) - Automate the semantic versioning of Git repositories. ![stars](https://img.shields.io/badge/stars-10-blue) ![forks](https://img.shields.io/badge/forks-1-blue)
-- [go-test-coverage](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold. ![stars](https://img.shields.io/badge/stars-84-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
-- [gomason](https://github.com/nikogura/gomason) - Test, Build, Sign, and Publish your go binaries from a clean workspace. ![stars](https://img.shields.io/badge/stars-65-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [gotestfmt](https://github.com/GoTestTools/gotestfmt) - go test output for humans. ![stars](https://img.shields.io/badge/stars-510-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [goveralls](https://github.com/mattn/goveralls) - Go integration for Coveralls.io continuous code coverage tracking system. ![stars](https://img.shields.io/badge/stars-789-blue) ![forks](https://img.shields.io/badge/forks-140-blue)
-- [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go, see [alternatives](https://github.com/lycheeverse/lychee#features). ![stars](https://img.shields.io/badge/stars-2516-blue) ![forks](https://img.shields.io/badge/forks-99-blue)
-- [overalls](https://github.com/go-playground/overalls) - Multi-Package go project coverprofile for tools like goveralls. ![stars](https://img.shields.io/badge/stars-114-blue) ![forks](https://img.shields.io/badge/forks-26-blue)
-- [roveralls](https://github.com/LawrenceWoodman/roveralls) - Recursive coverage testing tool. ![stars](https://img.shields.io/badge/stars-20-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system. ![stars](https://img.shields.io/badge/stars-4244-blue) ![forks](https://img.shields.io/badge/forks-368-blue)
+- [CDS](https://github.com/ovh/cds) - Enterprise-Grade CI/CD and DevOps Automation Open Source Platform.
+- [dot](https://github.com/opnlabs/dot) - A minimal, local first continuous integration system that uses Docker to run jobs concurrently in stages.
+- [drone](https://github.com/drone/drone) - Drone is a Continuous Integration platform built on Docker, written in Go.
+- [go-beautiful-html-coverage](https://github.com/gha-common/go-beautiful-html-coverage) - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
+- [go-fuzz-action](https://github.com/jidicula/go-fuzz-action) - Use Go 1.18's built-in fuzz testing in GitHub Actions.
+- [go-semver-release](https://github.com/s0ders/go-semver-release) - Automate the semantic versioning of Git repositories.
+- [go-test-coverage](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
+- [gomason](https://github.com/nikogura/gomason) - Test, Build, Sign, and Publish your go binaries from a clean workspace.
+- [gotestfmt](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
+- [goveralls](https://github.com/mattn/goveralls) - Go integration for Coveralls.io continuous code coverage tracking system.
+- [muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go, see [alternatives](https://github.com/lycheeverse/lychee#features).
+- [overalls](https://github.com/go-playground/overalls) - Multi-Package go project coverprofile for tools like goveralls.
+- [roveralls](https://github.com/LawrenceWoodman/roveralls) - Recursive coverage testing tool.
+- [woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 
 **[⬆ back to top](#contents)**
 
@@ -549,8 +549,8 @@ _Tools for help with continuous integration._
 
 _Libraries for preprocessing CSS files._
 
-- [gcss](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor. ![stars](https://img.shields.io/badge/stars-496-blue) ![forks](https://img.shields.io/badge/forks-40-blue)
-- [go-libsass](https://github.com/wellington/go-libsass) - Go wrapper to the 100% Sass compatible libsass project. ![stars](https://img.shields.io/badge/stars-206-blue) ![forks](https://img.shields.io/badge/forks-29-blue)
+- [gcss](https://github.com/yosssi/gcss) - Pure Go CSS Preprocessor.
+- [go-libsass](https://github.com/wellington/go-libsass) - Go wrapper to the 100% Sass compatible libsass project.
 
 **[⬆ back to top](#contents)**
 
@@ -558,9 +558,9 @@ _Libraries for preprocessing CSS files._
 
 _Frameworks for performing ELT / ETL_
 
-- [Benthos](https://github.com/benthosdev/benthos) - A message streaming bridge between a range of protocols. ![stars](https://img.shields.io/badge/stars-8129-blue) ![forks](https://img.shields.io/badge/forks-831-blue)
+- [Benthos](https://github.com/benthosdev/benthos) - A message streaming bridge between a range of protocols.
 - [CloudQuery](http://github.com/cloudquery/cloudquery) - A high-performance ELT data integration framework with pluggable architecture.
-- [omniparser](https://github.com/jf-tech/omniparser) - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema. ![stars](https://img.shields.io/badge/stars-970-blue) ![forks](https://img.shields.io/badge/forks-69-blue)
+- [omniparser](https://github.com/jf-tech/omniparser) - A versatile ETL library that parses text input (CSV/txt/JSON/XML/EDI/X12/EDIFACT/etc) in streaming fashion and transforms data into JSON output using data-driven schema.
 
 **[⬆ back to top](#contents)**
 
@@ -568,77 +568,77 @@ _Frameworks for performing ELT / ETL_
 
 ### Bit-packing and Compression
 
-- [bingo](https://github.com/iancmcc/bingo) - Fast, zero-allocation, lexicographical-order-preserving packing of native types to bytes. ![stars](https://img.shields.io/badge/stars-41-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
-- [binpacker](https://github.com/zhuangsirui/binpacker) - Binary packer and unpacker helps user build custom binary stream. ![stars](https://img.shields.io/badge/stars-220-blue) ![forks](https://img.shields.io/badge/forks-37-blue)
-- [bit](https://github.com/yourbasic/bit) - Golang set data structure with bonus bit-twiddling functions. ![stars](https://img.shields.io/badge/stars-158-blue) ![forks](https://img.shields.io/badge/forks-26-blue)
-- [crunch](https://github.com/superwhiskers/crunch) - Go package implementing buffers for handling various datatypes easily. ![stars](https://img.shields.io/badge/stars-97-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [go-ef](https://github.com/amallia/go-ef) - A Go implementation of the Elias-Fano encoding. ![stars](https://img.shields.io/badge/stars-31-blue) ![forks](https://img.shields.io/badge/forks-8-blue)
-- [roaring](https://github.com/RoaringBitmap/roaring) - Go package implementing compressed bitsets. ![stars](https://img.shields.io/badge/stars-2519-blue) ![forks](https://img.shields.io/badge/forks-230-blue)
+- [bingo](https://github.com/iancmcc/bingo) - Fast, zero-allocation, lexicographical-order-preserving packing of native types to bytes.
+- [binpacker](https://github.com/zhuangsirui/binpacker) - Binary packer and unpacker helps user build custom binary stream.
+- [bit](https://github.com/yourbasic/bit) - Golang set data structure with bonus bit-twiddling functions.
+- [crunch](https://github.com/superwhiskers/crunch) - Go package implementing buffers for handling various datatypes easily.
+- [go-ef](https://github.com/amallia/go-ef) - A Go implementation of the Elias-Fano encoding.
+- [roaring](https://github.com/RoaringBitmap/roaring) - Go package implementing compressed bitsets.
 
 ### Bit Sets
 
-- [bitmap](https://github.com/kelindar/bitmap) - Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go. ![stars](https://img.shields.io/badge/stars-308-blue) ![forks](https://img.shields.io/badge/forks-23-blue)
-- [bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets. ![stars](https://img.shields.io/badge/stars-1341-blue) ![forks](https://img.shields.io/badge/forks-175-blue)
+- [bitmap](https://github.com/kelindar/bitmap) - Dense, zero-allocation, SIMD-enabled bitmap/bitset in Go.
+- [bitset](https://github.com/bits-and-blooms/bitset) - Go package implementing bitsets.
 
 ### Bloom and Cuckoo Filters
 
-- [bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters. ![stars](https://img.shields.io/badge/stars-2430-blue) ![forks](https://img.shields.io/badge/forks-231-blue)
-- [bloom](https://github.com/zhenjl/bloom) - Bloom filters implemented in Go. ![stars](https://img.shields.io/badge/stars-147-blue) ![forks](https://img.shields.io/badge/forks-21-blue)
-- [bloom](https://github.com/yourbasic/bloom) - Golang Bloom filter implementation. ![stars](https://img.shields.io/badge/stars-86-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
-- [bloomfilter](https://github.com/OldPanda/bloomfilter) - Yet another Bloomfilter implementation in Go, compatible with Java's Guava library. ![stars](https://img.shields.io/badge/stars-17-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [boomfilters](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams. ![stars](https://img.shields.io/badge/stars-1594-blue) ![forks](https://img.shields.io/badge/forks-112-blue)
-- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper are available. ![stars](https://img.shields.io/badge/stars-295-blue) ![forks](https://img.shields.io/badge/forks-27-blue)
-- [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo filter: a good alternative to a counting bloom filter implemented in Go. ![stars](https://img.shields.io/badge/stars-1129-blue) ![forks](https://img.shields.io/badge/forks-109-blue)
-- [ring](https://github.com/TheTannerRyan/ring) - Go implementation of a high performance, thread safe bloom filter. ![stars](https://img.shields.io/badge/stars-138-blue) ![forks](https://img.shields.io/badge/forks-17-blue)
+- [bloom](https://github.com/bits-and-blooms/bloom) - Go package implementing Bloom filters.
+- [bloom](https://github.com/zhenjl/bloom) - Bloom filters implemented in Go.
+- [bloom](https://github.com/yourbasic/bloom) - Golang Bloom filter implementation.
+- [bloomfilter](https://github.com/OldPanda/bloomfilter) - Yet another Bloomfilter implementation in Go, compatible with Java's Guava library.
+- [boomfilters](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams.
+- [cuckoo-filter](https://github.com/linvon/cuckoo-filter) - Cuckoo filter: a comprehensive cuckoo filter, which is configurable and space optimized compared with other implements, and all features mentioned in original paper are available.
+- [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo filter: a good alternative to a counting bloom filter implemented in Go.
+- [ring](https://github.com/TheTannerRyan/ring) - Go implementation of a high performance, thread safe bloom filter.
 
 ### Data Structure and Algorithm Collections
 
-- [algorithms](https://github.com/shady831213/algorithms) - Algorithms and data structures.CLRS study. ![stars](https://img.shields.io/badge/stars-804-blue) ![forks](https://img.shields.io/badge/forks-121-blue)
-- [go-datastructures](https://github.com/Workiva/go-datastructures) - Collection of useful, performant, and thread-safe data structures. ![stars](https://img.shields.io/badge/stars-7668-blue) ![forks](https://img.shields.io/badge/forks-834-blue)
-- [gods](https://github.com/emirpasic/gods) - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc. ![stars](https://img.shields.io/badge/stars-16330-blue) ![forks](https://img.shields.io/badge/forks-1775-blue)
-- [gostl](https://github.com/liyue201/gostl) - Data structure and algorithm library for go, designed to provide functions similar to C++ STL. ![stars](https://img.shields.io/badge/stars-1052-blue) ![forks](https://img.shields.io/badge/forks-114-blue)
+- [algorithms](https://github.com/shady831213/algorithms) - Algorithms and data structures.CLRS study.
+- [go-datastructures](https://github.com/Workiva/go-datastructures) - Collection of useful, performant, and thread-safe data structures.
+- [gods](https://github.com/emirpasic/gods) - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
+- [gostl](https://github.com/liyue201/gostl) - Data structure and algorithm library for go, designed to provide functions similar to C++ STL.
 
 ### Iterators
 
-- [goterator](https://github.com/yaa110/goterator) - Iterator implementation to provide map and reduce functionalities. ![stars](https://img.shields.io/badge/stars-16-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
-- [iter](https://github.com/disksing/iter) - Go implementation of C++ STL iterators and algorithms. ![stars](https://img.shields.io/badge/stars-187-blue) ![forks](https://img.shields.io/badge/forks-13-blue)
+- [goterator](https://github.com/yaa110/goterator) - Iterator implementation to provide map and reduce functionalities.
+- [iter](https://github.com/disksing/iter) - Go implementation of C++ STL iterators and algorithms.
 
 ### Maps
 
 See also [Database](#database) for more complex key-value stores, and [Trees](#trees) for
 additional ordered map implementations.
 
-- [cmap](https://github.com/lrita/cmap) - a thread-safe concurrent map for go, support using `interface{}` as key and auto scale up shards. ![stars](https://img.shields.io/badge/stars-92-blue) ![forks](https://img.shields.io/badge/forks-8-blue)
-- [dict](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go. ![stars](https://img.shields.io/badge/stars-45-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
-- [go-shelve](https://github.com/lucmq/go-shelve) - A persistent, map-like object for the Go programming language. Supports multiple embedded key-value stores. ![stars](https://img.shields.io/badge/stars-7-blue) ![forks](https://img.shields.io/badge/forks-0-blue)
-- [goradd/maps](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc. ![stars](https://img.shields.io/badge/stars-41-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
+- [cmap](https://github.com/lrita/cmap) - a thread-safe concurrent map for go, support using `interface{}` as key and auto scale up shards.
+- [dict](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go.
+- [go-shelve](https://github.com/lucmq/go-shelve) - A persistent, map-like object for the Go programming language. Supports multiple embedded key-value stores.
+- [goradd/maps](https://github.com/goradd/maps) - Go 1.18+ generic map interface for maps; safe maps; ordered maps; ordered, safe maps; etc.
 
 ### Miscellaneous Data Structures and Algorithms
 
-- [concurrent-writer](https://github.com/free/concurrent-writer) - Highly concurrent drop-in replacement for `bufio.Writer`. ![stars](https://img.shields.io/badge/stars-54-blue) ![forks](https://img.shields.io/badge/forks-10-blue)
-- [conjungo](https://github.com/InVisionApp/conjungo) - A small, powerful and flexible merge library. ![stars](https://img.shields.io/badge/stars-126-blue) ![forks](https://img.shields.io/badge/forks-18-blue)
-- [count-min-log](https://github.com/seiflotfy/count-min-log) - Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory). ![stars](https://img.shields.io/badge/stars-66-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [fsm](https://github.com/cocoonspace/fsm) - Finite-State Machine package. ![stars](https://img.shields.io/badge/stars-64-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
-- [genfuncs](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map. ![stars](https://img.shields.io/badge/stars-51-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [go-generics](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities. ![stars](https://img.shields.io/badge/stars-73-blue) ![forks](https://img.shields.io/badge/forks-5-blue)
-- [go-geoindex](https://github.com/hailocab/go-geoindex) - In-memory geo index. ![stars](https://img.shields.io/badge/stars-355-blue) ![forks](https://img.shields.io/badge/forks-49-blue)
-- [go-rampart](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other. ![stars](https://img.shields.io/badge/stars-101-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
-- [go-rquad](https://github.com/aurelien-rainone/go-rquad) - Region quadtrees with efficient point location and neighbour finding. ![stars](https://img.shields.io/badge/stars-134-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [go-tuple](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+. ![stars](https://img.shields.io/badge/stars-82-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
-- [go18ds](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics. ![stars](https://img.shields.io/badge/stars-45-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
-- [gofal](https://github.com/xxjwxc/gofal) - fractional api for Go. ![stars](https://img.shields.io/badge/stars-19-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [gogu](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library. ![stars](https://img.shields.io/badge/stars-97-blue) ![forks](https://img.shields.io/badge/forks-8-blue)
-- [gota](https://github.com/kniren/gota) - Implementation of dataframes, series, and data wrangling methods for Go. ![stars](https://img.shields.io/badge/stars-3068-blue) ![forks](https://img.shields.io/badge/forks-279-blue)
-- [hide](https://github.com/emvi/hide) - ID type with marshalling to/from hash to prevent sending IDs to clients. ![stars](https://img.shields.io/badge/stars-69-blue) ![forks](https://img.shields.io/badge/forks-6-blue)
-- [hilbert](https://github.com/google/hilbert) - Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves. ![stars](https://img.shields.io/badge/stars-278-blue) ![forks](https://img.shields.io/badge/forks-41-blue)
-- [hyperloglog](https://github.com/axiomhq/hyperloglog) - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction. ![stars](https://img.shields.io/badge/stars-941-blue) ![forks](https://img.shields.io/badge/forks-71-blue)
-- [quadtree](https://github.com/s0rg/quadtree) - Generic, zero-alloc, 100%-test covered quadtree. ![stars](https://img.shields.io/badge/stars-37-blue) ![forks](https://img.shields.io/badge/forks-1-blue)
-- [slices](https://github.com/srfrog/slices) - Functions that operate on slices; like `package strings` but adapted to work with slices. ![stars](https://img.shields.io/badge/stars-17-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
-- [slices](https://github.com/twharmon/slices) - Pure, generic functions for slices. ![stars](https://img.shields.io/badge/stars-20-blue) ![forks](https://img.shields.io/badge/forks-1-blue)
+- [concurrent-writer](https://github.com/free/concurrent-writer) - Highly concurrent drop-in replacement for `bufio.Writer`.
+- [conjungo](https://github.com/InVisionApp/conjungo) - A small, powerful and flexible merge library.
+- [count-min-log](https://github.com/seiflotfy/count-min-log) - Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory).
+- [fsm](https://github.com/cocoonspace/fsm) - Finite-State Machine package.
+- [genfuncs](https://github.com/nwillc/genfuncs) - Go 1.18+ generics package inspired by Kotlin's Sequence and Map.
+- [go-generics](https://github.com/bobg/go-generics) - Generic slice, map, set, iterator, and goroutine utilities.
+- [go-geoindex](https://github.com/hailocab/go-geoindex) - In-memory geo index.
+- [go-rampart](https://github.com/francesconi/go-rampart) - Determine how intervals relate to each other.
+- [go-rquad](https://github.com/aurelien-rainone/go-rquad) - Region quadtrees with efficient point location and neighbour finding.
+- [go-tuple](https://github.com/barweiss/go-tuple) - Generic tuple implementation for Go 1.18+.
+- [go18ds](https://github.com/daichi-m/go18ds) - Go Data Structures using Go 1.18 generics.
+- [gofal](https://github.com/xxjwxc/gofal) - fractional api for Go.
+- [gogu](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
+- [gota](https://github.com/kniren/gota) - Implementation of dataframes, series, and data wrangling methods for Go.
+- [hide](https://github.com/emvi/hide) - ID type with marshalling to/from hash to prevent sending IDs to clients.
+- [hilbert](https://github.com/google/hilbert) - Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves.
+- [hyperloglog](https://github.com/axiomhq/hyperloglog) - HyperLogLog implementation with Sparse, LogLog-Beta bias correction and TailCut space reduction.
+- [quadtree](https://github.com/s0rg/quadtree) - Generic, zero-alloc, 100%-test covered quadtree.
+- [slices](https://github.com/srfrog/slices) - Functions that operate on slices; like `package strings` but adapted to work with slices.
+- [slices](https://github.com/twharmon/slices) - Pure, generic functions for slices.
 
 ### Nullable Types
 
-- [nan](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers. ![stars](https://img.shields.io/badge/stars-85-blue) ![forks](https://img.shields.io/badge/forks-11-blue)
+- [nan](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers.
 - [null](https://github.com/emvi/null) - Nullable Go types that can be marshalled/unmarshalled to/from JSON.
 - [typ](https://github.com/gurukami/typ) - Null Types, Safe primitive type conversion and fetching value from complex structures.
 
@@ -1576,7 +1576,7 @@ _Libraries for generating and working with log files._
 - [go-log](https://github.com/ian-kent/go-log) - Log4j implementation in Go.
 - [go-logger](https://github.com/apsdehal/go-logger) - Simple logger of Go Programs, with level handlers.
 - [gomol](https://github.com/aphistic/gomol) - Multiple-output, structured logging for Go with extensible logging outputs.
-- [gone/log](https://github.com/One-com/gone/tree/master/log) - Fast, extendable, full-featured, std-lib source compatible log library. ![stars](https://img.shields.io/badge/stars-50-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
+- [gone/log](https://github.com/One-com/gone/tree/master/log) - Fast, extendable, full-featured, std-lib source compatible log library.
 - [httpretty](https://github.com/henvic/httpretty) - Pretty-prints your regular HTTP requests on your terminal for debugging (similar to http.DumpRequest).
 - [journald](https://github.com/ssgreg/journald) - Go implementation of systemd Journal's native API for logging.
 - [kemba](https://github.com/clok/kemba) - A tiny debug logging tool inspired by [debug](https://github.com/visionmedia/debug), great for CLI tools and applications.
@@ -2539,7 +2539,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 - [address](https://github.com/bojanz/address) - Handles address representation, validation and formatting.
 - [align](https://github.com/Guitarbum722/align) - A general purpose application that aligns text.
-- [bytes](https://github.com/labstack/gommon/tree/master/bytes) - Formats and parses numeric byte values (10K, 2M, 3G, etc.). ![stars](https://img.shields.io/badge/stars-541-blue) ![forks](https://img.shields.io/badge/forks-101-blue)
+- [bytes](https://github.com/labstack/gommon/tree/master/bytes) - Formats and parses numeric byte values (10K, 2M, 3G, etc.).
 - [go-fixedwidth](https://github.com/ianlopshire/go-fixedwidth) - Fixed-width text formatting (encoder/decoder with reflection).
 - [go-humanize](https://github.com/dustin/go-humanize) - Formatters for time, numbers, and memory size to human readable format.
 - [gotabulate](https://github.com/bndr/gotabulate) - Easily pretty-print your tabular data with Go.
@@ -3046,7 +3046,7 @@ _Full stack web frameworks._
 - [goweb](https://github.com/twharmon/goweb) - Web framework with routing, websockets, logging, middleware, static file server (optional gzip), and automatic TLS.
 - [Goyave](https://github.com/go-goyave/goyave) - Feature-complete REST API framework aimed at clean code and fast development, with powerful built-in functionalities.
 - [Hertz](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
-- [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web application framework with auto configuration and dependency injection support. ![stars](https://img.shields.io/badge/stars-180-blue) ![forks](https://img.shields.io/badge/forks-25-blue)
+- [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web application framework with auto configuration and dependency injection support.
 - [Huma](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
 - [iWF](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
 - [Lit](https://github.com/jvcoutinho/lit) - Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
