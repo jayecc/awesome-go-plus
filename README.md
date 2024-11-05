@@ -219,9 +219,9 @@ _Libraries for building programs that leverage AI._
 - [chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. ![stars](https://img.shields.io/badge/stars-278-blue) ![forks](https://img.shields.io/badge/forks-20-blue)
 - [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
 - [langchaingo](https://github.com/tmc/langchaingo) - LangChainGo is a framework for developing applications powered by language models. ![stars](https://img.shields.io/badge/stars-4570-blue) ![forks](https://img.shields.io/badge/forks-620-blue)
-- [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models. ![stars](https://img.shields.io/badge/stars-24381-blue) ![forks](https://img.shields.io/badge/forks-1868-blue)
-- [Ollama](https://github.com/jmorganca/ollama) - Run large language models locally. ![stars](https://img.shields.io/badge/stars-96268-blue) ![forks](https://img.shields.io/badge/forks-7644-blue)
-- [OllamaFarm](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas
+- [LocalAI](https://github.com/mudler/LocalAI) - Open Source OpenAI alternative, self-host AI models. ![stars](https://img.shields.io/badge/stars-24382-blue) ![forks](https://img.shields.io/badge/forks-1868-blue)
+- [Ollama](https://github.com/jmorganca/ollama) - Run large language models locally. ![stars](https://img.shields.io/badge/stars-96270-blue) ![forks](https://img.shields.io/badge/forks-7643-blue)
+- [OllamaFarm](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas ![stars](https://img.shields.io/badge/stars-39-blue) ![forks](https://img.shields.io/badge/forks-1-blue)
 
 **[⬆ back to top](#contents)**
 
@@ -229,7 +229,7 @@ _Libraries for building programs that leverage AI._
 
 _Libraries for manipulating audio._
 
-- [flac](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
+- [flac](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams. ![stars](https://img.shields.io/badge/stars-316-blue) ![forks](https://img.shields.io/badge/forks-44-blue)
 - [gaad](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
 - [GoAudio](https://github.com/DylanMeeus/GoAudio) - Native Go Audio Processing Library.
 - [gosamplerate](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go.
