@@ -490,23 +490,23 @@ _Libraries for configuration parsing._
 - [godotenv](https://github.com/joho/godotenv) - Go port of Ruby's dotenv library (Loads environment variables from `.env`). ![stars](https://img.shields.io/badge/stars-8386-blue) ![forks](https://img.shields.io/badge/forks-404-blue)
 - [gofigure](https://github.com/ian-kent/gofigure) - Go application configuration made easy. ![stars](https://img.shields.io/badge/stars-68-blue) ![forks](https://img.shields.io/badge/forks-7-blue)
 - [GoLobby/Config](https://github.com/golobby/config) - GoLobby Config is a lightweight yet powerful configuration manager for the Go programming language. ![stars](https://img.shields.io/badge/stars-365-blue) ![forks](https://img.shields.io/badge/forks-29-blue)
-- [gone/jconf](https://github.com/One-com/gone/tree/master/jconf) - Modular JSON configuration. Keep your config structs along with the code they configure and delegate parsing to submodules without sacrificing full config serialization.
+- [gone/jconf](https://github.com/One-com/gone/tree/master/jconf) - Modular JSON configuration. Keep your config structs along with the code they configure and delegate parsing to submodules without sacrificing full config serialization. ![stars](https://img.shields.io/badge/stars-50-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
 - [gonfig](https://github.com/milad-abbasi/gonfig) - Tag-based configuration parser which loads values from different providers into typesafe struct. ![stars](https://img.shields.io/badge/stars-9-blue) ![forks](https://img.shields.io/badge/forks-1-blue)
 - [gookit/config](https://github.com/gookit/config) - application config manage(load,get,set). support JSON, YAML, TOML, INI, HCL. multi file load, data override merge. ![stars](https://img.shields.io/badge/stars-540-blue) ![forks](https://img.shields.io/badge/forks-55-blue)
 - [harvester](https://github.com/beatlabs/harvester) - Harvester, an easy to use static and dynamic configuration package supporting seeding, env vars and Consul integration. ![stars](https://img.shields.io/badge/stars-131-blue) ![forks](https://img.shields.io/badge/forks-27-blue)
 - [hjson](https://github.com/hjson/hjson-go) - Human JSON, a configuration file format for humans. Relaxed syntax, fewer mistakes, more comments. ![stars](https://img.shields.io/badge/stars-331-blue) ![forks](https://img.shields.io/badge/forks-42-blue)
 - [hocon](https://github.com/gurkankaymak/hocon) - Configuration library for working with the HOCON(a human-friendly JSON superset) format, supports features like environment variables, referencing other values, comments and multiple files. ![stars](https://img.shields.io/badge/stars-77-blue) ![forks](https://img.shields.io/badge/forks-16-blue)
 - [ingo](https://github.com/schachmat/ingo) - Flags persisted in an ini-like config file. ![stars](https://img.shields.io/badge/stars-38-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
-- [ini](https://github.com/go-ini/ini) - Go package to read and write INI files.
-- [ini](https://github.com/wlevene/ini) - INI Parser & Write Library, Unmarshal to Struct, Marshal to Json, Write File, watch file.
-- [joshbetz/config](https://github.com/joshbetz/config) - Small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP.
-- [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Go library for managing configuration data from environment variables.
-- [koanf](https://github.com/knadh/koanf) - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.
-- [konf](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
-- [konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era.
-- [kong](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`).
-- [mini](https://github.com/sasbury/mini) - Golang package for parsing ini-style configuration files.
-- [nasermirzaei89/env](https://github.com/nasermirzaei89/env) - Simple useful package for read environment variables.
+- [ini](https://github.com/go-ini/ini) - Go package to read and write INI files. ![stars](https://img.shields.io/badge/stars-3464-blue) ![forks](https://img.shields.io/badge/forks-373-blue)
+- [ini](https://github.com/wlevene/ini) - INI Parser & Write Library, Unmarshal to Struct, Marshal to Json, Write File, watch file. ![stars](https://img.shields.io/badge/stars-15-blue) ![forks](https://img.shields.io/badge/forks-4-blue)
+- [joshbetz/config](https://github.com/joshbetz/config) - Small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP. ![stars](https://img.shields.io/badge/stars-215-blue) ![forks](https://img.shields.io/badge/forks-14-blue)
+- [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Go library for managing configuration data from environment variables. ![stars](https://img.shields.io/badge/stars-5058-blue) ![forks](https://img.shields.io/badge/forks-382-blue)
+- [koanf](https://github.com/knadh/koanf) - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line. ![stars](https://img.shields.io/badge/stars-2774-blue) ![forks](https://img.shields.io/badge/forks-151-blue)
+- [konf](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP). ![stars](https://img.shields.io/badge/stars-236-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
+- [konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era. ![stars](https://img.shields.io/badge/stars-648-blue) ![forks](https://img.shields.io/badge/forks-54-blue)
+- [kong](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`). ![stars](https://img.shields.io/badge/stars-2136-blue) ![forks](https://img.shields.io/badge/forks-139-blue)
+- [mini](https://github.com/sasbury/mini) - Golang package for parsing ini-style configuration files. ![stars](https://img.shields.io/badge/stars-35-blue) ![forks](https://img.shields.io/badge/forks-8-blue)
+- [nasermirzaei89/env](https://github.com/nasermirzaei89/env) - Simple useful package for read environment variables. ![stars](https://img.shields.io/badge/stars-18-blue) ![forks](https://img.shields.io/badge/forks-3-blue)
 - [nfigure](https://github.com/muir/nfigure) - Per-library struct-tag based configuration from command lines (Posix & Go-style); environment, JSON, YAML
 - [onion](https://github.com/goraz/onion) - Layer based configuration for Go, Supports JSON, TOML, YAML, properties, etcd, env, and encryption using PGP.
 - [piper](https://github.com/Yiling-J/piper) - Viper wrapper with config inheritance and key generation.
@@ -1576,7 +1576,7 @@ _Libraries for generating and working with log files._
 - [go-log](https://github.com/ian-kent/go-log) - Log4j implementation in Go.
 - [go-logger](https://github.com/apsdehal/go-logger) - Simple logger of Go Programs, with level handlers.
 - [gomol](https://github.com/aphistic/gomol) - Multiple-output, structured logging for Go with extensible logging outputs.
-- [gone/log](https://github.com/One-com/gone/tree/master/log) - Fast, extendable, full-featured, std-lib source compatible log library.
+- [gone/log](https://github.com/One-com/gone/tree/master/log) - Fast, extendable, full-featured, std-lib source compatible log library. ![stars](https://img.shields.io/badge/stars-50-blue) ![forks](https://img.shields.io/badge/forks-9-blue)
 - [httpretty](https://github.com/henvic/httpretty) - Pretty-prints your regular HTTP requests on your terminal for debugging (similar to http.DumpRequest).
 - [journald](https://github.com/ssgreg/journald) - Go implementation of systemd Journal's native API for logging.
 - [kemba](https://github.com/clok/kemba) - A tiny debug logging tool inspired by [debug](https://github.com/visionmedia/debug), great for CLI tools and applications.
