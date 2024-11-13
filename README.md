@@ -1309,7 +1309,7 @@ _Tools for compiling Go to other languages._
 
 _Tools for managing and working with Goroutines._
 
-- [ants](https://github.com/panjf2000/ants) - A high-performance and low-cost goroutine pool in Go. ![stars](https://img.shields.io/badge/stars-12926-blue) ![forks](https://img.shields.io/badge/forks-1360-blue)
+- [ants](https://github.com/panjf2000/ants) - A high-performance and low-cost goroutine pool in Go. ![stars](https://img.shields.io/badge/stars-12941-blue) ![forks](https://img.shields.io/badge/forks-1360-blue)
 - [artifex](https://github.com/borderstech/artifex) - Simple in-memory job queue for Golang using worker-based dispatching. ![stars](https://img.shields.io/badge/stars-205-blue) ![forks](https://img.shields.io/badge/forks-13-blue)
 - [async](https://github.com/yaitoo/async) - An asynchronous task package with async/await style for Go. ![stars](https://img.shields.io/badge/stars-6-blue) ![forks](https://img.shields.io/badge/forks-2-blue)
 - [async](https://github.com/reugn/async) - An alternative sync library for Go (Future, Promise, Locks). ![stars](https://img.shields.io/badge/stars-223-blue) ![forks](https://img.shields.io/badge/forks-11-blue)
