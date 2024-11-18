@@ -52,7 +52,7 @@ https://github.com/v2fly/v2ray-core,29576,4663,一个用于构建代理以绕过
 https://github.com/kubernetes/minikube,29499,4892,在本地运行Kubernetes,Run Kubernetes locally
 https://github.com/zeromicro/go-zero,29318,3957,一个具有cli工具的云原生Go微服务框架，用于提高生产力。,A cloud-native Go microservices framework with cli tool for productivity.
 https://github.com/hashicorp/consul,28408,4427,Consul是一个分布式、高可用性和数据中心感知的解决方案，用于跨动态、分布式基础设施连接和配置应用程序。,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
-https://github.com/schollz/croc,28145,1118,轻松安全地将东西从一台电脑发送到另一台电脑：鳄鱼：：package：,Easily and securely send things from one computer to another :crocodile: :package:
+https://github.com/schollz/croc,28144,1118,轻松安全地将东西从一台电脑发送到另一台电脑：鳄鱼：：package：,Easily and securely send things from one computer to another :crocodile: :package:
 https://github.com/k3s-io/k3s,28087,2349,轻量级Kubernetes,Lightweight Kubernetes
 https://github.com/charmbracelet/bubbletea,28010,809,一个强大的小型TUI框架🏗,A powerful little TUI framework 🏗
 https://github.com/iawia002/lux,27739,2995,👾 用Go编写的快速简单的视频下载库和CLI工具,👾 Fast and simple video download library and CLI tool written in Go
@@ -86,7 +86,7 @@ https://github.com/containers/podman,23834,2422,Podman：一个用于管理OCI�
 https://github.com/aquasecurity/trivy,23703,2330,查找容器、Kubernetes、代码存储库、云中的漏洞、配置错误、秘密、SBOM等,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
 https://github.com/tsenart/vegeta,23604,1369,HTTP负载测试工具和库。超过9000！,HTTP load testing tool and library. It's over 9000!
 https://github.com/stretchr/testify,23500,1600,一个具有通用断言和模拟的工具包，与标准库配合良好,A toolkit with common assertions and mocks that plays nicely with the standard library
-https://github.com/juanfont/headscale,23476,1287,Tailscale控制服务器的开源、自托管实现,"An open source, self-hosted implementation of the Tailscale control server"
+https://github.com/juanfont/headscale,23475,1287,Tailscale控制服务器的开源、自托管实现,"An open source, self-hosted implementation of the Tailscale control server"
 https://github.com/rancher/rancher,23459,2976,完整的集装箱管理平台,Complete container management platform
 https://github.com/go-kratos/kratos,23374,4007,您为云原生时代打造的终极Go微服务框架。,Your ultimate Go microservices framework for the cloud-native era.
 https://github.com/gocolly/colly,23327,1766,Golang的优雅刮板和履带式框架,Elegant Scraper and Crawler Framework for Golang
@@ -177,391 +177,391 @@ https://github.com/tinygo-org/tinygo,15467,912,Go编译器适用于小地方。�
 https://github.com/lima-vm/lima,15406,604,Linux虚拟机，重点是运行容器,"Linux virtual machines, with a focus on running containers"
 https://github.com/dutchcoders/transfer.sh,15311,1542,从命令行轻松快速地共享文件。,Easy and fast file sharing from the command-line.
 https://github.com/knadh/listmonk,15264,1389,具有现代仪表板的高性能、自托管、时事通讯和邮件列表管理器。单一二进制应用程序。,"High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app."
-https://github.com/Netflix/chaosmonkey,15257,1161,Chaos Monkey是一种弹性工具，可帮助应用程序容忍随机实例故障。,Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-https://github.com/charmbracelet/vhs,15255,260,您的CLI家用录像机📼,Your CLI home video recorder 📼
+https://github.com/Netflix/chaosmonkey,15257,1161,Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.,Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+https://github.com/charmbracelet/vhs,15255,260,Your CLI home video recorder 📼,Your CLI home video recorder 📼
 https://github.com/greyireland/algorithm-pattern,15226,2582,算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~,算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
-https://github.com/kubesphere/kubesphere,15213,2156,为Kubernetes多云、数据中心和边缘管理量身定制的容器平台⎈🖥 ☁️,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️"
-https://github.com/hashicorp/packer,15118,3325,Packer是一种工具，用于从单一源配置为多个平台创建相同的机器映像。,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-https://github.com/argoproj/argo-workflows,15086,3202,Kubernetes工作流引擎,Workflow Engine for Kubernetes
-https://github.com/apernet/hysteria,15060,1677,歇斯底里是一种强大、闪电般快速、抗审查的代理。,"Hysteria is a powerful, lightning fast and censorship resistant proxy."
-https://github.com/GoogleContainerTools/skaffold,15055,1620,易于重复的Kubernetes开发,Easy and Repeatable Kubernetes Development
-https://github.com/hoanhan101/ultimate-go,14949,1196,终极Go学习指南,The Ultimate Go Study Guide
-https://github.com/hashicorp/nomad,14944,1957,Nomad是一个易于使用、灵活且高性能的工作负载编排器，可以部署微服务、批处理、容器化和非容器化应用程序的组合。Nomad易于操作和扩展，并具有本地Consul和Vault集成。,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
-https://github.com/GoogleContainerTools/kaniko,14883,1442,在Kubernetes中构建容器映像,Build Container Images In Kubernetes
-https://github.com/cayleygraph/cayley,14858,1251,开源图形数据库,An open-source graph database
-https://github.com/influxdata/telegraf,14698,5589,用于收集、处理、聚合和写入指标、日志和其他任意数据的代理。,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
-https://github.com/getlantern/lantern,14623,11275,"灯笼The official version of blue lights,a professor of scientific at the foreign network,a railway-""education,наде1078;ныйибе1079;опа1089;нибеный.1076-灯笼代理vpn审查规避审查gfw加速器8,""ادوŚرررو157;","Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت"
-https://github.com/txthinking/brook,14621,2393,一种跨平台可编程网络工具,A cross-platform programmable network tool
-https://github.com/slackhq/nebula,14592,980,一个可扩展的覆盖网络工具，专注于性能、简单性和安全性,"A scalable overlay networking tool with a focus on performance, simplicity and security"
-https://github.com/go-sql-driver/mysql,14546,2317,Go MySQL Driver是Go（golang）数据库/sql包的MySQL驱动程序,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-https://github.com/kubernetes/dashboard,14472,4165,Kubernetes集群的通用web UI,General-purpose web UI for Kubernetes clusters
-https://github.com/tidwall/gjson,14348,855,快速获取JSON值-Go的JSON解析器,Get JSON values quickly - JSON parser for Go
-https://github.com/boltdb/bolt,14231,1510,Go的嵌入式键/值数据库。,An embedded key/value database for Go.
-https://github.com/openimsdk/open-im-server,14094,2479,即时聊天聊天GPT,IM Chat ChatGPT
-https://github.com/mailhog/MailHog,14088,1072,基于Web和API的SMTP测试,Web and API based SMTP testing
-https://github.com/PuerkitoBio/goquery,14070,919,有点像围棋中的j字。,"A little like that j-thing, only in Go."
-https://github.com/dgraph-io/badger,13978,1184,Go中的快捷键值数据库。,Fast key-value DB in Go.
-https://github.com/xtaci/kcptun,13928,2544,基于QPP、KCP、FEC和N:M复用的量子安全隧道。,"A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing."
-https://github.com/tomnomnom/gron,13865,328,让JSON可恢复！,Make JSON greppable!
-https://github.com/pion/webrtc,13841,1658,WebRTC API的纯Go实现,Pure Go implementation of the WebRTC API
-https://github.com/goreleaser/goreleaser,13832,946,尽可能快速、轻松地交付Go二进制文件,Deliver Go binaries as fast and easily as possible
-https://github.com/jpillora/chisel,13606,1403,基于HTTP的快速TCP/UDP隧道,A fast TCP/UDP tunnel over HTTP
-https://github.com/OpenNHP/opennhp,13513,2485,NHP：OSI第五层的一种轻量级加密驱动的零信任网络协议，用于隐藏您的服务器和数据，使其免受攻击者的攻击。,NHP: A lightweight cryptography-driven Zero Trust networking protocol at the OSI 5th layer to hide your server and data from attackers.
-https://github.com/kubernetes-sigs/kind,13503,1563,Kubernetes IN Docker-用于测试Kubernetes的本地集群,Kubernetes IN Docker - local clusters for testing Kubernetes
-https://github.com/sqlc-dev/sqlc,13483,805,从SQL生成类型安全代码,Generate type-safe code from SQL
-https://github.com/json-iterator/go,13445,1027,高性能100%兼容的插入式替换“encoding/json”,"A high-performance 100% compatible drop-in replacement of ""encoding/json"""
-https://github.com/twpayne/chezmoi,13409,493,在多台不同的机器上安全地管理您的点文件。,"Manage your dotfiles across multiple diverse machines, securely."
-https://github.com/gizak/termui,13210,786,Golang终端仪表盘,Golang terminal dashboard
-https://github.com/sundowndev/phoneinfoga,13164,3690,电话号码信息收集框架,Information gathering framework for phone numbers
-https://github.com/CodisLabs/codis,13160,2689,基于代理的Redis集群解决方案，支持流水线和动态扩展,Proxy based Redis cluster solution supporting pipeline and scaling dynamically
-https://github.com/revel/revel,13154,1391,Go语言的高生产力、全栈web框架。,"A high productivity, full-stack web framework for the Go language."
-https://github.com/thanos-io/thanos,13119,2098,具有长期存储功能的高可用Prometheus设置。CNCF孵化项目。,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-https://github.com/robfig/cron,13115,1626,go的cron库,a cron library for go
-https://github.com/google/wire,13083,624,Go编译时依赖注入,Compile-time Dependency Injection for Go
-https://github.com/git-lfs/git-lfs,12999,2042,用于对大型文件进行版本控制的Git扩展,Git extension for versioning large files
-https://github.com/panjf2000/ants,12958,1365,🐜🐜🐜 蚂蚁是Go最强大、最可靠的池化解决方案。,🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
-https://github.com/golang/groupcache,12957,1391,groupcache是一个缓存和缓存填充库，在许多情况下旨在替代memcached。,"groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases."
-https://github.com/halfrost/Halfrost-Field,12953,1878,✍🏻 这里是写博客的地方 —— Halfrost Field,✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
-https://github.com/apache/incubator-answer,12938,1001,适用于任何规模团队的问答平台软件。无论是社区论坛、帮助中心还是知识管理平台，您都可以信赖Apache Answer。,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer."
-https://github.com/muesli/duf,12896,403,磁盘使用/免费实用程序-更好的“df”替代方案,Disk Usage/Free Utility - a better 'df' alternative
-https://github.com/chaitin/SafeLine,12871,796,充当反向代理，保护您的web服务免受攻击和利用。,serve as a reverse proxy to protect your web services from attacks and exploits.
-https://github.com/golang/dep,12841,1048,Go依赖管理工具实验（已弃用）,Go dependency management tool experiment (deprecated)
-https://github.com/gopherjs/gopherjs,12760,566,从Go到JavaScript的编译器，用于在浏览器中运行Go代码,A compiler from Go to JavaScript for running Go code in a browser
-https://github.com/ffuf/ffuf,12705,1296,用Go编写的快速网络模糊器,Fast web fuzzer written in Go
-https://github.com/fogleman/primitive,12688,617,使用几何图元再现图像。,Reproducing images with geometric primitives.
-https://github.com/GoogleCloudPlatform/terraformer,12650,1649,CLI工具，用于从现有基础设施生成地形文件（反向地形）。基础设施到代码,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-https://github.com/direnv/direnv,12578,642,整理你的个人资料,unclutter your .profile
-https://github.com/sqshq/sampler,12576,548,用于shell命令执行、可视化和警报的工具。配置了一个简单的YAML文件。,"Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file."
-https://github.com/coredns/coredns,12435,2137,CoreDNS是一个链接插件的DNS服务器,CoreDNS is a DNS server that chains plugins
-https://github.com/cheat/cheat,12413,823,cheat允许您在命令行上创建和查看交互式备忘单。它旨在帮助提醒*nix系统管理员他们经常使用但不足以记住的命令选项。,"cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember."
-https://github.com/github/gh-ost,12412,1261,GitHub的MySQL在线模式迁移工具,GitHub's Online Schema-migration Tool for MySQL
-https://github.com/VictoriaMetrics/VictoriaMetrics,12404,1226,VictoriaMetrics：快速、经济高效的监控解决方案和时间序列数据库,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database"
-https://github.com/rook/rook,12395,2692,Kubernetes的存储编排,Storage Orchestration for Kubernetes
-https://github.com/bluenviron/mediamtx,12351,1534,即用型SRT/WebRTC/RTSP/RTMP/LL-HLS媒体服务器和媒体代理，允许读取、发布、代理、录制和播放视频和音频流。,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams."
-https://github.com/mikefarah/yq,12307,602,yq是一个可移植的命令行YAML、JSON、XML、CSV、TOML和属性处理器,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor"
-https://github.com/cert-manager/cert-manager,12164,2095,在Kubernetes中自动配置和管理TLS证书,Automatically provision and manage TLS certificates in Kubernetes
-https://github.com/micro/micro,12153,1050,API首个开发平台,An API first development platform 
-https://github.com/jeessy2/ddns-go,12117,1399,简单易用的DDNS。支持阿里云、腾讯云、DNS、Cloudflare、回拨、华为云、百度云、Porkbun、GoDaddy、Namecheap、NameSilo。。。,"Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo..."
-https://github.com/navidrome/navidrome,12103,902,🎧☁️ 您的个人流媒体服务,🎧☁️ Your Personal Streaming Service
-https://github.com/peterq/pan-light,12089,2454,Guolang+qt5，跨平台图形界面,"百度网盘不限速客户端, golang + qt5, 跨平台图形界面"
-https://github.com/tinode/chat,12082,1883,即时通讯平台。Go的后端。客户端：Swift iOS、Java Android、JS webapp、可脚本化命令行；聊天机器人,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots"
-https://github.com/owasp-amass/amass,12078,1887,深入攻击面测绘和资产发现,In-depth attack surface mapping and asset discovery
-https://github.com/temporalio/temporal,12023,850,临时服务,Temporal service
-https://github.com/talkgo/night,12016,1166,每周通过Bilibili进行在线交流。02-上海交通工程技术讲座,Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
-https://github.com/opencontainers/runc,11909,2116,用于根据OCI规范生成和运行容器的CLI工具,CLI tool for spawning and running containers according to the OCI specification
-https://github.com/ardanlabs/gotraining,11877,2167,Go培训课程材料：,Go Training Class Material : 
-https://github.com/gogf/gf,11717,1590,GoFrame是Golang的一个模块化、功能强大、高性能的企业级应用开发框架。,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. "
-https://github.com/gophish/gophish,11683,2256,开源钓鱼工具包,Open-Source Phishing Toolkit
-https://github.com/go-martini/martini,11625,1103,Go的经典web框架,Classy web framework for Go
-https://github.com/IBM/sarama,11566,1757,Sarama是Apache Kafka的Go库。,Sarama is a Go library for Apache Kafka.
-https://github.com/v2rayA/v2rayA,11516,1223,Project V的web GUI客户端，支持VMess、VLESS、SS、SSR、特洛伊木马、Tuic和Juicity协议。🚀,"A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀"
-https://github.com/weaviate/weaviate,11510,797,Weaviate是一个开源的矢量数据库，它存储对象和矢量，允许矢量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性。,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
-https://github.com/go-admin-team/go-admin,11504,2395,Gin+Vue+Element UI&Arco Design&Ant Design的前端后端权限管理系统(包含：多个客户的支持、基础用户管理功能、jwt权限、代理软件、RBAC资源控制、报表结构、定时September）3个独立的钢结构后台项目项目文档》：https://www.go-admin.proV2演示：https://vue2.go-admin.devV3演示：https://vue3.go-admin.devAntd PRO：https://antd.go-admin.pro,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro
-https://github.com/dagger/dagger,11489,615,在容器中运行管道的引擎,An engine to run your pipelines in containers
-https://github.com/projectdiscovery/katana,11484,608,下一代爬行和蜘蛛框架。,A next-generation crawling and spidering framework.
-https://github.com/go-task/task,11467,617,任务运行器/更简单用Go编写替代方案,A task runner / simpler Make alternative written in Go
-https://github.com/DNSCrypt/dnscrypt-proxy,11459,1014,dnscrypt-proxy 2-一个灵活的DNS代理，支持加密的DNS协议。,"dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols."
-https://github.com/gotify/server,11459,635,一个简单的服务器，用于通过WebSocket实时发送和接收消息。（包括一个时尚的网络用户界面）,A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
-https://github.com/bytebase/bytebase,11448,738,用于数据库DevSecOps的GitHub/GitLab。面向开发人员、安全人员、DBA和平台工程团队的世界上最先进的数据库DevSecOps解决方案。,"The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams."
-https://github.com/earthly/earthly,11440,402,超级简单的构建框架，具有快速、可重复的构建和即时熟悉的语法——就像Dockerfile和Makefile有了婴儿一样。,"Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
-https://github.com/crawlab-team/crawlab,11352,1787,分布式网络爬虫管理平台，用于蜘蛛管理，不受语言和框架的限制。分布式爬虫管理平台，支持任何语言和框架,Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
-https://github.com/ory/kratos,11295,963,市场上最具可扩展性和可定制性的身份服务器。用更好的UX和DX取代你的自制、Auth0、Okta、Firebase。拥有所有表：密钥、社交登录、多因素身份验证、短信、SAML、TOTP等。用Go编写，云原生，无头，API-first。可在Ory Network上作为服务提供，也可供自托管商使用。,"The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters."
-https://github.com/prometheus/node_exporter,11246,2368,机器指标导出器,Exporter for machine metrics
-https://github.com/Jguer/yay,11209,363,另一个酸奶-一个AUR助手写在Go,Yet another Yogurt - An AUR Helper written in Go
-https://github.com/netbirdio/netbird,11186,515,将您的设备连接到基于WireGuard®的安全覆盖网络，该网络具有SSO、MFA和精细的访问控制。,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls."
-https://github.com/rivo/tview,11092,577,具有丰富交互式小部件的终端UI库——用Golang编写,"Terminal UI library with rich, interactive widgets — written in Golang"
-https://github.com/benbjohnson/litestream,11081,256,SQLite的流式复制。,Streaming replication for SQLite.
-https://github.com/moonD4rk/HackBrowserData,11078,1568,提取和解密浏览器数据，支持多种数据类型，可在各种操作系统（macOS、Windows、Linux）上运行。,"Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux)."
-https://github.com/chromedp/chromedp,11069,790,一种更快、更简单的方式来驱动支持Chrome DevTools协议的浏览器。,"A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol."
-https://github.com/hajimehoshi/ebiten,11065,662,Ebitengine-一个非常简单的围棋2D游戏引擎,Ebitengine - A dead simple 2D game engine for Go
-https://github.com/kubernetes-sigs/kustomize,11047,2252,kubernetes YAML配置的定制,Customization of kubernetes YAML configurations
-https://github.com/kubeshark/kubeshark,11038,471,用于Kubernetes的API流量分析器提供实时K8s协议级可见性，捕获和监控进出容器、吊舱、节点和集群的所有流量和有效载荷。灵感来自Wireshark，专为Kubernetes构建,"The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes"
-https://github.com/infracost/infracost,11035,555,拉取请求中Terraform的云成本估算💰📉 向左移动FinOps！,Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
-https://github.com/future-architect/vuls,10995,1164,Linux、FreeBSD、容器、WordPress、编程语言库、网络设备的无代理漏洞扫描程序,"Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices"
-https://github.com/kgretzky/evilginx2,10926,1967,独立的中间人攻击框架，用于网络钓鱼登录凭据和会话Cookie，允许绕过2因素身份验证,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication"
-https://github.com/juicedata/juicefs,10916,964,JuiceFS是一个基于Redis和S3构建的分布式POSIX文件系统。,JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-https://github.com/fullstorydev/grpcurl,10905,507,与cURL类似，但适用于gRPC：用于与gRPC服务器交互的命令行工具,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers"
-https://github.com/Shopify/toxiproxy,10827,449,：alarm_hock:：fire：一个TCP代理，用于模拟网络和系统条件，以进行混沌和弹性测试,:alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-https://github.com/jackc/pgx,10812,842,PostgreSQL Go驱动程序和工具包,PostgreSQL driver and toolkit for Go
-https://github.com/plandex-ai/plandex,10808,751,AI驱动的终端开发。专为大型现实任务而设计。,"AI driven development in your terminal. Designed for large, real-world tasks."
+https://github.com/kubesphere/kubesphere,15213,2156,"The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️","The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️"
+https://github.com/hashicorp/packer,15118,3325,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.,Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+https://github.com/argoproj/argo-workflows,15086,3202,Workflow Engine for Kubernetes,Workflow Engine for Kubernetes
+https://github.com/apernet/hysteria,15060,1677,"Hysteria is a powerful, lightning fast and censorship resistant proxy.","Hysteria is a powerful, lightning fast and censorship resistant proxy."
+https://github.com/GoogleContainerTools/skaffold,15055,1620,Easy and Repeatable Kubernetes Development,Easy and Repeatable Kubernetes Development
+https://github.com/hoanhan101/ultimate-go,14949,1196,The Ultimate Go Study Guide,The Ultimate Go Study Guide
+https://github.com/hashicorp/nomad,14944,1957,"Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.","Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations."
+https://github.com/GoogleContainerTools/kaniko,14883,1442,Build Container Images In Kubernetes,Build Container Images In Kubernetes
+https://github.com/cayleygraph/cayley,14858,1251,An open-source graph database,An open-source graph database
+https://github.com/influxdata/telegraf,14698,5589,"Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.","Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data."
+https://github.com/getlantern/lantern,14623,11275,"Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت","Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 - Быстрый, надежный и безопасный доступ к открытому интернету - lantern proxy vpn censorship-circumvention censorship gfw accelerator پراکسی لنترن، ضدسانسور، امن، قابل اعتماد و پرسرعت"
+https://github.com/txthinking/brook,14621,2393,A cross-platform programmable network tool,A cross-platform programmable network tool
+https://github.com/slackhq/nebula,14592,980,"A scalable overlay networking tool with a focus on performance, simplicity and security","A scalable overlay networking tool with a focus on performance, simplicity and security"
+https://github.com/go-sql-driver/mysql,14546,2317,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package,Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+https://github.com/kubernetes/dashboard,14472,4165,General-purpose web UI for Kubernetes clusters,General-purpose web UI for Kubernetes clusters
+https://github.com/tidwall/gjson,14348,855,Get JSON values quickly - JSON parser for Go,Get JSON values quickly - JSON parser for Go
+https://github.com/boltdb/bolt,14231,1510,An embedded key/value database for Go.,An embedded key/value database for Go.
+https://github.com/openimsdk/open-im-server,14094,2479,IM Chat ChatGPT,IM Chat ChatGPT
+https://github.com/mailhog/MailHog,14088,1072,Web and API based SMTP testing,Web and API based SMTP testing
+https://github.com/PuerkitoBio/goquery,14070,919,"A little like that j-thing, only in Go.","A little like that j-thing, only in Go."
+https://github.com/dgraph-io/badger,13978,1184,Fast key-value DB in Go.,Fast key-value DB in Go.
+https://github.com/xtaci/kcptun,13928,2544,"A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.","A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing."
+https://github.com/tomnomnom/gron,13865,328,Make JSON greppable!,Make JSON greppable!
+https://github.com/pion/webrtc,13841,1658,Pure Go implementation of the WebRTC API,Pure Go implementation of the WebRTC API
+https://github.com/goreleaser/goreleaser,13832,946,Deliver Go binaries as fast and easily as possible,Deliver Go binaries as fast and easily as possible
+https://github.com/jpillora/chisel,13606,1403,A fast TCP/UDP tunnel over HTTP,A fast TCP/UDP tunnel over HTTP
+https://github.com/OpenNHP/opennhp,13513,2485,NHP: A lightweight cryptography-driven Zero Trust networking protocol at the OSI 5th layer to hide your server and data from attackers.,NHP: A lightweight cryptography-driven Zero Trust networking protocol at the OSI 5th layer to hide your server and data from attackers.
+https://github.com/kubernetes-sigs/kind,13503,1563,Kubernetes IN Docker - local clusters for testing Kubernetes,Kubernetes IN Docker - local clusters for testing Kubernetes
+https://github.com/sqlc-dev/sqlc,13483,805,Generate type-safe code from SQL,Generate type-safe code from SQL
+https://github.com/json-iterator/go,13445,1027,"A high-performance 100% compatible drop-in replacement of ""encoding/json""","A high-performance 100% compatible drop-in replacement of ""encoding/json"""
+https://github.com/twpayne/chezmoi,13409,493,"Manage your dotfiles across multiple diverse machines, securely.","Manage your dotfiles across multiple diverse machines, securely."
+https://github.com/gizak/termui,13210,786,Golang terminal dashboard,Golang terminal dashboard
+https://github.com/sundowndev/phoneinfoga,13164,3690,Information gathering framework for phone numbers,Information gathering framework for phone numbers
+https://github.com/CodisLabs/codis,13160,2689,Proxy based Redis cluster solution supporting pipeline and scaling dynamically,Proxy based Redis cluster solution supporting pipeline and scaling dynamically
+https://github.com/revel/revel,13154,1391,"A high productivity, full-stack web framework for the Go language.","A high productivity, full-stack web framework for the Go language."
+https://github.com/thanos-io/thanos,13119,2098,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+https://github.com/robfig/cron,13115,1626,a cron library for go,a cron library for go
+https://github.com/google/wire,13083,624,Compile-time Dependency Injection for Go,Compile-time Dependency Injection for Go
+https://github.com/git-lfs/git-lfs,12999,2042,Git extension for versioning large files,Git extension for versioning large files
+https://github.com/panjf2000/ants,12958,1365,🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.,🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
+https://github.com/golang/groupcache,12957,1391,"groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.","groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases."
+https://github.com/halfrost/Halfrost-Field,12953,1878,✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地,✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+https://github.com/apache/incubator-answer,12938,1001,"A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.","A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer."
+https://github.com/muesli/duf,12896,403,Disk Usage/Free Utility - a better 'df' alternative,Disk Usage/Free Utility - a better 'df' alternative
+https://github.com/chaitin/SafeLine,12871,796,serve as a reverse proxy to protect your web services from attacks and exploits.,serve as a reverse proxy to protect your web services from attacks and exploits.
+https://github.com/golang/dep,12841,1048,Go dependency management tool experiment (deprecated),Go dependency management tool experiment (deprecated)
+https://github.com/gopherjs/gopherjs,12760,566,A compiler from Go to JavaScript for running Go code in a browser,A compiler from Go to JavaScript for running Go code in a browser
+https://github.com/ffuf/ffuf,12705,1296,Fast web fuzzer written in Go,Fast web fuzzer written in Go
+https://github.com/fogleman/primitive,12688,617,Reproducing images with geometric primitives.,Reproducing images with geometric primitives.
+https://github.com/GoogleCloudPlatform/terraformer,12650,1649,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+https://github.com/direnv/direnv,12578,642,unclutter your .profile,unclutter your .profile
+https://github.com/sqshq/sampler,12576,548,"Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.","Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file."
+https://github.com/coredns/coredns,12435,2137,CoreDNS is a DNS server that chains plugins,CoreDNS is a DNS server that chains plugins
+https://github.com/cheat/cheat,12413,823,"cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.","cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember."
+https://github.com/github/gh-ost,12412,1261,GitHub's Online Schema-migration Tool for MySQL,GitHub's Online Schema-migration Tool for MySQL
+https://github.com/VictoriaMetrics/VictoriaMetrics,12404,1226,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database","VictoriaMetrics: fast, cost-effective monitoring solution and time series database"
+https://github.com/rook/rook,12395,2692,Storage Orchestration for Kubernetes,Storage Orchestration for Kubernetes
+https://github.com/bluenviron/mediamtx,12351,1534,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.","Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams."
+https://github.com/mikefarah/yq,12307,602,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor","yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor"
+https://github.com/cert-manager/cert-manager,12164,2095,Automatically provision and manage TLS certificates in Kubernetes,Automatically provision and manage TLS certificates in Kubernetes
+https://github.com/micro/micro,12153,1050,An API first development platform ,An API first development platform 
+https://github.com/jeessy2/ddns-go,12117,1399,"Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...","Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo..."
+https://github.com/navidrome/navidrome,12103,902,🎧☁️ Your Personal Streaming Service,🎧☁️ Your Personal Streaming Service
+https://github.com/peterq/pan-light,12089,2454,"百度网盘不限速客户端, golang + qt5, 跨平台图形界面","百度网盘不限速客户端, golang + qt5, 跨平台图形界面"
+https://github.com/tinode/chat,12082,1883,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots","Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots"
+https://github.com/owasp-amass/amass,12078,1887,In-depth attack surface mapping and asset discovery,In-depth attack surface mapping and asset discovery
+https://github.com/temporalio/temporal,12023,850,Temporal service,Temporal service
+https://github.com/talkgo/night,12016,1166,Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。,Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
+https://github.com/opencontainers/runc,11909,2116,CLI tool for spawning and running containers according to the OCI specification,CLI tool for spawning and running containers according to the OCI specification
+https://github.com/ardanlabs/gotraining,11877,2167,Go Training Class Material : ,Go Training Class Material : 
+https://github.com/gogf/gf,11717,1590,"GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. ","GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang. "
+https://github.com/gophish/gophish,11683,2256,Open-Source Phishing Toolkit,Open-Source Phishing Toolkit
+https://github.com/go-martini/martini,11625,1103,Classy web framework for Go,Classy web framework for Go
+https://github.com/IBM/sarama,11566,1757,Sarama is a Go library for Apache Kafka.,Sarama is a Go library for Apache Kafka.
+https://github.com/v2rayA/v2rayA,11516,1223,"A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀","A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀"
+https://github.com/weaviate/weaviate,11510,797,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.","Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
+https://github.com/go-admin-team/go-admin,11504,2395,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro
+https://github.com/dagger/dagger,11489,615,An engine to run your pipelines in containers,An engine to run your pipelines in containers
+https://github.com/projectdiscovery/katana,11484,608,A next-generation crawling and spidering framework.,A next-generation crawling and spidering framework.
+https://github.com/go-task/task,11467,617,A task runner / simpler Make alternative written in Go,A task runner / simpler Make alternative written in Go
+https://github.com/DNSCrypt/dnscrypt-proxy,11459,1014,"dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.","dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols."
+https://github.com/gotify/server,11459,635,A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui),A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
+https://github.com/bytebase/bytebase,11448,738,"The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.","The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams."
+https://github.com/earthly/earthly,11440,402,"Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.","Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
+https://github.com/crawlab-team/crawlab,11352,1787,Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架,Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
+https://github.com/ory/kratos,11295,963,"The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.","The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters."
+https://github.com/prometheus/node_exporter,11246,2368,Exporter for machine metrics,Exporter for machine metrics
+https://github.com/Jguer/yay,11209,363,Yet another Yogurt - An AUR Helper written in Go,Yet another Yogurt - An AUR Helper written in Go
+https://github.com/netbirdio/netbird,11186,515,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.","Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls."
+https://github.com/rivo/tview,11092,577,"Terminal UI library with rich, interactive widgets — written in Golang","Terminal UI library with rich, interactive widgets — written in Golang"
+https://github.com/benbjohnson/litestream,11081,256,Streaming replication for SQLite.,Streaming replication for SQLite.
+https://github.com/moonD4rk/HackBrowserData,11078,1568,"Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).","Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux)."
+https://github.com/chromedp/chromedp,11069,790,"A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.","A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol."
+https://github.com/hajimehoshi/ebiten,11065,662,Ebitengine - A dead simple 2D game engine for Go,Ebitengine - A dead simple 2D game engine for Go
+https://github.com/kubernetes-sigs/kustomize,11047,2252,Customization of kubernetes YAML configurations,Customization of kubernetes YAML configurations
+https://github.com/kubeshark/kubeshark,11038,471,"The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes","The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes"
+https://github.com/infracost/infracost,11035,555,Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!,Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+https://github.com/future-architect/vuls,10995,1164,"Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices","Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices"
+https://github.com/kgretzky/evilginx2,10926,1967,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication","Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication"
+https://github.com/juicedata/juicefs,10916,964,JuiceFS is a distributed POSIX file system built on top of Redis and S3.,JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+https://github.com/fullstorydev/grpcurl,10905,507,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers","Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers"
+https://github.com/Shopify/toxiproxy,10827,449,:alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing,:alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+https://github.com/jackc/pgx,10812,842,PostgreSQL driver and toolkit for Go,PostgreSQL driver and toolkit for Go
+https://github.com/plandex-ai/plandex,10808,751,"AI driven development in your terminal. Designed for large, real-world tasks.","AI driven development in your terminal. Designed for large, real-world tasks."
 https://github.com/shadow1ng/fscan,10790,1607,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。,一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-https://github.com/dgrijalva/jwt-go,10787,995,ARCHIVE-JSON Web令牌（JWT）的Golang实现。该项目目前维持在：,ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
-https://github.com/OpenDiablo2/OpenDiablo2,10771,815,暗黑破坏神2的开源重新实现,An open source re-implementation of Diablo 2
-https://github.com/swaggo/swag,10745,1202,使用Swagger 2.0 for Go自动生成RESTful API文档。,Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-https://github.com/linkerd/linkerd2,10689,1283,Kubernetes的超轻、安全第一的服务网格。Linkerd 2.x的主仓库。,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x."
-https://github.com/rs/zerolog,10646,573,零分配JSON记录器,Zero Allocation JSON Logger
-https://github.com/semaphoreui/semaphore,10645,1068,Ansible、Terraform、OpenTofu、PowerShell和其他DevOps工具的现代UI和强大的API。,"Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools."
-https://github.com/shirou/gopsutil,10636,1590,戈朗的psutil,psutil for golang
-https://github.com/daytonaio/daytona,10592,839,开源开发环境管理器。,The Open Source Dev Environment Manager.
-https://github.com/livekit/livekit,10585,885,WebRTC的端到端堆栈。SFU媒体服务器和SDK。,End-to-end stack for WebRTC. SFU media server and SDKs.
-https://github.com/asciimoo/wuzz,10571,412,用于HTTP检查的交互式cli工具,Interactive cli tool for HTTP inspection
-https://github.com/google/grumpy,10548,646,Grumpy是一个Python到Go源代码编译器和运行时。,Grumpy is a Python to Go source code transcompiler and runtime.
-https://github.com/therecipe/qt,10489,748,适用于Go（Golang）的Qt绑定，支持Windows/MOSC/Linux/FreeBSD/Android/iOS/Sailfish OS/Spberry Pi/AsteroidOS/Ubuntu Touch/JavaScript/WWebAssembly,Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
-https://github.com/google/go-github,10449,2065,访问GitHub v3 API的Go库,Go library for accessing the GitHub v3 API
-https://github.com/adnanh/webhook,10402,834,webhook是一个轻量级的传入webhook服务器，用于运行shell命令,webhook is a lightweight incoming webhook server to run shell commands
-https://github.com/Mrs4s/go-cqhttp,10399,1630,cqhttp的golang really，重量，原始平台。,cqhttp的golang实现，轻量、原生跨平台.
-https://github.com/esimov/caire,10363,384,内容感知图像大小调整库,Content aware image resize library
-https://github.com/quay/clair,10360,1163,集装箱脆弱性静态分析,Vulnerability Static Analysis for Containers
-https://github.com/tylertreat/comcast,10312,384,模拟糟糕的网络连接，以便构建更好的系统。,Simulating shitty network connections so you can build better systems.
-https://github.com/projectdiscovery/subfinder,10287,1277,快速被动子域枚举工具。,Fast passive subdomain enumeration tool.
-https://github.com/kubescape/kubescape,10234,838,Kubescape是一个开源的Kubernetes安全平台，适用于IDE、CI/CD管道和集群。它包括风险分析、安全性、合规性和配置错误扫描，为Kubernetes用户和管理员节省了宝贵的时间、精力和资源。,"Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources."
-https://github.com/casdoor/casdoor,10205,1203,一个开源的UI-first身份和访问管理（IAM）/Single-Sign-On（SSO）平台，其web UI支持OAuth 2.0、OIDC、SAML、CAS、LDAP、SCIM、WebAuthn、TOTP、MFA、Face ID、RADIUS、Google Workspace、Active Directory和Kerberos,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos"
-https://github.com/go-resty/resty,10169,711,Go的简单HTTP和REST客户端库,Simple HTTP and REST client library for Go
-https://github.com/dtm-labs/dtm,10157,973,分布式事务框架，支持工作流、saga、tcc、xa、两阶段消息、发件箱模式，支持多种语言。,"A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages."
-https://github.com/OJ/gobuster,10138,1207,用Go编写的目录/文件、DNS和VHost破坏工具,"Directory/File, DNS and VHost busting tool written in Go"
-https://github.com/quic-go/quic-go,10129,1316,纯Go中的QUIC实现,A QUIC implementation in pure Go
-https://github.com/sourcegraph/sourcegraph-public-snapshot,10116,1290,带代码搜索和Cody的代码AI平台,Code AI platform with Code Search & Cody
-https://github.com/grafana/pyroscope,10097,610,连续分析平台。调试性能问题归结为一行代码,Continuous Profiling Platform. Debug performance issues down to a single line of code
-https://github.com/blevesearch/bleve,10097,686,面向go的现代文本/数字/地理空间/矢量索引库,A modern text/numeric/geo-spatial/vector indexing library for go
-https://github.com/claudiodangelis/qrcp,10002,529,：zap：无需离开终端，扫描二维码即可通过wifi将文件从计算机传输到移动设备。,:zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-https://github.com/hibiken/asynq,9983,711,Go中简单、可靠、高效的分布式任务队列,"Simple, reliable, and efficient distributed task queue in Go"
-https://github.com/99designs/gqlgen,9978,1170,基于go生成的graphql服务器库,go generate based graphql server library
-https://github.com/maaslalani/slides,9964,275,基于终端的演示工具,Terminal based presentation tool
-https://github.com/graphql-go/graphql,9930,840,Go/Golang的GraphQL实现,An implementation of GraphQL for Go / Golang
-https://github.com/GoesToEleven/GolangTraining,9923,3592,Golang培训（围棋语言）,Training for Golang (go language)
-https://github.com/jroimartin/gocui,9923,608,旨在创建控制台用户界面的极简主义Go包。,Minimalist Go package aimed at creating Console User Interfaces.
-https://github.com/hashicorp/terraform-provider-aws,9842,9190,AWS提供商使Terraform能够管理AWS资源。,The AWS Provider enables Terraform to manage AWS resources.
-https://github.com/oauth2-proxy/oauth2-proxy,9841,1594,一个反向代理，提供与谷歌、Azure、OpenID Connect和更多身份提供者的身份验证。,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers."
-https://github.com/ccfos/nightingale,9790,1415,旨在结合Prometheus和Grafana优点的一体化可观测性解决方案。它管理警报规则，并在漂亮的web UI中可视化指标、日志和跟踪。,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI."
-https://github.com/golang/protobuf,9787,1581,Go支持谷歌的协议缓冲区,Go support for Google's protocol buffers
-https://github.com/wader/fq,9780,227,jq for二进制格式-用于处理二进制和文本格式的工具、语言和解码器,"jq for binary formats - tool, language and decoders for working with binary and text formats"
-https://github.com/gomodule/redigo,9755,1248,Redis的Go客户端,Go client for Redis
-https://github.com/gwuhaolin/livego,9735,2005,golang的实时视频流服务器,live video streaming server in golang
-https://github.com/TykTechnologies/tyk,9731,1087,用Go编写的Tyk开源API网关，支持REST、GraphQL、TCP和gRPC协议,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols"
-https://github.com/apernet/OpenGFW,9719,733,OpenGFW是Linux上GFW（中国防火长城）的一个灵活、易于使用的开源实现,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux"
-https://github.com/open-policy-agent/opa,9713,1346,开放策略代理（OPA）是一个开源的通用策略引擎。,"Open Policy Agent (OPA) is an open source, general-purpose policy engine."
-https://github.com/go-vgo/robotgo,9681,887,RobotGo，Go Native跨平台RPA和GUI自动化@vcaesar,"RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar"
-https://github.com/panjf2000/gnet,9671,1042,🚀 gnet是一个用纯Go编写的高性能、轻量级、非阻塞、事件驱动的网络框架。,"🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go."
-https://github.com/fsnotify/fsnotify,9648,914,Go的跨平台文件系统通知。,Cross-platform filesystem notifications for Go.
-https://github.com/kubernetes/kompose,9636,763,将Compose转换为Kubernetes,Convert Compose to Kubernetes
-https://github.com/google/go-cloud,9563,811,Go Cloud Development Kit（Go CDK）：一个用于Go中开放云开发的库和工具。,The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
-https://github.com/go-swagger/go-swagger,9546,1251,go的Swagger 2.0实现,Swagger 2.0 implementation for go
-https://github.com/crossplane/crossplane,9531,960,云原生控制平面,The Cloud Native Control Plane
-https://github.com/gravitl/netmaker,9526,552,Netmaker使用WireGuard构建网络。Netmaker自动化了快速、安全和分布式的虚拟网络。,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks."
-https://github.com/owncast/owncast,9512,871,通过自己运行实时流视频来控制它。流媒体+即时聊天。,Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
-https://github.com/dexidp/dex,9502,1705,OpenID Connect（OIDC）身份和OAuth 2.0提供程序，带有可插拔连接器,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-https://github.com/loft-sh/devpod,9502,345,代码空间，但开源，仅限客户端，无需初始化：适用于任何IDE，允许您使用任何云、kubernetes或仅限localhost docker。,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker."
-https://github.com/polaris1119/The-Golang-Standard-Library-by-Example,9499,2011,Golang标准库对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。Golang的standard store提供了一种移动的方式来解释Golang的标准库,Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
-https://github.com/drakkan/sftpgo,9437,733,功能齐全且高度可配置的SFTP、HTTP/S、FTP/S和WebDAV服务器-S3、谷歌云存储、Azure Blob,"Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob"
-https://github.com/lk-geimfari/awesomo,9418,665,很酷的开源项目。选择你的项目，现在就参与开源开发。,Cool open source projects. Choose your project and get involved in Open Source development now.
-https://github.com/safing/portmaster,9405,305,🏔 爱自由-❌ 阻止大规模监控,🏔 Love Freedom - ❌ Block Mass Surveillance
-https://github.com/noisetorch/NoiseTorch,9358,233,Linux上的实时麦克风噪声抑制。,Real-time microphone noise suppression on Linux.
-https://github.com/golang/mock,9320,607,GoMock是Go编程语言的模拟框架。,GoMock is a mocking framework for the Go programming language.
-https://github.com/stashapp/stash,9318,802,一个用Go写的色情片组织者。文档：https://docs.stashapp.cc,"An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc"
-https://github.com/cloudflare/cloudflared,9307,829,Cloudflare Tunnel客户端（前身为Argo Tunnel）,Cloudflare Tunnel client (formerly Argo Tunnel)
-https://github.com/sjwhitworth/golearn,9293,1191,Go的机器学习,Machine Learning for Go
-https://github.com/sashabaranov/go-openai,9247,1420,OpenAI聊天GPT、GPT-3、GPT-4、DALL·E、Whisper API Go包装器,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go"
-https://github.com/bxcodec/go-clean-arch,9219,1215,基于阅读Bob叔叔的《Clean Architecture》的Go（Golang）Clean Architecture,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
-https://github.com/FerretDB/FerretDB,9184,402,真正的开源MongoDB替代品,A truly Open Source MongoDB alternative
-https://github.com/tidwall/tile38,9159,569,实时地理空间和地理围栏,Real-time Geospatial and Geofencing
-https://github.com/bufbuild/buf,9149,277,使用协议缓冲区的最佳方式。,The best way of working with Protocol Buffers.
-https://github.com/prometheus-operator/prometheus-operator,9142,3723,Prometheus Operator在Kubernetes上创建/配置/管理Prometheus集群,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-https://github.com/lib/pq,9131,913,用于数据库/sql的纯Go Postgres驱动程序,Pure Go Postgres driver for database/sql
-https://github.com/gcla/termshark,9124,399,受Wireshark启发的tshark终端用户界面,"A terminal UI for tshark, inspired by Wireshark"
-https://github.com/kubernetes/client-go,9095,2950,Kubernetes的Go客户端。,Go client for Kubernetes.
-https://github.com/sourcegraph/conc,9077,313,更好的结构化并发性,Better structured concurrency for go
-https://github.com/dinedal/textql,9067,300,对CSV或TSV等结构化文本执行SQL,Execute SQL against structured text like CSV or TSV
-https://github.com/crowdsecurity/crowdsec,9057,467,CrowdSec-开源和参与式安全解决方案，提供众包保护，防止恶意IP和访问最先进的现实CTI。,CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
-https://github.com/heroiclabs/nakama,9050,1098,用于社交和实时游戏和应用程序的分布式服务器。,Distributed server for social and realtime games and apps.
-https://github.com/unknwon/go-fundamental-programming,9041,2045,《Go编程基础》是一个针对Google产品的Go语言的视频语音教程，主要面向新手级别的学习者。,《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
-https://github.com/xo/usql,9026,351,SQL数据库的通用命令行界面,Universal command-line interface for SQL databases
-https://github.com/distribution/distribution,9004,2499,包装、运输、存储和交付容器内容的工具包,"The toolkit to pack, ship, store, and deliver container content"
-https://github.com/zitadel/zitadel,9002,575,ZITADEL-身份基础设施，为您简化。,"ZITADEL - Identity infrastructure, simplified for you."
-https://github.com/imgproxy/imgproxy,8994,635,快速安全的独立服务器，用于调整和转换远程图像,Fast and secure standalone server for resizing and converting remote images
-https://github.com/prasmussen/gdrive,8990,1185,Google Drive命令行界面客户端,Google Drive CLI Client
-https://github.com/johnkerl/miller,8989,217,Miller类似于awk、sed、剪切、连接和排序名称索引数据，如CSV、TSV和表格JSON,"Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON"
-https://github.com/goplus/gop,8966,546,Go+编程语言专为工程、STEM教育和数据科学而设计。我们的愿景是让每个人都成为数字世界的建设者。,"The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world."
-https://github.com/hybridgroup/gobot,8964,1043,Golang机器人、无人机和物联网（IoT）框架,"Golang framework for robotics, drones, and the Internet of Things (IoT)"
-https://github.com/keybase/client,8915,1227,Keybase Go库、客户端、服务、OS X、iOS、Android、Electron,"Keybase Go Library, Client, Service, OS X, iOS, Android, Electron"
-https://github.com/anchore/grype,8826,573,容器映像和文件系统的漏洞扫描程序,A vulnerability scanner for container images and filesystems
-https://github.com/rkt/rkt,8822,883,[项目结束]rkt是Linux的pod原生容器引擎。它是可组合的、安全的，并且建立在标准之上。,"[Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards."
-https://github.com/flannel-io/flannel,8817,2870,flannel是为Kubernetes设计的容器网络结构,"flannel is a network fabric for containers, designed for Kubernetes"
-https://github.com/apex/up,8795,378,在几秒钟内将无限可扩展的无服务器应用程序、api和站点部署到AWS。,"Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS."
-https://github.com/jetify-com/devbox,8786,204,即时、简单和可预测的开发环境,"Instant, easy, and predictable development environments"
-https://github.com/cloudflare/cfssl,8767,1112,CFSSL：Cloudflare的PKI和TLS工具包,CFSSL: Cloudflare's PKI and TLS toolkit
-https://github.com/vmware-tanzu/velero,8766,1410,备份和迁移Kubernetes应用程序及其持久卷,Backup and migrate Kubernetes applications and their persistent volumes
-https://github.com/senghoo/golang-design-pattern,8763,2084,Golang设计模式-《研究设计模式》征求意见书,设计模式 Golang实现－《研磨设计模式》读书笔记
-https://github.com/XiaoMi/soar,8678,1323,SQL优化器和重写器,SQL Optimizer And Rewriter
-https://github.com/sosedoff/pgweb,8650,736,PostgreSQL数据库的跨平台客户端,Cross-platform client for PostgreSQL databases
-https://github.com/aws/aws-sdk-go,8644,2069,适用于Go编程语言的AWS SDK。,AWS SDK for the Go programming language.
-https://github.com/codenotary/immudb,8633,343,immudb-基于零信任、SQL/键值/文档模型、防篡改、数据更改历史的不可变数据库,"immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history"
-https://github.com/gorse-io/gorse,8611,785,Gorse开源推荐系统引擎,Gorse open source recommender system engine
-https://github.com/BishopFox/sliver,8539,1125,对抗仿真框架,Adversary Emulation Framework
-https://github.com/kedacore/keda,8528,1076,KEDA是一个基于Kubernetes的事件驱动自动缩放组件。它为Kubernetes中运行的任何容器提供了事件驱动的规模," KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes "
-https://github.com/cookieY/Yearning,8519,1994,🐳 mysql最流行的sql审计平台,🐳 A most popular sql audit platform for mysql 
-https://github.com/99designs/aws-vault,8512,821,用于在开发环境中安全存储和访问AWS凭据的保险库,A vault for securely storing and accessing AWS credentials in development environments
-https://github.com/glanceapp/glance,8501,296,一个自托管的仪表板，将您的所有提要放在一个地方,A self-hosted dashboard that puts all your feeds in one place
-https://github.com/tektoncd/pipeline,8494,1780,云原生管道资源。,A cloud-native Pipeline resource.
-https://github.com/openshift/origin,8492,4700,OpenShift一致性测试套件,Conformance test suite for OpenShift
-https://github.com/cyfdecyf/cow,8454,1613,用Go编写的HTTP代理。COW可以自动识别被阻止的网站，并使用父代理进行访问。,HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
-https://github.com/joho/godotenv,8453,405,Ruby的dotenv库的Go端口（从.env文件加载环境变量）,A Go port of Ruby's dotenv library (Loads environment variables from .env files)
-https://github.com/getanteon/anteon,8429,382,Anteon（前身为Ddosify）-轻松的Kubernetes监控和性能测试。可在CLI、自托管和云上使用,"Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud"
-https://github.com/fission/fission,8424,785,Kubernetes快速简单的无服务器功能,Fast and Simple Serverless Functions for Kubernetes
-https://github.com/centrifugal/centrifugo,8419,596,以与语言无关的方式提供可扩展的实时消息服务器。Pubnub、Pusher、Ably的自托管替代品。设置一次，永远。,"Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever."
-https://github.com/akavel/up,8384,129,Ultimate Plumber是一个用于编写Linux管道的工具，具有即时实时预览功能,Ultimate Plumber is a tool for writing Linux pipes with instant live preview
-https://github.com/stakater/Reloader,7666,512,Kubernetes控制器，用于监视ConfigMap和Secrets中的更改，并对Pod及其相关的Deployment、StatefulSet、DaemonSet和Deployment Config进行滚动升级——[✩Star]（如果您正在使用它）！,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!"
-https://github.com/ko-build/ko,7649,401,构建和部署Go应用程序,Build and deploy Go applications
-https://github.com/adonovan/gopl.io,7640,2737,“Go编程语言”中的示例程序,"Example programs from ""The Go Programming Language"""
-https://github.com/encoredev/encore,7634,323,用于构建具有声明性基础设施的健壮类型安全分布式系统的开源开发平台,Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
-https://github.com/gonum/gonum,7632,542,Gonum是Go编程语言的一组数值库。它包含矩阵、统计、优化等库,"Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more"
-https://github.com/berty/berty,7630,387,Berty是一款安全的点对点消息应用程序，可以在有或没有互联网接入、蜂窝数据或网络信任的情况下使用,"Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network"
-https://github.com/segmentio/kafka-go,7617,790,Go中的Kafka库,Kafka library in Go
-https://github.com/andeya/pholcus,7571,1706,Pholcus是一个用纯golang编写的分布式高并发爬虫软件,Pholcus is a distributed high-concurrency crawler software written in pure golang
-https://github.com/m1k1o/neko,7562,558,一个在docker中运行并使用WebRTC的自托管虚拟浏览器。,A self hosted virtual browser that runs in docker and uses WebRTC.
-https://github.com/RichardKnop/machinery,7558,917,机器是基于分布式消息传递的异步任务队列/作业队列。,Machinery is an asynchronous task queue/job queue based on distributed message passing.
-https://github.com/allegro/bigcache,7554,596,Go中写入的千兆字节数据的高效缓存。,Efficient cache for gigabytes of data written in Go.
-https://github.com/gruntwork-io/terratest,7519,1328,Terratest是一个Go库，它使为基础设施代码编写自动化测试变得更加容易。," Terratest is a Go library that makes it easier to write automated tests for your infrastructure code."
-https://github.com/urfave/negroni,7470,582,Golang专用HTTP中间件,Idiomatic HTTP Middleware for Golang
-https://github.com/attic-labs/noms,7444,266,版本化、可分叉、可同步的数据库,"The versioned, forkable, syncable database"
-https://github.com/concourse/concourse,7426,848,Concourse是一个用Go编写的基于容器的连续执行器。,Concourse is a container-based continuous thing-doer written in Go.
-https://github.com/olivere/elastic,7420,1150,弃用：使用官方的Elasticsearch Go客户端https://github.com/elastic/go-elasticsearch,Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
-https://github.com/golang/tools,7401,2269,[镜像]Go工具,[mirror] Go Tools
-https://github.com/cjbassi/gotop,7384,444,受gtop和vtop启发的基于终端的图形活动监视器,A terminal based graphical activity monitor inspired by gtop and vtop
-https://github.com/fatih/color,7376,619,Go（golang）的颜色包,Color package for Go (golang)
-https://github.com/mvdan/sh,7309,345,支持bash的shell解析器、格式化器和解释器；包括shfmt,"A shell parser, formatter, and interpreter with bash support; includes shfmt"
-https://github.com/teamhanko/hanko,7300,900,面向开发人员的身份验证和用户管理解决方案。Clerk&Auth0的开源替代品。,Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
-https://github.com/mmcgrana/gobyexample,7296,1274,以身作则,Go by Example
-https://github.com/naiba/nezha,7279,1273,：trollface：自托管、轻量级服务器和网站监控和运维工具,":trollface: Self-hosted, lightweight server and website monitoring and O&M tool"
-https://github.com/fabiolb/fabio,7274,616,Consul负载平衡变得简单,Consul Load-Balancing made simple
-https://github.com/open-falcon/falcon-plus,7267,1527,一个开源的企业级监控系统。," An open-source and enterprise-level monitoring system."
-https://github.com/operator-framework/operator-sdk,7256,1746,用于构建Kubernetes应用程序的SDK。提供高级API、有用的抽象和项目脚手架。,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
-https://github.com/golang-jwt/jwt,7254,348,去实现JSON Web令牌（JWT）。,Go implementation of JSON Web Tokens (JWT).
-https://github.com/Terry-Mao/goim,7207,1784,甲状腺肿,goim
-https://github.com/YaoApp/yao,7207,660,姚是一个多功能的应用引擎，使开发人员能够创建web应用程序、REST API、企业应用程序等，人工智能是一个无缝的合作者。,"Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator."
-https://github.com/dlvhdr/gh-dash,7206,218,GitHub上漂亮的CLI仪表板🚀,A beautiful CLI dashboard for GitHub 🚀 
-https://github.com/twitchtv/twirp,7188,326,一个具有protobuf服务定义的简单RPC框架,A simple RPC framework with protobuf service definitions
-https://github.com/pressly/goose,7137,522,数据库迁移工具。支持SQL迁移和Go函数。,A database migration tool. Supports SQL migrations and Go functions. 
-https://github.com/traefik/yaegi,7127,352,Yaegi是另一位优雅的围棋口译员,Yaegi is Another Elegant Go Interpreter
-https://github.com/metallb/metallb,7101,911,使用标准路由协议的Kubernetes网络负载均衡器实现,A network load-balancer implementation for Kubernetes using standard routing protocols
-https://github.com/aceld/zinx,7087,1211,基于Golang的轻量级并发服务器框架。,A lightweight concurrent server framework based on Golang.
-https://github.com/aquasecurity/kube-bench,7073,1228,检查Kubernetes是否按照CIS Kubernetes Benchmark中定义的安全最佳实践进行部署,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-https://github.com/davecheney/httpstat,7061,383,它就像curl-v，有颜色。,"It's like curl -v, with colours. "
-https://github.com/teivah/100-go-mistakes,7030,427,📖 100个错误以及如何避免它们,📖 100 Go Mistakes and How to Avoid Them
-https://github.com/pdfcpu/pdfcpu,7012,480,用Go编写的PDF处理器。,A PDF processor written in Go.
-https://github.com/Masterminds/squirrel,7003,465,golang的流畅SQL生成,Fluent SQL generation for golang
-https://github.com/turbot/steampipe,6985,276,零ETL，无限可能。SQL的实时查询API、代码等。无需DB。,"Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required."
-https://github.com/miniflux/v2,6950,726,极简主义和固执己见的提要阅读器,Minimalist and opinionated feed reader
-https://github.com/eddycjy/go-gin-example,6901,1599,杜松子酒的一个例子,An example of gin
-https://github.com/fluxcd/flux,6894,1078,继承人：https://github.com/fluxcd/flux2,Successor: https://github.com/fluxcd/flux2
-https://github.com/go-yaml/yaml,6882,1053,对Go语言的YAML支持。,YAML support for the Go language.
-https://github.com/loft-sh/vcluster,6880,423,vCluster-创建功能齐全的虚拟Kubernetes集群-每个vCluster都在底层k8s集群的命名空间内运行。它比创建单独的完整集群更便宜，并且比常规名称空间提供了更好的多租户和隔离。,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
-https://github.com/siderolabs/talos,6871,553,Talos Linux是为Kubernetes构建的现代Linux发行版。,Talos Linux is a modern Linux distribution built for Kubernetes.
-https://github.com/lxn/walk,6866,886,Go编程语言的Windows GUI工具包,A Windows GUI toolkit for the Go Programming Language
-https://github.com/vmware-archive/kubeless,6861,754,Kubernetes原生无服务器框架,Kubernetes Native Serverless Framework
-https://github.com/HavocFramework/Havoc,6855,962,Havoc框架,The Havoc Framework
-https://github.com/yeasy/blockchain_guide,6831,1942,介绍区块链相关技术，从比特币、以太坊和超级账本的理论到实践。,"Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger."
-https://github.com/aws/karpenter-provider-aws,6831,962,Karpenter是一个为灵活性、性能和简单性而构建的Kubernetes节点自动缩放器。,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity."
-https://github.com/DiceDB/dice,6791,1072,DiceDB是一个符合redis标准、反应式、可扩展、高可用、统一的缓存，针对现代硬件进行了优化。,"DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware."
-https://github.com/kubeedge/kubeedge,6788,1729,Kubernetes原生边缘计算框架（CNCF项目）,Kubernetes Native Edge Computing Framework (project under CNCF)
-https://github.com/smallstep/certificates,6783,443,🛡️ 私有证书颁发机构（X.509和SSH）和ACME服务器，用于安全的自动化证书管理，因此您可以在任何地方使用TLS和SSO进行SSH。,"🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH."
-https://github.com/boyter/scc,6768,268,Sloc、Cloc和Code:scc是一个非常快速准确的代码计数器，具有用纯Go编写的复杂性计算和COCOMO估计,"Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go"
-https://github.com/chaos-mesh/chaos-mesh,6767,838,Kubernetes的混沌工程平台。,A Chaos Engineering Platform for Kubernetes.
-https://github.com/volatiletech/sqlboiler,6763,547,生成一个根据您的数据库模式量身定制的Go ORM。,Generate a Go ORM tailored to your database schema.
-https://github.com/AlexxIT/go2rtc,6760,485,终极相机流媒体应用程序，支持RTSP、RTMP、HTTP-FLV、WebRTC、MSE、HLS、MP4、MJPEG、HomeKit、FFmpeg等。,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc."
-https://github.com/google/gops,6746,333,一个用于列出和诊断系统上当前运行的Go进程的工具,A tool to list and diagnose Go processes currently running on your system
-https://github.com/hybridgroup/gocv,6716,867,使用OpenCV 4及更高版本的计算机视觉Go包。包括对DNN、CUDA、OpenCV Contrib和OpenVINO的支持。,"Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO."
-https://github.com/StackExchange/blackbox,6688,370,在Git/Mercurial/Subversion中安全存储机密,Safely store secrets in Git/Mercurial/Subversion
-https://github.com/liamg/traitor,6687,579,：arrow_up:：skull_and_crossbones:：fire：通过利用低挂水果（如gtfobins、pwnkit、脏烟斗、+w docker.sock）自动获得Linux特权,":arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock"
-https://github.com/prometheus/alertmanager,6671,2161,普罗米修斯警报管理器,Prometheus Alertmanager
-https://github.com/42wim/matterbridge,6662,619,mattermost、IRC、gitter、xmpp、slack、discord、telegram、火箭聊天、twitch、ssh-cat、zulip、whatsapp、keybase、matrix、microsoft teams、nextcloud、mumble、vk等与REST API之间的桥梁（不需要mattermost！）,"bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)"
-https://github.com/go-xorm/xorm,6664,754,简单而强大的ORM for Go，支持mysql、postgres、tidb、sqlite3、mssql、oracle，移动到https://gitea.com/xorm/xorm,"Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm"
-https://github.com/OwO-Network/DeepLX,6647,533,强大的免费DeepL API，无需代币,"Powerful Free DeepL API, No Token Required"
-https://github.com/docker/machine,6632,1965,面向以容器为中心的世界的机器管理,Machine management for a container-centric world
-https://github.com/go-echarts/go-echarts,6606,563,🎨 Golang的可爱图表库。,🎨 The adorable charts library for Golang.
-https://github.com/shadowsocks/shadowsocks-go,6603,3317,shadowsocks的go port（已弃用）,go port of shadowsocks (Deprecated)
-https://github.com/telepresenceio/telepresence,6598,520,针对远程Kubernetes或OpenShift集群的本地开发,Local development against a remote Kubernetes or OpenShift cluster
-https://github.com/fluxcd/flux2,6560,607,Kubernetes的开放和可扩展的持续交付解决方案。由GitOps工具包提供支持。,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-https://github.com/EasyDarwin/EasyDarwin,6556,2182,"开源、高性能、工业级rtsp流媒体服务器，对流媒体中继、KeyFrame缓存、RESTful和web管理进行了大量优化，EasyDarwin还支持分布式负载平衡，这是一种简单的流媒体云平台架构。69-stange、rtspZhang Shui,a former transition，record，examination，returned，relative key for Guangzhou,expansion，RESTful接口，WEB后台管理，分配式运输平台，based.20110；易达尔文构建出了一套基础的流媒体云视频平台架构！","open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！"
-https://github.com/perkeep/perkeep,6493,448,Perkeep（née Camlistore）是您终身的个人存储系统：一种存储、同步、共享、建模和备份内容的方式。,"Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content."
-https://github.com/kubevela/kubevela,6447,892,现代应用平台。,The Modern Application Platform.
-https://github.com/rancher/os,6439,655,微型Linux发行版，将整个操作系统作为Docker容器运行,Tiny Linux distro that runs the entire OS as Docker containers
-https://github.com/TwiN/gatus,6428,427,⛑ 面向开发人员的自动化状态页面,⛑ Automated developer-oriented status page
-https://github.com/flike/kingshard,6414,1230,高性能MySQL代理,A high-performance MySQL proxy
-https://github.com/kubernetes-sigs/krew,6409,370,📦 查找并安装kubectl插件,📦 Find and install kubectl plugins
-https://github.com/shopspring/decimal,6404,623,Go中任意精度定点十进制数,Arbitrary-precision fixed-point decimal numbers in Go
-https://github.com/datreeio/datree,6387,361,防止Kubernetes配置错误进入生产环境（再次😤 )! 从代码到云，Datree提供了一个E2E策略执行解决方案，用于运行规则违规的自动检查。请参阅我们的文档：https://hub.datree.io,"Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io"
-https://github.com/google/gopacket,6350,1134,为Go提供数据包处理功能,Provides packet processing capabilities for Go
-https://github.com/evrone/go-clean-template,6336,535,Golang服务的干净架构模板,Clean Architecture template for Golang services
-https://github.com/cilium/ebpf,6335,697,ebpf-go是一个纯go库，用于读取、修改和加载ebpf程序，并将其附加到Linux内核中的各种钩子上。,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel."
-https://github.com/oapi-codegen/oapi-codegen,6318,870,根据OpenAPI 3规范生成Go客户端和服务器样板,Generate Go client and server boilerplate from OpenAPI 3 specifications
-https://github.com/muesli/beehive,6314,324,一个灵活的事件/代理和自动化系统，有很多蜜蜂🐝,A flexible event/agent & automation system with lots of bees 🐝
-https://github.com/expr-lang/expr,6308,405,Go的表达式语言和表达式求值,Expression language and expression evaluation for Go
-https://github.com/grpc-ecosystem/go-grpc-middleware,6308,692,Golang gRPC中间件：拦截器链接、身份验证、日志记录、重试等。,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more."
-https://github.com/alexellis/k3sup,6306,377,在60秒内通过SSH引导K3🚀,bootstrap K3s over SSH in < 60s 🚀
-https://github.com/upspin/upspin,6290,303,Upspin：一个为每个人的一切命名的框架。,Upspin: A framework for naming everyone's everything.
-https://github.com/yuin/gopher-lua,6289,653,GopherLua: VM and compiler for Lua in Go,GopherLua: VM and compiler for Lua in Go
-https://github.com/filhodanuvem/gitql,6288,165,💊 A git query language,💊 A git query language
-https://github.com/vmware-archive/octant,6276,489,Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.,Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
-https://github.com/btcsuite/btcd,6274,2374,An alternative full node bitcoin implementation written in Go (golang),An alternative full node bitcoin implementation written in Go (golang)
-https://github.com/google/osv-scanner,6255,362,Vulnerability scanner written in Go which uses the data provided by https://osv.dev,Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-https://github.com/anchore/syft,6254,574,CLI tool and library for generating a Software Bill of Materials from container images and filesystems,CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-https://github.com/dominikh/go-tools,6193,377,Staticcheck - The advanced Go linter,Staticcheck - The advanced Go linter
-https://github.com/pachyderm/pachyderm,6179,567,Data-Centric Pipelines and Data Versioning,Data-Centric Pipelines and Data Versioning
-https://github.com/syndtr/goleveldb,6160,967,LevelDB key/value database in Go.,LevelDB key/value database in Go.
-https://github.com/DATA-DOG/go-sqlmock,6156,407,Sql mock driver for golang to test database interactions,Sql mock driver for golang to test database interactions
-https://github.com/cloudwego/kitex,7034,818,Go RPC框架具有高性能和强大的可扩展性，可用于构建微服务。,Go RPC framework with high-performance and strong-extensibility for building micro-services.
-https://github.com/smartcontractkit/chainlink,7031,1715,分布式oracle网络节点，桥接链上和链下计算,"node of the decentralized oracle network, bridging on and off-chain computation"
-https://github.com/teivah/100-go-mistakes,7030,427,📖 100个错误以及如何避免它们,📖 100 Go Mistakes and How to Avoid Them
-https://github.com/pdfcpu/pdfcpu,7012,480,用Go编写的PDF处理器。,A PDF processor written in Go.
-https://github.com/Masterminds/squirrel,7003,465,golang的流畅SQL生成,Fluent SQL generation for golang
-https://github.com/turbot/steampipe,6985,276,零ETL，无限可能。SQL的实时查询API、代码等。无需DB。,"Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required."
-https://github.com/miniflux/v2,6950,726,极简主义和固执己见的提要阅读器,Minimalist and opinionated feed reader
-https://github.com/dunglas/frankenphp,6936,242,🧟 现代PHP应用服务器,🧟 The modern PHP app server
-https://github.com/eddycjy/go-gin-example,6901,1599,杜松子酒的一个例子,An example of gin
-https://github.com/fluxcd/flux,6894,1078,继承人：https://github.com/fluxcd/flux2,Successor: https://github.com/fluxcd/flux2
-https://github.com/simeji/jid,6890,155,json增量挖掘器,json incremental digger
-https://github.com/go-yaml/yaml,6882,1053,对Go语言的YAML支持。,YAML support for the Go language.
-https://github.com/loft-sh/vcluster,6880,423,vCluster-创建功能齐全的虚拟Kubernetes集群-每个vCluster都在底层k8s集群的命名空间内运行。它比创建单独的完整集群更便宜，并且比常规名称空间提供了更好的多租户和隔离。,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
-https://github.com/siderolabs/talos,6871,553,Talos Linux是为Kubernetes构建的现代Linux发行版。,Talos Linux is a modern Linux distribution built for Kubernetes.
-https://github.com/lxn/walk,6866,886,Go编程语言的Windows GUI工具包,A Windows GUI toolkit for the Go Programming Language
-https://github.com/vmware-archive/kubeless,6861,754,Kubernetes原生无服务器框架,Kubernetes Native Serverless Framework
-https://github.com/HavocFramework/Havoc,6855,962,Havoc框架,The Havoc Framework
-https://github.com/yeasy/blockchain_guide,6831,1942,介绍区块链相关技术，从比特币、以太坊和超级账本的理论到实践。,"Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger."
-https://github.com/aws/karpenter-provider-aws,6831,962,Karpenter是一个为灵活性、性能和简单性而构建的Kubernetes节点自动缩放器。,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity."
-https://github.com/DiceDB/dice,6791,1072,DiceDB是一个符合redis标准、反应式、可扩展、高可用、统一的缓存，针对现代硬件进行了优化。,"DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware."
-https://github.com/kubeedge/kubeedge,6788,1729,Kubernetes原生边缘计算框架（CNCF项目）,Kubernetes Native Edge Computing Framework (project under CNCF)
-https://github.com/smallstep/certificates,6783,443,🛡️ 私有证书颁发机构（X.509和SSH）和ACME服务器，用于安全的自动化证书管理，因此您可以在任何地方使用TLS和SSO进行SSH。,"🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH."
-https://github.com/boyter/scc,6768,268,Sloc、Cloc和Code:scc是一个非常快速准确的代码计数器，具有用纯Go编写的复杂性计算和COCOMO估计,"Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go"
-https://github.com/chaos-mesh/chaos-mesh,6767,838,Kubernetes的混沌工程平台。,A Chaos Engineering Platform for Kubernetes.
-https://github.com/volatiletech/sqlboiler,6763,547,生成一个根据您的数据库模式量身定制的Go ORM。,Generate a Go ORM tailored to your database schema.
-https://github.com/AlexxIT/go2rtc,6760,485,终极相机流媒体应用程序，支持RTSP、RTMP、HTTP-FLV、WebRTC、MSE、HLS、MP4、MJPEG、HomeKit、FFmpeg等。,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc."
-https://github.com/google/gops,6746,333,一个用于列出和诊断系统上当前运行的Go进程的工具,A tool to list and diagnose Go processes currently running on your system
-https://github.com/aquasecurity/tfsec,6718,544,Tfsec现在是Trivy的一部分,Tfsec is now part of Trivy
-https://github.com/hybridgroup/gocv,6716,867,使用OpenCV 4及更高版本的计算机视觉Go包。包括对DNN、CUDA、OpenCV Contrib和OpenVINO的支持。,"Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO."
-https://github.com/StackExchange/blackbox,6688,370,在Git/Mercurial/Subversion中安全存储机密,Safely store secrets in Git/Mercurial/Subversion
-https://github.com/liamg/traitor,6687,579,：arrow_up:：skull_and_crossbones:：fire：通过利用低挂水果（如gtfobins、pwnkit、脏烟斗、+w docker.sock）自动获得Linux特权,":arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock"
-https://github.com/prometheus/alertmanager,6671,2161,普罗米修斯警报管理器,Prometheus Alertmanager
-https://github.com/42wim/matterbridge,6662,619,mattermost、IRC、gitter、xmpp、slack、discord、telegram、火箭聊天、twitch、ssh-cat、zulip、whatsapp、keybase、matrix、microsoft teams、nextcloud、mumble、vk等与REST API之间的桥梁（不需要mattermost！）,"bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)"
-https://github.com/go-xorm/xorm,6664,754,简单而强大的ORM for Go，支持mysql、postgres、tidb、sqlite3、mssql、oracle，移动到https://gitea.com/xorm/xorm,"Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm"
-https://github.com/OwO-Network/DeepLX,6647,533,强大的免费DeepL API，无需代币,"Powerful Free DeepL API, No Token Required"
-https://github.com/docker/machine,6632,1965,面向以容器为中心的世界的机器管理,Machine management for a container-centric world
-https://github.com/weaveworks/weave,6618,670,简单、有弹性的多主机容器网络等。,"Simple, resilient multi-host containers networking and more."
-https://github.com/Hackl0us/GeoIP2-CN,6617,175,GeoIP2数据库,小巧精悍、准确、实用 GeoIP2 数据库
-https://github.com/go-echarts/go-echarts,6606,563,🎨 Golang的可爱图表库。,🎨 The adorable charts library for Golang.
-https://github.com/shadowsocks/shadowsocks-go,6603,3317,shadowsocks的go port（已弃用）,go port of shadowsocks (Deprecated)
-https://github.com/telepresenceio/telepresence,6598,520,针对远程Kubernetes或OpenShift集群的本地开发,Local development against a remote Kubernetes or OpenShift cluster
-https://github.com/fluxcd/flux2,6560,607,Kubernetes的开放和可扩展的持续交付解决方案。由GitOps工具包提供支持。,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-https://github.com/EasyDarwin/EasyDarwin,6556,2182,"开源、高性能、工业级rtsp流媒体服务器，对流媒体中继、KeyFrame缓存、RESTful和web管理进行了大量优化，EasyDarwin还支持分布式负载平衡，这是一种简单的流媒体云平台架构。69-stange、rtspZhang Shui,a former transition，record，examination，returned，relative key for Guangzhou,expansion，RESTful接口，WEB后台管理，分配式运输平台，based.20110；易达尔文构建出了一套基础的流媒体云视频平台架构！","open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！"
-https://github.com/perkeep/perkeep,6493,448,Perkeep（née Camlistore）是您终身的个人存储系统：一种存储、同步、共享、建模和备份内容的方式。,"Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content."
-https://github.com/kubevela/kubevela,6447,892,现代应用平台。,The Modern Application Platform.
-https://github.com/jpbruinsslot/slack-term,6440,226,Slack客户端为您的终端,Slack client for your terminal
-https://github.com/rancher/os,6439,655,微型Linux发行版，将整个操作系统作为Docker容器运行,Tiny Linux distro that runs the entire OS as Docker containers
-https://github.com/TwiN/gatus,6428,427,⛑ 面向开发人员的自动化状态页面,⛑ Automated developer-oriented status page
-https://github.com/amir20/dozzle,6423,318,docker容器的实时日志查看器。,Realtime log viewer for docker containers. 
-https://github.com/flike/kingshard,6414,1230,高性能MySQL代理,A high-performance MySQL proxy
-https://github.com/kubernetes-sigs/krew,6409,370,📦 查找并安装kubectl插件,📦 Find and install kubectl plugins
-https://github.com/shopspring/decimal,6404,623,Go中任意精度定点十进制数,Arbitrary-precision fixed-point decimal numbers in Go
-https://github.com/datreeio/datree,6387,361,防止Kubernetes配置错误进入生产环境（再次😤 )! 从代码到云，Datree提供了一个E2E策略执行解决方案，用于运行规则违规的自动检查。请参阅我们的文档：https://hub.datree.io,"Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io"
-https://github.com/luraproject/lura,6367,564,具有中间件的超性能API网关。Linux基金会主办的一个项目,Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
-https://github.com/google/gopacket,6350,1134,为Go提供数据包处理功能,Provides packet processing capabilities for Go
-https://github.com/evrone/go-clean-template,6336,535,Golang服务的干净架构模板,Clean Architecture template for Golang services
-https://github.com/cilium/ebpf,6335,697,ebpf-go是一个纯go库，用于读取、修改和加载ebpf程序，并将其附加到Linux内核中的各种钩子上。,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel."
-https://github.com/oapi-codegen/oapi-codegen,6318,870,根据OpenAPI 3规范生成Go客户端和服务器样板,Generate Go client and server boilerplate from OpenAPI 3 specifications
-https://github.com/muesli/beehive,6314,324,一个灵活的事件/代理和自动化系统，有很多蜜蜂🐝,A flexible event/agent & automation system with lots of bees 🐝
-https://github.com/expr-lang/expr,6308,405,Go的表达式语言和表达式求值,Expression language and expression evaluation for Go
-https://github.com/grpc-ecosystem/go-grpc-middleware,6308,692,Golang gRPC中间件：拦截器链接、身份验证、日志记录、重试等。,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more."
-https://github.com/alexellis/k3sup,6306,377,在60秒内通过SSH引导K3🚀,bootstrap K3s over SSH in < 60s 🚀
-https://github.com/upspin/upspin,6290,303,Upspin：一个为每个人的一切命名的框架。,Upspin: A framework for naming everyone's everything.
+https://github.com/dgrijalva/jwt-go,10787,995,ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:,ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
+https://github.com/OpenDiablo2/OpenDiablo2,10771,815,An open source re-implementation of Diablo 2,An open source re-implementation of Diablo 2
+https://github.com/swaggo/swag,10745,1202,Automatically generate RESTful API documentation with Swagger 2.0 for Go.,Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+https://github.com/linkerd/linkerd2,10689,1283,"Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.","Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x."
+https://github.com/rs/zerolog,10646,573,Zero Allocation JSON Logger,Zero Allocation JSON Logger
+https://github.com/semaphoreui/semaphore,10645,1068,"Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.","Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools."
+https://github.com/shirou/gopsutil,10636,1590,psutil for golang,psutil for golang
+https://github.com/daytonaio/daytona,10592,839,The Open Source Dev Environment Manager.,The Open Source Dev Environment Manager.
+https://github.com/livekit/livekit,10585,885,End-to-end stack for WebRTC. SFU media server and SDKs.,End-to-end stack for WebRTC. SFU media server and SDKs.
+https://github.com/asciimoo/wuzz,10571,412,Interactive cli tool for HTTP inspection,Interactive cli tool for HTTP inspection
+https://github.com/google/grumpy,10548,646,Grumpy is a Python to Go source code transcompiler and runtime.,Grumpy is a Python to Go source code transcompiler and runtime.
+https://github.com/therecipe/qt,10489,748,Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly,Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly
+https://github.com/google/go-github,10449,2065,Go library for accessing the GitHub v3 API,Go library for accessing the GitHub v3 API
+https://github.com/adnanh/webhook,10402,834,webhook is a lightweight incoming webhook server to run shell commands,webhook is a lightweight incoming webhook server to run shell commands
+https://github.com/Mrs4s/go-cqhttp,10399,1630,cqhttp的golang实现，轻量、原生跨平台.,cqhttp的golang实现，轻量、原生跨平台.
+https://github.com/esimov/caire,10363,384,Content aware image resize library,Content aware image resize library
+https://github.com/quay/clair,10360,1163,Vulnerability Static Analysis for Containers,Vulnerability Static Analysis for Containers
+https://github.com/tylertreat/comcast,10312,384,Simulating shitty network connections so you can build better systems.,Simulating shitty network connections so you can build better systems.
+https://github.com/projectdiscovery/subfinder,10287,1277,Fast passive subdomain enumeration tool.,Fast passive subdomain enumeration tool.
+https://github.com/kubescape/kubescape,10234,838,"Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.","Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources."
+https://github.com/casdoor/casdoor,10205,1203,"An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos","An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos"
+https://github.com/go-resty/resty,10169,711,Simple HTTP and REST client library for Go,Simple HTTP and REST client library for Go
+https://github.com/dtm-labs/dtm,10157,973,"A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.","A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages."
+https://github.com/OJ/gobuster,10138,1207,"Directory/File, DNS and VHost busting tool written in Go","Directory/File, DNS and VHost busting tool written in Go"
+https://github.com/quic-go/quic-go,10129,1316,A QUIC implementation in pure Go,A QUIC implementation in pure Go
+https://github.com/sourcegraph/sourcegraph-public-snapshot,10116,1290,Code AI platform with Code Search & Cody,Code AI platform with Code Search & Cody
+https://github.com/grafana/pyroscope,10097,610,Continuous Profiling Platform. Debug performance issues down to a single line of code,Continuous Profiling Platform. Debug performance issues down to a single line of code
+https://github.com/blevesearch/bleve,10097,686,A modern text/numeric/geo-spatial/vector indexing library for go,A modern text/numeric/geo-spatial/vector indexing library for go
+https://github.com/claudiodangelis/qrcp,10002,529,:zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.,:zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+https://github.com/hibiken/asynq,9983,711,"Simple, reliable, and efficient distributed task queue in Go","Simple, reliable, and efficient distributed task queue in Go"
+https://github.com/99designs/gqlgen,9978,1170,go generate based graphql server library,go generate based graphql server library
+https://github.com/maaslalani/slides,9964,275,Terminal based presentation tool,Terminal based presentation tool
+https://github.com/graphql-go/graphql,9930,840,An implementation of GraphQL for Go / Golang,An implementation of GraphQL for Go / Golang
+https://github.com/GoesToEleven/GolangTraining,9923,3592,Training for Golang (go language),Training for Golang (go language)
+https://github.com/jroimartin/gocui,9923,608,Minimalist Go package aimed at creating Console User Interfaces.,Minimalist Go package aimed at creating Console User Interfaces.
+https://github.com/hashicorp/terraform-provider-aws,9842,9190,The AWS Provider enables Terraform to manage AWS resources.,The AWS Provider enables Terraform to manage AWS resources.
+https://github.com/oauth2-proxy/oauth2-proxy,9841,1594,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.","A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers."
+https://github.com/ccfos/nightingale,9790,1415,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.","An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI."
+https://github.com/golang/protobuf,9787,1581,Go support for Google's protocol buffers,Go support for Google's protocol buffers
+https://github.com/wader/fq,9780,227,"jq for binary formats - tool, language and decoders for working with binary and text formats","jq for binary formats - tool, language and decoders for working with binary and text formats"
+https://github.com/gomodule/redigo,9755,1248,Go client for Redis,Go client for Redis
+https://github.com/gwuhaolin/livego,9735,2005,live video streaming server in golang,live video streaming server in golang
+https://github.com/TykTechnologies/tyk,9731,1087,"Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols","Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols"
+https://github.com/apernet/OpenGFW,9719,733,"OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux","OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux"
+https://github.com/open-policy-agent/opa,9713,1346,"Open Policy Agent (OPA) is an open source, general-purpose policy engine.","Open Policy Agent (OPA) is an open source, general-purpose policy engine."
+https://github.com/go-vgo/robotgo,9681,887,"RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar","RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar"
+https://github.com/panjf2000/gnet,9671,1042,"🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.","🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go."
+https://github.com/fsnotify/fsnotify,9648,914,Cross-platform filesystem notifications for Go.,Cross-platform filesystem notifications for Go.
+https://github.com/kubernetes/kompose,9636,763,Convert Compose to Kubernetes,Convert Compose to Kubernetes
+https://github.com/google/go-cloud,9563,811,The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.,The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
+https://github.com/go-swagger/go-swagger,9546,1251,Swagger 2.0 implementation for go,Swagger 2.0 implementation for go
+https://github.com/crossplane/crossplane,9531,960,The Cloud Native Control Plane,The Cloud Native Control Plane
+https://github.com/gravitl/netmaker,9526,552,"Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.","Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks."
+https://github.com/owncast/owncast,9512,871,Take control over your live stream video by running it yourself.  Streaming + chat out of the box.,Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
+https://github.com/dexidp/dex,9502,1705,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors,OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+https://github.com/loft-sh/devpod,9502,345,"Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.","Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker."
+https://github.com/polaris1119/The-Golang-Standard-Library-by-Example,9499,2011,Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。,Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
+https://github.com/drakkan/sftpgo,9437,733,"Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob","Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob"
+https://github.com/lk-geimfari/awesomo,9418,665,Cool open source projects. Choose your project and get involved in Open Source development now.,Cool open source projects. Choose your project and get involved in Open Source development now.
+https://github.com/safing/portmaster,9405,305,🏔 Love Freedom - ❌ Block Mass Surveillance,🏔 Love Freedom - ❌ Block Mass Surveillance
+https://github.com/noisetorch/NoiseTorch,9358,233,Real-time microphone noise suppression on Linux.,Real-time microphone noise suppression on Linux.
+https://github.com/golang/mock,9320,607,GoMock is a mocking framework for the Go programming language.,GoMock is a mocking framework for the Go programming language.
+https://github.com/stashapp/stash,9318,802,"An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc","An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc"
+https://github.com/cloudflare/cloudflared,9307,829,Cloudflare Tunnel client (formerly Argo Tunnel),Cloudflare Tunnel client (formerly Argo Tunnel)
+https://github.com/sjwhitworth/golearn,9293,1191,Machine Learning for Go,Machine Learning for Go
+https://github.com/sashabaranov/go-openai,9247,1420,"OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go","OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go"
+https://github.com/bxcodec/go-clean-arch,9219,1215,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+https://github.com/FerretDB/FerretDB,9184,402,A truly Open Source MongoDB alternative,A truly Open Source MongoDB alternative
+https://github.com/tidwall/tile38,9159,569,Real-time Geospatial and Geofencing,Real-time Geospatial and Geofencing
+https://github.com/bufbuild/buf,9149,277,The best way of working with Protocol Buffers.,The best way of working with Protocol Buffers.
+https://github.com/prometheus-operator/prometheus-operator,9142,3723,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+https://github.com/lib/pq,9131,913,Pure Go Postgres driver for database/sql,Pure Go Postgres driver for database/sql
+https://github.com/gcla/termshark,9124,399,"A terminal UI for tshark, inspired by Wireshark","A terminal UI for tshark, inspired by Wireshark"
+https://github.com/kubernetes/client-go,9095,2950,Go client for Kubernetes.,Go client for Kubernetes.
+https://github.com/sourcegraph/conc,9077,313,Better structured concurrency for go,Better structured concurrency for go
+https://github.com/dinedal/textql,9067,300,Execute SQL against structured text like CSV or TSV,Execute SQL against structured text like CSV or TSV
+https://github.com/crowdsecurity/crowdsec,9057,467,CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.,CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+https://github.com/heroiclabs/nakama,9050,1098,Distributed server for social and realtime games and apps.,Distributed server for social and realtime games and apps.
+https://github.com/unknwon/go-fundamental-programming,9041,2045,《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。,《Go 编程基础》是一套针对 Google 出品的 Go 语言的视频语音教程，主要面向新手级别的学习者。
+https://github.com/xo/usql,9026,351,Universal command-line interface for SQL databases,Universal command-line interface for SQL databases
+https://github.com/distribution/distribution,9004,2499,"The toolkit to pack, ship, store, and deliver container content","The toolkit to pack, ship, store, and deliver container content"
+https://github.com/zitadel/zitadel,9002,575,"ZITADEL - Identity infrastructure, simplified for you.","ZITADEL - Identity infrastructure, simplified for you."
+https://github.com/imgproxy/imgproxy,8994,635,Fast and secure standalone server for resizing and converting remote images,Fast and secure standalone server for resizing and converting remote images
+https://github.com/prasmussen/gdrive,8990,1185,Google Drive CLI Client,Google Drive CLI Client
+https://github.com/johnkerl/miller,8989,217,"Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON","Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON"
+https://github.com/goplus/gop,8966,546,"The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world.","The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the digital world."
+https://github.com/hybridgroup/gobot,8964,1043,"Golang framework for robotics, drones, and the Internet of Things (IoT)","Golang framework for robotics, drones, and the Internet of Things (IoT)"
+https://github.com/keybase/client,8915,1227,"Keybase Go Library, Client, Service, OS X, iOS, Android, Electron","Keybase Go Library, Client, Service, OS X, iOS, Android, Electron"
+https://github.com/anchore/grype,8826,573,A vulnerability scanner for container images and filesystems,A vulnerability scanner for container images and filesystems
+https://github.com/rkt/rkt,8822,883,"[Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.","[Project ended] rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards."
+https://github.com/flannel-io/flannel,8817,2870,"flannel is a network fabric for containers, designed for Kubernetes","flannel is a network fabric for containers, designed for Kubernetes"
+https://github.com/apex/up,8795,378,"Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.","Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS."
+https://github.com/jetify-com/devbox,8786,204,"Instant, easy, and predictable development environments","Instant, easy, and predictable development environments"
+https://github.com/cloudflare/cfssl,8767,1112,CFSSL: Cloudflare's PKI and TLS toolkit,CFSSL: Cloudflare's PKI and TLS toolkit
+https://github.com/vmware-tanzu/velero,8766,1410,Backup and migrate Kubernetes applications and their persistent volumes,Backup and migrate Kubernetes applications and their persistent volumes
+https://github.com/senghoo/golang-design-pattern,8763,2084,设计模式 Golang实现－《研磨设计模式》读书笔记,设计模式 Golang实现－《研磨设计模式》读书笔记
+https://github.com/XiaoMi/soar,8678,1323,SQL Optimizer And Rewriter,SQL Optimizer And Rewriter
+https://github.com/sosedoff/pgweb,8650,736,Cross-platform client for PostgreSQL databases,Cross-platform client for PostgreSQL databases
+https://github.com/aws/aws-sdk-go,8644,2069,AWS SDK for the Go programming language.,AWS SDK for the Go programming language.
+https://github.com/codenotary/immudb,8633,343,"immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history","immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history"
+https://github.com/gorse-io/gorse,8611,785,Gorse open source recommender system engine,Gorse open source recommender system engine
+https://github.com/BishopFox/sliver,8539,1125,Adversary Emulation Framework,Adversary Emulation Framework
+https://github.com/kedacore/keda,8528,1076," KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes "," KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes "
+https://github.com/cookieY/Yearning,8519,1994,🐳 A most popular sql audit platform for mysql ,🐳 A most popular sql audit platform for mysql 
+https://github.com/99designs/aws-vault,8512,821,A vault for securely storing and accessing AWS credentials in development environments,A vault for securely storing and accessing AWS credentials in development environments
+https://github.com/glanceapp/glance,8501,296,A self-hosted dashboard that puts all your feeds in one place,A self-hosted dashboard that puts all your feeds in one place
+https://github.com/tektoncd/pipeline,8494,1780,A cloud-native Pipeline resource.,A cloud-native Pipeline resource.
+https://github.com/openshift/origin,8492,4700,Conformance test suite for OpenShift,Conformance test suite for OpenShift
+https://github.com/cyfdecyf/cow,8454,1613,HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.,HTTP proxy written in Go. COW can automatically identify blocked sites and use parent proxies to access.
+https://github.com/joho/godotenv,8453,405,A Go port of Ruby's dotenv library (Loads environment variables from .env files),A Go port of Ruby's dotenv library (Loads environment variables from .env files)
+https://github.com/getanteon/anteon,8429,382,"Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud","Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud"
+https://github.com/fission/fission,8424,785,Fast and Simple Serverless Functions for Kubernetes,Fast and Simple Serverless Functions for Kubernetes
+https://github.com/centrifugal/centrifugo,8419,596,"Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.","Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever."
+https://github.com/akavel/up,8384,129,Ultimate Plumber is a tool for writing Linux pipes with instant live preview,Ultimate Plumber is a tool for writing Linux pipes with instant live preview
+https://github.com/onsi/ginkgo,8371,660,A Modern Testing Framework for Go,A Modern Testing Framework for Go
+https://github.com/kelseyhightower/confd,8351,1413,Manage local application configuration files using templates and data from etcd or consul,Manage local application configuration files using templates and data from etcd or consul
+https://github.com/andlabs/ui,8337,650,Platform-native GUI library for Go.,Platform-native GUI library for Go.
+https://github.com/a-h/templ,8332,274,A language for writing HTML user interfaces in Go.,A language for writing HTML user interfaces in Go.
+https://github.com/coder/coder,8320,708,Provision remote development environments via Terraform,Provision remote development environments via Terraform
+https://github.com/uber/cadence,8319,800,"Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.","Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way."
+https://github.com/containers/skopeo,8299,783,"Work with remote images registries - retrieving information, images, signing content","Work with remote images registries - retrieving information, images, signing content"
+https://github.com/etcd-io/bbolt,8291,646,An embedded key/value database for Go.,An embedded key/value database for Go.
+https://github.com/linuxkit/linuxkit,8290,1015,"A toolkit for building secure, portable and lean operating systems for containers","A toolkit for building secure, portable and lean operating systems for containers"
+https://github.com/hashicorp/raft,8262,993,Golang implementation of the Raft consensus protocol,Golang implementation of the Raft consensus protocol
+https://github.com/smartystreets/goconvey,8259,555,Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.,Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
+https://github.com/moby/buildkit,8209,1160,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit","concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
+https://github.com/GoAdminGroup/go-admin,8204,1338,A golang framework helps gopher to build a data visualization and admin panel in ten minutes,A golang framework helps gopher to build a data visualization and admin panel in ten minutes
+https://github.com/pkg/errors,8195,697,Simple error handling primitives,Simple error handling primitives
+https://github.com/charmbracelet/lipgloss,8172,229,Style definitions for nice terminal layouts 👄,Style definitions for nice terminal layouts 👄
+https://github.com/mongodb/mongo-go-driver,8169,891,The Official Golang driver for MongoDB,The Official Golang driver for MongoDB
+https://github.com/patrickmn/go-cache,8168,873,"An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.","An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications."
+https://github.com/containerd/nerdctl,8162,609,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...","contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
+https://github.com/git-bug/git-bug,8147,269,"Distributed, offline-first bug tracker embedded in git, with bridges","Distributed, offline-first bug tracker embedded in git, with bridges"
+https://github.com/Masterminds/glide,8145,540,Package Management for Golang,Package Management for Golang
+https://github.com/redpanda-data/connect,8137,840,Fancy stream processing made operationally mundane,Fancy stream processing made operationally mundane
+https://github.com/robertkrimen/otto,8124,588,A JavaScript interpreter in Go (golang),A JavaScript interpreter in Go (golang)
+https://github.com/smallnest/rpcx,8116,1167,"Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!","Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it's better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud!"
+https://github.com/kopia/kopia,8092,402,"Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.","Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included."
+https://github.com/gruntwork-io/terragrunt,8088,981,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.,Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+https://github.com/kubernetes/autoscaler,8085,3974,Autoscaling components for Kubernetes,Autoscaling components for Kubernetes
+https://github.com/gotenberg/gotenberg,8082,545,"A developer-friendly API for converting numerous document formats into PDF files, and more!","A developer-friendly API for converting numerous document formats into PDF files, and more!"
+https://github.com/gobuffalo/buffalo,8082,577,Rapid Web Development w/ Go,Rapid Web Development w/ Go
+https://github.com/miekg/dns,8068,1140,DNS library in Go,DNS library in Go
+https://github.com/appleboy/gorush,8060,842,A push notification server written in Go (Golang).,A push notification server written in Go (Golang).
+https://github.com/go-acme/lego,8037,1025,Let's Encrypt/ACME client and library written in Go,Let's Encrypt/ACME client and library written in Go
+https://github.com/zserge/lorca,8032,535,Build cross-platform modern desktop apps in Go + HTML5,Build cross-platform modern desktop apps in Go + HTML5
+https://github.com/qdm12/gluetun,8031,371,"VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.","VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in."
+https://github.com/cortexlabs/cortex,8020,607,Production infrastructure for machine learning at scale,Production infrastructure for machine learning at scale
+https://github.com/google/pprof,7999,606,pprof is a tool for visualization and analysis of profiling data,pprof is a tool for visualization and analysis of profiling data
+https://github.com/maxence-charriere/go-app,7970,368,A package to build progressive web apps with Go programming language and WebAssembly.,A package to build progressive web apps with Go programming language and WebAssembly.
+https://github.com/reviewdog/reviewdog,7967,422,🐶 Automated code review tool integrated with any code analysis tools regardless of programming language,🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+https://github.com/roadrunner-server/roadrunner,7924,411,"🤯 High-performance PHP application server, process manager written in Go and powered with plugins","🤯 High-performance PHP application server, process manager written in Go and powered with plugins"
+https://github.com/mitchellh/mapstructure,7920,674,Go library for decoding generic map values into native Go structures and vice versa.,Go library for decoding generic map values into native Go structures and vice versa.
+https://github.com/kubernetes-sigs/kubebuilder,7916,1450,Kubebuilder - SDK for building Kubernetes APIs using CRDs,Kubebuilder - SDK for building Kubernetes APIs using CRDs
+https://github.com/IBAX-io/go-ibax,7872,6443,"An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc. ","An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc. "
+https://github.com/flynn/flynn,7853,595,[UNMAINTAINED] A next generation open source platform as a service (PaaS),[UNMAINTAINED] A next generation open source platform as a service (PaaS)
+https://github.com/securego/gosec,7852,614,Go security checker,Go security checker
+https://github.com/schachmat/wego,7836,478,weather app for the terminal,weather app for the terminal
+https://github.com/runatlantis/atlantis,7831,1055,Terraform Pull Request Automation,Terraform Pull Request Automation
+https://github.com/teh-cmc/go-internals,7830,352,A book about the internals of the Go programming language.,A book about the internals of the Go programming language.
+https://github.com/gokcehan/lf,7782,331,Terminal file manager,Terminal file manager
+https://github.com/p4gefau1t/trojan-go,7782,1682,Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/,Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/
+https://github.com/screego/server,7781,557,screen sharing for developers https://screego.net/,screen sharing for developers https://screego.net/
+https://github.com/ThreeDotsLabs/watermill,7762,407,Building event-driven applications the easy way in Go.,Building event-driven applications the easy way in Go.
+https://github.com/projectdiscovery/httpx,7748,843,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.,httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+https://github.com/0voice/Introduction-to-Golang,7729,1906,【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt,【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
+https://github.com/kubernetes-sigs/external-dns,7725,2570,"Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services","Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services"
+https://github.com/lightningnetwork/lnd,7708,2086,Lightning Network Daemon ⚡️,Lightning Network Daemon ⚡️
+https://github.com/bitnami-labs/sealed-secrets,7708,684,A Kubernetes controller and tool for one-way encrypted Secrets,A Kubernetes controller and tool for one-way encrypted Secrets
+https://github.com/tilt-dev/tilt,7698,303,Define your dev environment as code. For microservice apps on Kubernetes.,Define your dev environment as code. For microservice apps on Kubernetes.
+https://github.com/peco/peco,7696,235,Simplistic interactive filtering tool,Simplistic interactive filtering tool
+https://github.com/Workiva/go-datastructures,7680,834,"A collection of useful, performant, and threadsafe Go datastructures.","A collection of useful, performant, and threadsafe Go datastructures."
+https://github.com/usefathom/fathom,7678,372,"Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact.","Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact."
+https://github.com/stakater/Reloader,7666,512,"A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!","A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!"
+https://github.com/ko-build/ko,7649,401,Build and deploy Go applications,Build and deploy Go applications
+https://github.com/adonovan/gopl.io,7640,2737,"Example programs from ""The Go Programming Language""","Example programs from ""The Go Programming Language"""
+https://github.com/encoredev/encore,7634,323,Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure,Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
+https://github.com/gonum/gonum,7632,542,"Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more","Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more"
+https://github.com/berty/berty,7630,387,"Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network","Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network"
+https://github.com/segmentio/kafka-go,7617,790,Kafka library in Go,Kafka library in Go
+https://github.com/andeya/pholcus,7571,1706,Pholcus is a distributed high-concurrency crawler software written in pure golang,Pholcus is a distributed high-concurrency crawler software written in pure golang
+https://github.com/m1k1o/neko,7562,558,A self hosted virtual browser that runs in docker and uses WebRTC.,A self hosted virtual browser that runs in docker and uses WebRTC.
+https://github.com/RichardKnop/machinery,7558,917,Machinery is an asynchronous task queue/job queue based on distributed message passing.,Machinery is an asynchronous task queue/job queue based on distributed message passing.
+https://github.com/allegro/bigcache,7554,596,Efficient cache for gigabytes of data written in Go.,Efficient cache for gigabytes of data written in Go.
+https://github.com/gruntwork-io/terratest,7519,1328," Terratest is a Go library that makes it easier to write automated tests for your infrastructure code."," Terratest is a Go library that makes it easier to write automated tests for your infrastructure code."
+https://github.com/urfave/negroni,7470,582,Idiomatic HTTP Middleware for Golang,Idiomatic HTTP Middleware for Golang
+https://github.com/attic-labs/noms,7444,266,"The versioned, forkable, syncable database","The versioned, forkable, syncable database"
+https://github.com/containers/buildah,7444,785,A tool that facilitates building OCI images.,A tool that facilitates building OCI images.
+https://github.com/concourse/concourse,7426,848,Concourse is a container-based continuous thing-doer written in Go.,Concourse is a container-based continuous thing-doer written in Go.
+https://github.com/olivere/elastic,7420,1150,Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch,Deprecated: Use the official Elasticsearch client for Go at https://github.com/elastic/go-elasticsearch
+https://github.com/golang/tools,7401,2269,[mirror] Go Tools,[mirror] Go Tools
+https://github.com/cjbassi/gotop,7384,444,A terminal based graphical activity monitor inspired by gtop and vtop,A terminal based graphical activity monitor inspired by gtop and vtop
+https://github.com/fatih/color,7376,619,Color package for Go (golang),Color package for Go (golang)
+https://github.com/yorukot/superfile,7366,159,Pretty fancy and modern terminal file manager,Pretty fancy and modern terminal file manager
+https://github.com/mindoc-org/mindoc,7358,1915,Golang实现的基于beego框架的接口在线文档管理系统,Golang实现的基于beego框架的接口在线文档管理系统
+https://github.com/mvdan/sh,7309,345,"A shell parser, formatter, and interpreter with bash support; includes shfmt","A shell parser, formatter, and interpreter with bash support; includes shfmt"
+https://github.com/teamhanko/hanko,7300,900,Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.,Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
+https://github.com/mmcgrana/gobyexample,7296,1274,Go by Example,Go by Example
+https://github.com/naiba/nezha,7279,1273,":trollface: Self-hosted, lightweight server and website monitoring and O&M tool",":trollface: Self-hosted, lightweight server and website monitoring and O&M tool"
+https://github.com/fabiolb/fabio,7274,616,Consul Load-Balancing made simple,Consul Load-Balancing made simple
+https://github.com/open-falcon/falcon-plus,7267,1527," An open-source and enterprise-level monitoring system."," An open-source and enterprise-level monitoring system."
+https://github.com/operator-framework/operator-sdk,7256,1746,"SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.","SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding."
+https://github.com/golang-jwt/jwt,7254,348,Go implementation of JSON Web Tokens (JWT).,Go implementation of JSON Web Tokens (JWT).
+https://github.com/Terry-Mao/goim,7207,1784,goim,goim
+https://github.com/YaoApp/yao,7207,660,"Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator.","Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator."
+https://github.com/dlvhdr/gh-dash,7206,218,A beautiful CLI dashboard for GitHub 🚀 ,A beautiful CLI dashboard for GitHub 🚀 
+https://github.com/twitchtv/twirp,7188,326,A simple RPC framework with protobuf service definitions,A simple RPC framework with protobuf service definitions
+https://github.com/TomWright/dasel,7164,136,"Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.","Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package."
+https://github.com/pressly/goose,7137,522,A database migration tool. Supports SQL migrations and Go functions. ,A database migration tool. Supports SQL migrations and Go functions. 
+https://github.com/traefik/yaegi,7127,352,Yaegi is Another Elegant Go Interpreter,Yaegi is Another Elegant Go Interpreter
+https://github.com/metallb/metallb,7101,911,A network load-balancer implementation for Kubernetes using standard routing protocols,A network load-balancer implementation for Kubernetes using standard routing protocols
+https://github.com/aceld/zinx,7087,1211,A lightweight concurrent server framework based on Golang.,A lightweight concurrent server framework based on Golang.
+https://github.com/aquasecurity/kube-bench,7073,1228,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark,Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+https://github.com/davecheney/httpstat,7061,383,"It's like curl -v, with colours. ","It's like curl -v, with colours. "
+https://github.com/cloudwego/kitex,7034,818,Go RPC framework with high-performance and strong-extensibility for building micro-services.,Go RPC framework with high-performance and strong-extensibility for building micro-services.
+https://github.com/smartcontractkit/chainlink,7031,1715,"node of the decentralized oracle network, bridging on and off-chain computation","node of the decentralized oracle network, bridging on and off-chain computation"
+https://github.com/teivah/100-go-mistakes,7030,427,📖 100 Go Mistakes and How to Avoid Them,📖 100 Go Mistakes and How to Avoid Them
+https://github.com/pdfcpu/pdfcpu,7012,480,A PDF processor written in Go.,A PDF processor written in Go.
+https://github.com/Masterminds/squirrel,7003,465,Fluent SQL generation for golang,Fluent SQL generation for golang
+https://github.com/turbot/steampipe,6985,276,"Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.","Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required."
+https://github.com/miniflux/v2,6950,726,Minimalist and opinionated feed reader,Minimalist and opinionated feed reader
+https://github.com/dunglas/frankenphp,6936,242,🧟 The modern PHP app server,🧟 The modern PHP app server
+https://github.com/eddycjy/go-gin-example,6901,1599,An example of gin,An example of gin
+https://github.com/fluxcd/flux,6894,1078,Successor: https://github.com/fluxcd/flux2,Successor: https://github.com/fluxcd/flux2
+https://github.com/simeji/jid,6890,155,json incremental digger,json incremental digger
+https://github.com/go-yaml/yaml,6882,1053,YAML support for the Go language.,YAML support for the Go language.
+https://github.com/loft-sh/vcluster,6880,423,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.,vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
+https://github.com/siderolabs/talos,6871,553,Talos Linux is a modern Linux distribution built for Kubernetes.,Talos Linux is a modern Linux distribution built for Kubernetes.
+https://github.com/lxn/walk,6866,886,A Windows GUI toolkit for the Go Programming Language,A Windows GUI toolkit for the Go Programming Language
+https://github.com/vmware-archive/kubeless,6861,754,Kubernetes Native Serverless Framework,Kubernetes Native Serverless Framework
+https://github.com/HavocFramework/Havoc,6855,962,The Havoc Framework,The Havoc Framework
+https://github.com/yeasy/blockchain_guide,6831,1942,"Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.","Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger."
+https://github.com/aws/karpenter-provider-aws,6831,962,"Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.","Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity."
+https://github.com/DiceDB/dice,6791,1072,"DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware.","DiceDB is a redis-compliant, reactive, scalable, highly-available, unified cache optimized for modern hardware."
+https://github.com/kubeedge/kubeedge,6788,1729,Kubernetes Native Edge Computing Framework (project under CNCF),Kubernetes Native Edge Computing Framework (project under CNCF)
+https://github.com/smallstep/certificates,6783,443,"🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.","🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH."
+https://github.com/boyter/scc,6768,268,"Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go","Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go"
+https://github.com/chaos-mesh/chaos-mesh,6767,838,A Chaos Engineering Platform for Kubernetes.,A Chaos Engineering Platform for Kubernetes.
+https://github.com/volatiletech/sqlboiler,6763,547,Generate a Go ORM tailored to your database schema.,Generate a Go ORM tailored to your database schema.
+https://github.com/AlexxIT/go2rtc,6760,485,"Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.","Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc."
+https://github.com/google/gops,6746,333,A tool to list and diagnose Go processes currently running on your system,A tool to list and diagnose Go processes currently running on your system
+https://github.com/aquasecurity/tfsec,6718,544,Tfsec is now part of Trivy,Tfsec is now part of Trivy
+https://github.com/hybridgroup/gocv,6716,867,"Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO.","Go package for computer vision using OpenCV 4 and beyond. Includes support for DNN, CUDA, OpenCV Contrib, and OpenVINO."
+https://github.com/StackExchange/blackbox,6688,370,Safely store secrets in Git/Mercurial/Subversion,Safely store secrets in Git/Mercurial/Subversion
+https://github.com/liamg/traitor,6687,579,":arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock",":arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock"
+https://github.com/prometheus/alertmanager,6671,2161,Prometheus Alertmanager,Prometheus Alertmanager
+https://github.com/42wim/matterbridge,6662,619,"bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)","bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)"
+https://github.com/go-xorm/xorm,6664,754,"Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm","Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm"
+https://github.com/OwO-Network/DeepLX,6647,533,"Powerful Free DeepL API, No Token Required","Powerful Free DeepL API, No Token Required"
+https://github.com/docker/machine,6632,1965,Machine management for a container-centric world,Machine management for a container-centric world
+https://github.com/weaveworks/weave,6618,670,"Simple, resilient multi-host containers networking and more.","Simple, resilient multi-host containers networking and more."
+https://github.com/Hackl0us/GeoIP2-CN,6617,175,小巧精悍、准确、实用 GeoIP2 数据库,小巧精悍、准确、实用 GeoIP2 数据库
+https://github.com/go-echarts/go-echarts,6606,563,🎨 The adorable charts library for Golang.,🎨 The adorable charts library for Golang.
+https://github.com/shadowsocks/shadowsocks-go,6603,3317,go port of shadowsocks (Deprecated),go port of shadowsocks (Deprecated)
+https://github.com/telepresenceio/telepresence,6598,520,Local development against a remote Kubernetes or OpenShift cluster,Local development against a remote Kubernetes or OpenShift cluster
+https://github.com/fluxcd/flux2,6560,607,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.,Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+https://github.com/EasyDarwin/EasyDarwin,6556,2182,"open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！","open source、high performance、industrial rtsp streaming server,a lot of optimization on streaming relay,KeyFrame cache,RESTful,and web management,also EasyDarwin support distributed load balancing,a simple streaming media cloud platform architecture.高性能开源RTSP流媒体服务器，基于go语言研发，维护和优化：RTSP推模式转发、RTSP拉模式转发、录像、检索、回放、关键帧缓存、秒开画面、RESTful接口、WEB后台管理、分布式负载均衡，基于EasyDarwin构建出了一套基础的流媒体云视频平台架构！"
+https://github.com/perkeep/perkeep,6493,448,"Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.","Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content."
+https://github.com/kubevela/kubevela,6447,892,The Modern Application Platform.,The Modern Application Platform.
+https://github.com/jpbruinsslot/slack-term,6440,226,Slack client for your terminal,Slack client for your terminal
+https://github.com/rancher/os,6439,655,Tiny Linux distro that runs the entire OS as Docker containers,Tiny Linux distro that runs the entire OS as Docker containers
+https://github.com/TwiN/gatus,6428,427,⛑ Automated developer-oriented status page,⛑ Automated developer-oriented status page
+https://github.com/amir20/dozzle,6423,318,Realtime log viewer for docker containers. ,Realtime log viewer for docker containers. 
+https://github.com/flike/kingshard,6414,1230,A high-performance MySQL proxy,A high-performance MySQL proxy
+https://github.com/kubernetes-sigs/krew,6409,370,📦 Find and install kubectl plugins,📦 Find and install kubectl plugins
+https://github.com/shopspring/decimal,6404,623,Arbitrary-precision fixed-point decimal numbers in Go,Arbitrary-precision fixed-point decimal numbers in Go
+https://github.com/datreeio/datree,6387,361,"Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io","Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our docs: https://hub.datree.io"
+https://github.com/luraproject/lura,6367,564,Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation,Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation
+https://github.com/google/gopacket,6350,1134,Provides packet processing capabilities for Go,Provides packet processing capabilities for Go
+https://github.com/evrone/go-clean-template,6336,535,Clean Architecture template for Golang services,Clean Architecture template for Golang services
+https://github.com/cilium/ebpf,6335,697,"ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.","ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel."
+https://github.com/oapi-codegen/oapi-codegen,6318,870,Generate Go client and server boilerplate from OpenAPI 3 specifications,Generate Go client and server boilerplate from OpenAPI 3 specifications
+https://github.com/muesli/beehive,6314,324,A flexible event/agent & automation system with lots of bees 🐝,A flexible event/agent & automation system with lots of bees 🐝
+https://github.com/expr-lang/expr,6308,405,Expression language and expression evaluation for Go,Expression language and expression evaluation for Go
+https://github.com/grpc-ecosystem/go-grpc-middleware,6308,692,"Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.","Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more."
+https://github.com/alexellis/k3sup,6306,377,bootstrap K3s over SSH in < 60s 🚀,bootstrap K3s over SSH in < 60s 🚀
+https://github.com/upspin/upspin,6290,303,Upspin: A framework for naming everyone's everything.,Upspin: A framework for naming everyone's everything.
 https://github.com/yuin/gopher-lua,6289,653,GopherLua: VM and compiler for Lua in Go,GopherLua: VM and compiler for Lua in Go
 https://github.com/filhodanuvem/gitql,6288,165,💊 A git query language,💊 A git query language
 https://github.com/ViRb3/wgcf,6277,697,"🚤 Cross-platform, unofficial CLI for Cloudflare Warp","🚤 Cross-platform, unofficial CLI for Cloudflare Warp"
@@ -754,7 +754,7 @@ https://github.com/cockroachdb/pebble,4926,457,RocksDB/LevelDB inspired key-valu
 https://github.com/blushft/go-diagrams,4915,210,Create beautiful system diagrams with Go,Create beautiful system diagrams with Go
 https://github.com/fluxcd/flagger,4908,734,"Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)","Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)"
 https://github.com/facebookarchive/grace,4906,424,Graceful restart & zero downtime deploy for Go servers.,Graceful restart & zero downtime deploy for Go servers.
-https://github.com/asticode/go-astilectron,4905,344,使用GO和HTML/JS/CSS构建跨平台GUI应用程序（由Electron提供支持）,Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
+https://github.com/asticode/go-astilectron,4905,344,Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron),Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
 https://github.com/src-d/go-git,4899,540,Project has been moved to: https://github.com/go-git/go-git,Project has been moved to: https://github.com/go-git/go-git
 https://github.com/eatmoreapple/openwechat,4897,940,golang微信SDK,golang微信SDK
 https://github.com/satori/go.uuid,4877,600,UUID package for Go,UUID package for Go
