@@ -1,43 +1,43 @@
 URL,Stars,Forks,Description,Description
-https://github.com/avelino/awesome-go,133102,11934,精心策划的优秀Go框架、库和软件列表,"A curated list of awesome Go frameworks, libraries and software"
+https://github.com/avelino/awesome-go,133103,11934,精心策划的优秀Go框架、库和软件列表,"A curated list of awesome Go frameworks, libraries and software"
 https://github.com/golang/go,124201,17697,Go编程语言,The Go programming language
 https://github.com/kubernetes/kubernetes,111242,39698,生产级集装箱调度与管理,Production-Grade Container Scheduling and Management
-https://github.com/ollama/ollama,98809,7863,开始使用Llama 3.2、Mistral、Gemma 2和其他大型语言模型。,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models."
-https://github.com/fatedier/frp,86713,13388,一个快速反向代理，帮助您将NAT或防火墙后面的本地服务器暴露给互联网。,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+https://github.com/ollama/ollama,98811,7863,开始使用Llama 3.2、Mistral、Gemma 2和其他大型语言模型。,"Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models."
+https://github.com/fatedier/frp,86714,13388,一个快速反向代理，帮助您将NAT或防火墙后面的本地服务器暴露给互联网。,A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 https://github.com/gin-gonic/gin,79086,8028,Gin是一个用Go（Golang）编写的HTTP web框架。它采用了类似Martini的API，性能更好，速度快40倍。如果你需要出色的表现，给自己买些杜松子酒。,"Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin."
 https://github.com/gohugoio/hugo,76017,7540,世界上最快的网站构建框架。,The world’s fastest framework for building websites.
-https://github.com/moby/moby,68783,18666,Moby项目-一个容器生态系统的协作项目，用于组装基于容器的系统,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+https://github.com/moby/moby,68784,18666,Moby项目-一个容器生态系统的协作项目，用于组装基于容器的系统,The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 https://github.com/junegunn/fzf,65713,2405,：cherry_blossom：一个命令行模糊查找器,:cherry_blossom: A command-line fuzzy finder
 https://github.com/syncthing/syncthing,65692,4315,开源连续文件同步,Open Source Continuous File Synchronization
 https://github.com/caddyserver/caddy,58505,4044,具有自动HTTPS的快速可扩展多平台HTTP/1-2-3 web服务器,Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 https://github.com/prometheus/prometheus,55850,9168,普罗米修斯监测系统和时间序列数据库。,The Prometheus monitoring system and time series database.
 https://github.com/nektos/act,55554,1387,在本地运行GitHub操作🚀,Run your GitHub Actions locally 🚀
-https://github.com/jesseduffield/lazygit,53364,1858,git命令的简单终端UI,simple terminal UI for git commands
+https://github.com/jesseduffield/lazygit,53365,1858,git命令的简单终端UI,simple terminal UI for git commands
 https://github.com/traefik/traefik,51476,5113,云原生应用代理,The Cloud Native Application Proxy
 https://github.com/FiloSottile/mkcert,50411,2645,一个简单的零配置工具，可以使用您想要的任何名称制作本地受信任的开发证书。,A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 https://github.com/minio/minio,48380,5534,MinIO是一个高性能、兼容S3的对象存储，在GNU AGPLv3许可证下开源。,"MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license."
 https://github.com/etcd-io/etcd,47886,9781,分布式系统中最关键数据的分布式可靠键值存储,Distributed reliable key-value store for the most critical data of a distributed system
 https://github.com/ethereum/go-ethereum,47661,20180,去实现以太坊协议,Go implementation of the Ethereum protocol
 https://github.com/rclone/rclone,47327,4233,“云存储的rsync”-谷歌云端硬盘、S3、Dropbox、Backblaze B2、One Drive、Swift、Hubic、Wasabi、谷歌云存储、Azure Blob、Azure文件、Yandex文件,"""rsync for cloud storage"" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
-https://github.com/wagoodman/dive,46461,1771,一个用于探索docker镜像中每一层的工具,A tool for exploring each layer in a docker image
+https://github.com/wagoodman/dive,46466,1771,一个用于探索docker镜像中每一层的工具,A tool for exploring each layer in a docker image
 https://github.com/v2ray/v2ray-core,45471,8957,一个用于构建代理以绕过网络限制的平台。,A platform for building proxies to bypass network restrictions.
 https://github.com/go-gitea/gitea,45231,5503,喝杯茶！无痛的自托管一体化软件开发服务，包括Git托管、代码审查、团队协作、包注册和CI/CD,"Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD"
 https://github.com/gogs/gogs,45117,4864,Gogs是一个无痛的自托管Git服务,Gogs is a painless self-hosted Git service
 https://github.com/AlistGo/alist,44021,5712,🗂️一个支持多个存储的文件列表/WebDAV程序，由Gin和Solidjs提供支持。/一个支持大量存储的文件系列表/WebDAV程序，使用Gin和Solidjs,"🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。"
 https://github.com/astaxie/build-web-application-with-golang,43328,10641,golang电子书介绍如何使用golang构建网络,A golang ebook intro how to build a web with golang
 https://github.com/hashicorp/terraform,42808,9565,Terraform使您能够安全、可预测地创建、更改和改进基础设施。它是一个源代码可用的工具，可以将API编码为声明性配置文件，这些文件可以在团队成员之间共享，被视为代码，进行编辑、审查和版本控制。,"Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned."
-https://github.com/pocketbase/pocketbase,40874,1917,1个文件中的开源实时后端,Open Source realtime backend in 1 file
+https://github.com/pocketbase/pocketbase,40874,1918,1个文件中的开源实时后端,Open Source realtime backend in 1 file
 https://github.com/spf13/cobra,38346,2852,现代Go CLI交互的指挥官,A Commander for modern Go CLI interactions
-https://github.com/evanw/esbuild,38203,1154,一个速度极快的网络打包器,An extremely fast bundler for the web
-https://github.com/coreybutler/nvm-windows,38092,3367,适用于Windows的node.js版本管理实用程序。讽刺的是用Go写的。,A node.js version management utility for Windows. Ironically written in Go.
+https://github.com/evanw/esbuild,38204,1154,一个速度极快的网络打包器,An extremely fast bundler for the web
+https://github.com/coreybutler/nvm-windows,38093,3367,适用于Windows的node.js版本管理实用程序。讽刺的是用Go写的。,A node.js version management utility for Windows. Ironically written in Go.
 https://github.com/jesseduffield/lazydocker,37527,1201,docker管理一切的懒惰方式,The lazier way to manage everything docker
 https://github.com/cli/cli,37378,5835,GitHub的官方命令行工具,GitHub’s official command line tool
 https://github.com/pingcap/tidb,37326,5852,TiDB-为现代应用程序设计的开源、云原生、分布式SQL数据库。,"TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications."
 https://github.com/go-gorm/gorm,37015,3935,Golang的出色ORM库旨在对开发人员友好,"The fantastic ORM library for Golang, aims to be developer friendly"
-https://github.com/istio/istio,36128,7784,连接、保护、控制和观察服务。,"Connect, secure, control, and observe services."
+https://github.com/istio/istio,36129,7784,连接、保护、控制和观察服务。,"Connect, secure, control, and observe services."
 https://github.com/photoprism/photoprism,35469,1966,去中心化网络的AI照片应用程序🌈💎✨,AI-Powered Photos App for the Decentralized Web 🌈💎✨
 https://github.com/unknwon/the-way-to-go_ZH_CN,34628,8612,《The Way to Go》中文译本，中文正名《Go in Nannan》,《The Way to Go》中文译本，中文正式名《Go 入门指南》
-https://github.com/usememos/memos,34408,2486,一个开源、轻量级的笔记解决方案。创建有意义笔记的无痛方式。你的笔记，你的方式。,"An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way."
+https://github.com/usememos/memos,34409,2486,一个开源、轻量级的笔记解决方案。创建有意义笔记的无痛方式。你的笔记，你的方式。,"An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way."
 https://github.com/docker/compose,34069,5241,使用Docker定义和运行多容器应用程序,Define and run multi-container applications with Docker
 https://github.com/gofiber/fiber,34024,1674,⚡️ 用Go编写的基于Express的web框架,⚡️ Express inspired web framework written in Go
 https://github.com/halfrost/LeetCode-Go,33036,5719,✅ LeetCode by Go解决方案，100%测试覆盖率，运行时优于100%/LeetCode解决方案,"✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解"
@@ -45,10 +45,10 @@ https://github.com/harness/harness,32249,2819,Harness Open Source是一个端到
 https://github.com/beego/beego,31626,5625,beego是Go编程语言的开源、高性能web框架。,"beego is an open-source, high-performance web framework for the Go programming language."
 https://github.com/hashicorp/vault,31255,4227,一种用于秘密管理、加密即服务和特权访问管理的工具,"A tool for secrets management, encryption as a service, and privileged access management"
 https://github.com/milvus-io/milvus,30856,2940,云原生矢量数据库，用于下一代人工智能应用程序的存储,"A cloud-native vector database, storage for next generation AI applications"
-https://github.com/ehang-io/nps,30823,5597,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、httpAnother has have economic investigation，can be used to interview in the内网，this ground support his access test，ssh访问，""recently platform，内网dns解析.Analyst、内网socks5代理等……，带着强大的网络管理站一个轻量级、高性能、强大的内联网渗透代理服务器，带有强大的web管理终端。","一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
+https://github.com/ehang-io/nps,30824,5597,"一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、httpAnother has have economic investigation，can be used to interview in the内网，this ground support his access test，ssh访问，""recently platform，内网dns解析.Analyst、内网socks5代理等……，带着强大的网络管理站一个轻量级、高性能、强大的内联网渗透代理服务器，带有强大的web管理终端。","一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal."
 https://github.com/cockroachdb/cockroach,30156,3815,CockroachDB——云原生分布式SQL数据库，专为高可用性、轻松扩展和数据放置控制而设计。,"CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement."
 https://github.com/labstack/echo,29931,2228,高性能、极简主义的Go web框架,"High performance, minimalist Go web framework"
-https://github.com/v2fly/v2ray-core,29632,4664,一个用于构建代理以绕过网络限制的平台。,A platform for building proxies to bypass network restrictions.
+https://github.com/v2fly/v2ray-core,29633,4664,一个用于构建代理以绕过网络限制的平台。,A platform for building proxies to bypass network restrictions.
 https://github.com/kubernetes/minikube,29528,4893,在本地运行Kubernetes,Run Kubernetes locally
 https://github.com/zeromicro/go-zero,29339,3963,一个具有cli工具的云原生Go微服务框架，用于提高生产力。,A cloud-native Go microservices framework with cli tool for productivity.
 https://github.com/hashicorp/consul,28423,4429,Consul是一个分布式、高可用性和数据中心感知的解决方案，用于跨动态、分布式基础设施连接和配置应用程序。,"Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure."
@@ -63,29 +63,29 @@ https://github.com/filebrowser/filebrowser,26861,3064,📂 Web文件浏览器,�
 https://github.com/restic/restic,26665,1559,快速、安全、高效的备份程序,"Fast, secure, efficient backup program"
 https://github.com/go-kit/kit,26633,2434,微服务的标准库。,A standard library for microservices.
 https://github.com/IceWhaleTech/CasaOS,26256,1430,CasaOS-一个简单、易用、优雅的开源个人云系统。,"CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system."
-https://github.com/mudler/LocalAI,26107,1956,机器人：OpenAI、Claude和其他公司的免费开源替代品。自助和本地优先。OpenAI的直接替代品，在消费级硬件上运行。无需GPU。运行gguf、变压器、扩散器和更多模型架构。功能：生成文本、音频、视频、图像、语音克隆、分布式、P2P推理,":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference"
+https://github.com/mudler/LocalAI,26109,1956,机器人：OpenAI、Claude和其他公司的免费开源替代品。自助和本地优先。OpenAI的直接替代品，在消费级硬件上运行。无需GPU。运行gguf、变压器、扩散器和更多模型架构。功能：生成文本、音频、视频、图像、语音克隆、分布式、P2P推理,":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference"
 https://github.com/grafana/k6,26092,1270,一个使用Go和JavaScript的现代负载测试工具-https://k6.io,"A modern load testing tool, using Go and JavaScript - https://k6.io"
 https://github.com/XTLS/Xray-core,25687,3962,X射线，穿透一切。也是最好的v2ray内核，支持XTLS。完全兼容的配置。,"Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration."
 https://github.com/AdguardTeam/AdGuardHome,25626,1840,网络范围内的广告和跟踪器阻止DNS服务器,Network-wide ads & trackers blocking DNS server
 https://github.com/tmrts/go-patterns,25519,2229,精心策划的Go设计模式、食谱和习语列表,"Curated list of Go design patterns, recipes and idioms"
-https://github.com/danielmiessler/fabric,25497,2705,fabric是一个使用人工智能增强人类的开源框架。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+https://github.com/danielmiessler/fabric,25498,2705,fabric是一个使用人工智能增强人类的开源框架。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。,fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 https://github.com/wailsapp/wails,25429,1228,使用Go创建漂亮的应用程序,Create beautiful applications using Go
 https://github.com/kataras/iris,25274,2470,最快的HTTP/2 Go Web框架。新颖、现代、易于学习。使用您控制的代码快速开发。无与伦比的性价比：火箭：,"The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:"
 https://github.com/zyedidia/micro,25240,1180,基于终端的现代直观文本编辑器,A modern and intuitive terminal-based text editor
 https://github.com/openfaas/faas,25198,1937,OpenFaaS-简化无服务器功能,OpenFaaS - Serverless Functions Made Simple
-https://github.com/fyne-io/fyne,25191,1399,受Material Design启发的Go跨平台GUI工具包,Cross platform GUI toolkit in Go inspired by Material Design
+https://github.com/fyne-io/fyne,25193,1399,受Material Design启发的Go跨平台GUI工具包,Cross platform GUI toolkit in Go inspired by Material Design
 https://github.com/nsqio/nsq,24990,2902,实时分布式消息传递平台,A realtime distributed messaging platform
 https://github.com/yeasy/docker_practice,24902,5739,通过实际的DevOps实践学习和理解Docker和容器技术！,"Learn and understand Docker&Container technologies, with real DevOps practice!"
 https://github.com/sirupsen/logrus,24763,2269,Go的结构化、可插拔日志记录。,"Structured, pluggable logging for Go."
 https://github.com/Wox-launcher/Wox,24576,2367,一个简单的跨平台启动器,A cross-platform launcher that simply works
-https://github.com/goharbor/harbor,24211,4769,一个开源可信的云原生注册表项目，用于存储、签名和扫描内容。,"An open source trusted cloud native registry project that stores, signs, and scans content."
+https://github.com/goharbor/harbor,24213,4769,一个开源可信的云原生注册表项目，用于存储、签名和扫描内容。,"An open source trusted cloud native registry project that stores, signs, and scans content."
 https://github.com/inconshreveable/ngrok,24189,4265,面向开发人员的统一入口,Unified ingress for developers
 https://github.com/dapr/dapr,24152,1908,Dapr是一个可移植的、事件驱动的运行时，用于跨云和边缘构建分布式应用程序。,"Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge."
 https://github.com/grafana/loki,23969,3460,像普罗米修斯一样，但有原木。,"Like Prometheus, but for logs."
 https://github.com/containers/podman,23883,2423,Podman：一个用于管理OCI容器和Pod的工具。,Podman: A tool for managing OCI containers and pods.
 https://github.com/aquasecurity/trivy,23774,2339,查找容器、Kubernetes、代码存储库、云中的漏洞、配置错误、秘密、SBOM等,"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more"
 https://github.com/tsenart/vegeta,23626,1371,HTTP负载测试工具和库。超过9000！,HTTP load testing tool and library. It's over 9000!
-https://github.com/juanfont/headscale,23558,1293,Tailscale控制服务器的开源、自托管实现,"An open source, self-hosted implementation of the Tailscale control server"
+https://github.com/juanfont/headscale,23559,1293,Tailscale控制服务器的开源、自托管实现,"An open source, self-hosted implementation of the Tailscale control server"
 https://github.com/stretchr/testify,23520,1603,一个具有通用断言和模拟的工具包，与标准库配合良好,A toolkit with common assertions and mocks that plays nicely with the standard library
 https://github.com/rancher/rancher,23484,2977,完整的集装箱管理平台,Complete container management platform
 https://github.com/go-kratos/kratos,23393,4008,您为云原生时代打造的终极Go微服务框架。,Your ultimate Go microservices framework for the cloud-native era.
@@ -124,7 +124,7 @@ https://github.com/inancgumus/learngo,18912,2587,❤️ 1000多个手工制作�
 https://github.com/yudai/gotty,18801,1382,将您的终端作为web应用程序共享,Share your terminal as a web application
 https://github.com/vitessio/vitess,18700,2101,Vitess是一个用于MySQL横向扩展的数据库集群系统。,Vitess is a database clustering system for horizontal scaling of MySQL.
 https://github.com/buger/goreplay,18662,29,GoReplay是一个开源工具，用于捕获实时HTTP流量并将其回放到测试环境中，以便用真实数据持续测试您的系统。它可用于增强对代码部署、配置更改和基础设施更改的信心。,"GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes."
-https://github.com/go-chi/chi,18611,988,用于构建Go-HTTP服务的轻量级、惯用且可组合的路由器,"lightweight, idiomatic and composable router for building Go HTTP services"
+https://github.com/go-chi/chi,18612,988,用于构建Go-HTTP服务的轻量级、惯用且可组合的路由器,"lightweight, idiomatic and composable router for building Go HTTP services"
 https://github.com/binwiederhier/ntfy,18537,729,使用PUT/POST向您的手机或桌面发送推送通知,Send push notifications to your phone or desktop using PUT/POST
 https://github.com/qax-os/excelize,18391,1719,用于读写Microsoft Excel™（XLAM/XLSM/XLSX/XLTM/XLTX）电子表格的Go语言库,Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
 https://github.com/charmbracelet/gum,18282,345,一个用于编写迷人shell脚本的工具🎀,A tool for glamorous shell scripts 🎀
@@ -171,7 +171,7 @@ https://github.com/ent/ent,15670,933,Go的实体框架,An entity framework for G
 https://github.com/ory/hydra,15639,1497,市场上最具可扩展性和可定制性的OpenID Certified™OpenID Connect和OAuth提供商。一夜之间成为OpenID Connect和OAuth2提供商。对相关RFC的广泛支持。用Go编写，云原生，无头，API-first。可在Ory Network上作为服务提供，也可供自托管商使用。,"The most scalable and customizable OpenID Certified™ OpenID Connect and OAuth Provider on the market. Become an OpenID Connect and OAuth2 Provider over night. Broad support for related RFCs. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters."
 https://github.com/bcicen/ctop,15593,528,容器度量的顶级界面,Top-like interface for container metrics
 https://github.com/golang-migrate/migrate,15541,1411,数据库迁移。CLI和Golang库。,Database migrations. CLI and Golang library.
-https://github.com/geektutu/7days-golang,15511,2446,7天golang程序从头开始（web框架Gee、分布式缓存GeeCache、对象关系映射ORM框架GeeORM、rpc框架GeeRePC等）,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列"
+https://github.com/geektutu/7days-golang,15512,2446,7天golang程序从头开始（web框架Gee、分布式缓存GeeCache、对象关系映射ORM框架GeeORM、rpc框架GeeRePC等）,"7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列"
 https://github.com/tinygo-org/tinygo,15491,913,Go编译器适用于小地方。微控制器、WebAssembly（WASM/WASI）和命令行工具。基于LLVM。,"Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM."
 https://github.com/helm/charts,15490,16786,⚠️（已淘汰）Kubernetes的精心策划的应用程序,⚠️(OBSOLETE) Curated applications for Kubernetes
 https://github.com/lima-vm/lima,15441,606,Linux虚拟机，重点是运行容器,"Linux virtual machines, with a focus on running containers"
@@ -200,7 +200,7 @@ https://github.com/boltdb/bolt,14237,1509,Go的嵌入式键/值数据库。,An e
 https://github.com/mailhog/MailHog,14110,1074,基于Web和API的SMTP测试,Web and API based SMTP testing
 https://github.com/openimsdk/open-im-server,14101,2486,即时聊天聊天GPT,IM Chat ChatGPT
 https://github.com/PuerkitoBio/goquery,14080,920,有点像围棋中的j字。,"A little like that j-thing, only in Go."
-https://github.com/dgraph-io/badger,13998,1185,Go中的快捷键值数据库。,Fast key-value DB in Go.
+https://github.com/dgraph-io/badger,13999,1185,Go中的快捷键值数据库。,Fast key-value DB in Go.
 https://github.com/xtaci/kcptun,13935,2544,基于QPP、KCP、FEC和N:M复用的量子安全隧道。,"A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing."
 https://github.com/tomnomnom/gron,13869,328,让JSON可恢复！,Make JSON greppable!
 https://github.com/pion/webrtc,13862,1658,WebRTC API的纯Go实现,Pure Go implementation of the WebRTC API
@@ -210,7 +210,7 @@ https://github.com/OpenNHP/opennhp,13515,2485,NHP：OSI第五层的一种轻量�
 https://github.com/sqlc-dev/sqlc,13514,810,从SQL生成类型安全代码,Generate type-safe code from SQL
 https://github.com/kubernetes-sigs/kind,13513,1565,Kubernetes IN Docker-用于测试Kubernetes的本地集群,Kubernetes IN Docker - local clusters for testing Kubernetes
 https://github.com/json-iterator/go,13452,1028,高性能100%兼容的插入式替换“encoding/json”,"A high-performance 100% compatible drop-in replacement of ""encoding/json"""
-https://github.com/twpayne/chezmoi,13441,493,在多台不同的机器上安全地管理您的点文件。,"Manage your dotfiles across multiple diverse machines, securely."
+https://github.com/twpayne/chezmoi,13442,493,在多台不同的机器上安全地管理您的点文件。,"Manage your dotfiles across multiple diverse machines, securely."
 https://github.com/gizak/termui,13214,786,Golang终端仪表盘,Golang terminal dashboard
 https://github.com/sundowndev/phoneinfoga,13187,3701,电话号码信息收集框架,Information gathering framework for phone numbers
 https://github.com/CodisLabs/codis,13164,2689,基于代理的Redis集群解决方案，支持流水线和动态扩展,Proxy based Redis cluster solution supporting pipeline and scaling dynamically
@@ -218,8 +218,8 @@ https://github.com/revel/revel,13154,1389,Go语言的高生产力、全栈web框
 https://github.com/thanos-io/thanos,13129,2098,具有长期存储功能的高可用Prometheus设置。CNCF孵化项目。,Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 https://github.com/robfig/cron,13127,1628,go的cron库,a cron library for go
 https://github.com/google/wire,13096,624,Go编译时依赖注入,Compile-time Dependency Injection for Go
-https://github.com/chaitin/SafeLine,13070,810,充当反向代理，保护您的web服务免受攻击和利用。,serve as a reverse proxy to protect your web services from attacks and exploits.
-https://github.com/git-lfs/git-lfs,13015,2043,用于对大型文件进行版本控制的Git扩展,Git extension for versioning large files
+https://github.com/chaitin/SafeLine,13072,810,充当反向代理，保护您的web服务免受攻击和利用。,serve as a reverse proxy to protect your web services from attacks and exploits.
+https://github.com/git-lfs/git-lfs,13016,2043,用于对大型文件进行版本控制的Git扩展,Git extension for versioning large files
 https://github.com/panjf2000/ants,12977,1367,🐜🐜🐜 蚂蚁是Go最强大、最可靠的池化解决方案。,🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
 https://github.com/golang/groupcache,12962,1391,groupcache是一个缓存和缓存填充库，在许多情况下旨在替代memcached。,"groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases."
 https://github.com/halfrost/Halfrost-Field,12959,1878,✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地,✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
@@ -227,9 +227,9 @@ https://github.com/apache/incubator-answer,12956,1003,适用于任何规模团�
 https://github.com/muesli/duf,12918,403,磁盘使用/免费实用程序-更好的“df”替代方案,Disk Usage/Free Utility - a better 'df' alternative
 https://github.com/golang/dep,12840,1047,Go依赖管理工具实验（已弃用）,Go dependency management tool experiment (deprecated)
 https://github.com/gopherjs/gopherjs,12765,568,从Go到JavaScript的编译器，用于在浏览器中运行Go代码,A compiler from Go to JavaScript for running Go code in a browser
-https://github.com/ffuf/ffuf,12734,1299,用Go编写的快速网络模糊器,Fast web fuzzer written in Go
+https://github.com/ffuf/ffuf,12735,1300,用Go编写的快速网络模糊器,Fast web fuzzer written in Go
 https://github.com/fogleman/primitive,12691,617,使用几何图元再现图像。,Reproducing images with geometric primitives.
-https://github.com/sqshq/sampler,12666,553,用于shell命令执行、可视化和警报的工具。配置了一个简单的YAML文件。,"Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file."
+https://github.com/sqshq/sampler,12666,554,用于shell命令执行、可视化和警报的工具。配置了一个简单的YAML文件。,"Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file."
 https://github.com/GoogleCloudPlatform/terraformer,12665,1653,CLI工具，用于从现有基础设施生成地形文件（反向地形）。基础设施到代码,CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 https://github.com/direnv/direnv,12608,640,整理你的个人资料,unclutter your .profile
 https://github.com/VictoriaMetrics/VictoriaMetrics,12470,1234,VictoriaMetrics：快速、经济高效的监控解决方案和时间序列数据库,"VictoriaMetrics: fast, cost-effective monitoring solution and time series database"
@@ -239,13 +239,13 @@ https://github.com/github/gh-ost,12426,1262,GitHub的MySQL在线模式迁移工�
 https://github.com/rook/rook,12410,2691,Kubernetes的存储编排,Storage Orchestration for Kubernetes
 https://github.com/bluenviron/mediamtx,12390,1539,即用型SRT/WebRTC/RTSP/RTMP/LL-HLS媒体服务器和媒体代理，允许读取、发布、代理、录制和播放视频和音频流。,"Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams."
 https://github.com/mikefarah/yq,12326,602,yq是一个可移植的命令行YAML、JSON、XML、CSV、TOML和属性处理器,"yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor"
-https://github.com/projectdiscovery/katana,12195,629,下一代爬行和蜘蛛框架。,A next-generation crawling and spidering framework.
+https://github.com/projectdiscovery/katana,12196,630,下一代爬行和蜘蛛框架。,A next-generation crawling and spidering framework.
 https://github.com/jeessy2/ddns-go,12181,1403,简单易用的DDNS。支持阿里云、腾讯云、DNS、Cloudflare、回拨、华为云、百度云、Porkbun、GoDaddy、Namecheap、NameSilo。。。,"Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo..."
 https://github.com/cert-manager/cert-manager,12180,2095,在Kubernetes中自动配置和管理TLS证书,Automatically provision and manage TLS certificates in Kubernetes
 https://github.com/micro/micro,12159,1050,API首个开发平台,An API first development platform 
-https://github.com/navidrome/navidrome,12146,907,🎧☁️ 您的个人流媒体服务,🎧☁️ Your Personal Streaming Service
+https://github.com/navidrome/navidrome,12147,907,🎧☁️ 您的个人流媒体服务,🎧☁️ Your Personal Streaming Service
 https://github.com/owasp-amass/amass,12105,1889,深入攻击面测绘和资产发现,In-depth attack surface mapping and asset discovery
-https://github.com/tinode/chat,12097,1885,即时通讯平台。Go的后端。客户端：Swift iOS、Java Android、JS webapp、可脚本化命令行；聊天机器人,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots"
+https://github.com/tinode/chat,12098,1885,即时通讯平台。Go的后端。客户端：Swift iOS、Java Android、JS webapp、可脚本化命令行；聊天机器人,"Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots"
 https://github.com/peterq/pan-light,12087,2457,"百度网盘不限速客户端, golang + qt5, 跨平台图形界面","百度网盘不限速客户端, golang + qt5, 跨平台图形界面"
 https://github.com/temporalio/temporal,12076,850,临时服务,Temporal service
 https://github.com/talkgo/night,12020,1165,Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。,Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。
@@ -255,7 +255,7 @@ https://github.com/gogf/gf,11757,1595,GoFrame是Golang的一个模块化、功�
 https://github.com/gophish/gophish,11737,2259,开源钓鱼工具包,Open-Source Phishing Toolkit
 https://github.com/go-martini/martini,11625,1103,Go的经典web框架,Classy web framework for Go
 https://github.com/IBM/sarama,11573,1757,Sarama是Apache Kafka的Go库。,Sarama is a Go library for Apache Kafka.
-https://github.com/weaviate/weaviate,11557,800,Weaviate是一个开源的矢量数据库，它存储对象和矢量，允许矢量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性。,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
+https://github.com/weaviate/weaviate,11558,800,Weaviate是一个开源的矢量数据库，它存储对象和矢量，允许矢量搜索与结构化过滤相结合，并具有云原生数据库的容错性和可扩展性。,"Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​."
 https://github.com/v2rayA/v2rayA,11555,1226,Project V的web GUI客户端，支持VMess、VLESS、SS、SSR、特洛伊木马、Tuic和Juicity协议。🚀,"A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀"
 https://github.com/go-admin-team/go-admin,11520,2398,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro,基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd PRO：https://antd.go-admin.pro
 https://github.com/go-task/task,11504,618,任务运行器/更简单用Go编写替代方案,A task runner / simpler Make alternative written in Go
@@ -265,7 +265,7 @@ https://github.com/bytebase/bytebase,11483,739,用于数据库DevSecOps的GitHub
 https://github.com/DNSCrypt/dnscrypt-proxy,11466,1013,dnscrypt-proxy 2-一个灵活的DNS代理，支持加密的DNS协议。,"dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols."
 https://github.com/earthly/earthly,11450,402,超级简单的构建框架，具有快速、可重复的构建和即时熟悉的语法——就像Dockerfile和Makefile有了婴儿一样。,"Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby."
 https://github.com/crawlab-team/crawlab,11361,1789,Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架,Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
-https://github.com/daytonaio/daytona,11334,846,开源开发环境管理器。,The Open Source Dev Environment Manager.
+https://github.com/daytonaio/daytona,11336,846,开源开发环境管理器。,The Open Source Dev Environment Manager.
 https://github.com/ory/kratos,11308,964,市场上最具可扩展性和可定制性的身份服务器。用更好的UX和DX取代你的自制、Auth0、Okta、Firebase。拥有所有表：密钥、社交登录、多因素身份验证、短信、SAML、TOTP等。用Go编写，云原生，无头，API-first。可在Ory Network上作为服务提供，也可供自托管商使用。,"The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters."
 https://github.com/prometheus/node_exporter,11276,2373,机器指标导出器,Exporter for machine metrics
 https://github.com/netbirdio/netbird,11238,517,将您的设备连接到基于WireGuard®的安全覆盖网络，该网络具有SSO、MFA和精细的访问控制。,"Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls."
@@ -280,7 +280,7 @@ https://github.com/kubeshark/kubeshark,11047,472,用于Kubernetes的API流量分
 https://github.com/infracost/infracost,11044,557,拉取请求中Terraform的云成本估算💰📉 向左移动FinOps！,Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 https://github.com/future-architect/vuls,10998,1164,Linux、FreeBSD、容器、WordPress、编程语言库、网络设备的无代理漏洞扫描程序,"Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices"
 https://github.com/kgretzky/evilginx2,10954,1968,独立的中间人攻击框架，用于网络钓鱼登录凭据和会话Cookie，允许绕过2因素身份验证,"Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication"
-https://github.com/juicedata/juicefs,10940,966,JuiceFS是一个基于Redis和S3构建的分布式POSIX文件系统。,JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+https://github.com/juicedata/juicefs,10941,966,JuiceFS是一个基于Redis和S3构建的分布式POSIX文件系统。,JuiceFS is a distributed POSIX file system built on top of Redis and S3.
 https://github.com/fullstorydev/grpcurl,10926,507,与cURL类似，但适用于gRPC：用于与gRPC服务器交互的命令行工具,"Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers"
 https://github.com/Shopify/toxiproxy,10840,451,：alarm_hock:：fire：一个TCP代理，用于模拟网络和系统条件，以进行混沌和弹性测试,:alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 https://github.com/jackc/pgx,10825,845,PostgreSQL Go驱动程序和工具包,PostgreSQL driver and toolkit for Go
@@ -322,7 +322,7 @@ https://github.com/jroimartin/gocui,9935,608,旨在创建控制台用户界面�
 https://github.com/GoesToEleven/GolangTraining,9929,3594,Golang培训（围棋语言）,Training for Golang (go language)
 https://github.com/oauth2-proxy/oauth2-proxy,9877,1598,一个反向代理，提供与谷歌、Azure、OpenID Connect和更多身份提供者的身份验证。,"A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers."
 https://github.com/hashicorp/terraform-provider-aws,9847,9198,AWS提供商使Terraform能够管理AWS资源。,The AWS Provider enables Terraform to manage AWS resources.
-https://github.com/ccfos/nightingale,9823,1417,旨在结合Prometheus和Grafana优点的一体化可观测性解决方案。它管理警报规则，并在漂亮的web UI中可视化指标、日志和跟踪。,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI."
+https://github.com/ccfos/nightingale,9824,1417,旨在结合Prometheus和Grafana优点的一体化可观测性解决方案。它管理警报规则，并在漂亮的web UI中可视化指标、日志和跟踪。,"An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI."
 https://github.com/golang/protobuf,9793,1581,Go支持谷歌的协议缓冲区,Go support for Google's protocol buffers
 https://github.com/wader/fq,9783,227,jq for二进制格式-用于处理二进制和文本格式的工具、语言和解码器,"jq for binary formats - tool, language and decoders for working with binary and text formats"
 https://github.com/gomodule/redigo,9754,1249,Redis的Go客户端,Go client for Redis
@@ -354,7 +354,7 @@ https://github.com/sashabaranov/go-openai,9270,1422,OpenAI聊天GPT、GPT-3、GP
 https://github.com/bxcodec/go-clean-arch,9225,1218,基于阅读Bob叔叔的《Clean Architecture》的Go（Golang）Clean Architecture,Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
 https://github.com/FerretDB/FerretDB,9198,402,真正的开源MongoDB替代品,A truly Open Source MongoDB alternative
 https://github.com/tidwall/tile38,9166,569,实时地理空间和地理围栏,Real-time Geospatial and Geofencing
-https://github.com/bufbuild/buf,9163,278,使用协议缓冲区的最佳方式。,The best way of working with Protocol Buffers.
+https://github.com/bufbuild/buf,9164,278,使用协议缓冲区的最佳方式。,The best way of working with Protocol Buffers.
 https://github.com/prometheus-operator/prometheus-operator,9154,3724,Prometheus Operator在Kubernetes上创建/配置/管理Prometheus集群,Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 https://github.com/lib/pq,9143,913,用于数据库/sql的纯Go Postgres驱动程序,Pure Go Postgres driver for database/sql
 https://github.com/gcla/termshark,9130,400,受Wireshark启发的tshark终端用户界面,"A terminal UI for tshark, inspired by Wireshark"
@@ -411,7 +411,7 @@ https://github.com/linuxkit/linuxkit,8295,1014,一个为容器构建安全、便
 https://github.com/hashicorp/raft,8271,996,Raft共识协议的Golang实现,Golang implementation of the Raft consensus protocol
 https://github.com/smartystreets/goconvey,8264,555,在浏览器中进行测试。与“go test”集成。用Go编写行为测试。,Go testing in the browser. Integrates with `go test`. Write behavioral tests in Go.
 https://github.com/moby/buildkit,8223,1163,并发、缓存高效且与Dockerfile无关的构建器工具包,"concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit"
-https://github.com/GoAdminGroup/go-admin,8211,1338,golang框架帮助gopher在十分钟内构建数据可视化和管理面板,A golang framework helps gopher to build a data visualization and admin panel in ten minutes
+https://github.com/GoAdminGroup/go-admin,8212,1338,golang框架帮助gopher在十分钟内构建数据可视化和管理面板,A golang framework helps gopher to build a data visualization and admin panel in ten minutes
 https://github.com/pkg/errors,8201,697,简单的错误处理原语,Simple error handling primitives
 https://github.com/charmbracelet/lipgloss,8201,229,漂亮终端布局的样式定义👄,Style definitions for nice terminal layouts 👄
 https://github.com/containerd/nerdctl,8197,610,contaiNERD CTL-适用于contaiNERD的Docker兼容CLI，支持Compose、Rootless、eStargz、OCIcrypt、IPFS等。。。,"contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ..."
@@ -530,7 +530,7 @@ https://github.com/hybridgroup/gocv,6729,868,使用OpenCV 4及更高版本的计
 https://github.com/aquasecurity/tfsec,6722,544,Tfsec现在是Trivy的一部分,Tfsec is now part of Trivy
 https://github.com/liamg/traitor,6693,579,：arrow_up:：skull_and_crossbones:：fire：通过利用低挂水果（如gtfobins、pwnkit、脏烟斗、+w docker.sock）自动获得Linux特权,":arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock"
 https://github.com/StackExchange/blackbox,6687,370,在Git/Mercurial/Subversion中安全存储机密,Safely store secrets in Git/Mercurial/Subversion
-https://github.com/OwO-Network/DeepLX,6682,534,强大的免费DeepL API，无需代币,"Powerful Free DeepL API, No Token Required"
+https://github.com/OwO-Network/DeepLX,6683,534,强大的免费DeepL API，无需代币,"Powerful Free DeepL API, No Token Required"
 https://github.com/prometheus/alertmanager,6679,2165,普罗米修斯警报管理器,Prometheus Alertmanager
 https://github.com/42wim/matterbridge,6679,620,mattermost、IRC、gitter、xmpp、slack、discord、telegram、火箭聊天、twitch、ssh-cat、zulip、whatsapp、keybase、matrix、microsoft teams、nextcloud、mumble、vk等与REST API之间的桥梁（不需要mattermost！）,"bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)"
 https://github.com/go-xorm/xorm,6665,755,简单而强大的ORM for Go，支持mysql、postgres、tidb、sqlite3、mssql、oracle，移动到https://gitea.com/xorm/xorm,"Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm"
@@ -648,8 +648,8 @@ https://github.com/michenriksen/aquatone,5647,882,域立交桥工具,A Tool for 
 https://github.com/openark/orchestrator,5641,933,MySQL复制拓扑管理和HA,MySQL replication topology management and HA
 https://github.com/markbates/goth,5637,601,Package goth为Go web应用程序编写身份验证包提供了一种简单、干净和惯用的方法。,"Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications."
 https://github.com/charmbracelet/bubbles,5633,263,TUI泡泡茶组件🫧,TUI components for Bubble Tea 🫧
+https://github.com/h2non/imaginary,5626,460,快速、简单、可扩展、支持Docker的HTTP微服务，用于高级图像处理,"Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing"
 https://github.com/alda-lang/alda,5625,291,一种面向音乐家的音乐编程语言笔记：,A music programming language for musicians. :notes:
-https://github.com/h2non/imaginary,5625,460,快速、简单、可扩展、支持Docker的HTTP微服务，用于高级图像处理,"Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing"
 https://github.com/dop251/goja,5624,378,纯Go中的ECMAScript/JavaScript引擎,ECMAScript/JavaScript engine in pure Go
 https://github.com/goss-org/goss,5616,472,快速简单的服务器测试/验证,Quick and Easy server testing/validation
 https://github.com/shazow/ssh-chat,5596,408,通过SSH聊天。,Chat over SSH.
@@ -683,7 +683,7 @@ https://github.com/cloudwego/hertz,5374,529,Go HTTP框架具有高性能和强�
 https://github.com/coroot/coroot,5361,218,"Coroot是一款开源APM和Observability工具，是DataDog和NewRelic的替代品📊, 🖥️, 👉. 由eBPF提供支持，可快速了解系统性能。轻松监控、分析和优化您的基础设施，以实现任何规模的峰值可靠性。","Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale."
 https://github.com/google/uuid,5356,371,基于RFC 4122和DCE 1.1的UUID Go包：身份验证和安全服务。,Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 https://github.com/techschool/simplebank,5352,967,后端大师级：在Go中构建一个简单的银行服务,Backend master class: build a simple bank service in Go
-https://github.com/AnalogJ/scrutiny,5350,170,硬盘S.M.A.R.T监控、历史趋势和现实世界故障阈值,"Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds"
+https://github.com/AnalogJ/scrutiny,5351,170,硬盘S.M.A.R.T监控、历史趋势和现实世界故障阈值,"Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds"
 https://github.com/j3ssie/osmedeus,5348,878,一种用于攻击性安全的工作流引擎,A Workflow Engine for Offensive Security
 https://github.com/opencost/opencost,5339,560,Kubernetes工作负载和云成本的成本监控,Cost monitoring for Kubernetes workloads and cloud costs
 https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example,5339,486,转到DDD示例应用程序。完成项目，展示如何通过实际重构应用DDD、Clean Architecture和CQRS。,"Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring."
@@ -731,10 +731,10 @@ https://github.com/progrium/darwinkit,5036,160,Go的原生Mac API。以前被称
 https://github.com/v2fly/domain-list-community,5023,908,社区管理的域列表。为V2Ray生成geosite.dat。,Community managed domain list. Generate geosite.dat for V2Ray.
 https://github.com/jwilder/dockerize,5013,415,简化docker容器中运行应用程序的实用程序,Utility to simplify running applications in docker containers
 https://github.com/nsf/gocode,5013,658,Go编程语言的自动补全守护进程,An autocompletion daemon for the Go programming language
+https://github.com/Melkeydev/go-blueprint,5001,299,Go蓝图允许用户使用流行的框架快速启动Go项目,Go-blueprint allows users to spin up a quick Go project using a popular framework
 https://github.com/achannarasappa/ticker,5001,273,带有实时更新和位置跟踪的终端股票行情,Terminal stock ticker with live updates and position tracking
 https://github.com/evilmartians/lefthook,4998,218,快速而强大的Git钩子管理器，适用于任何类型的项目。,Fast and powerful Git hooks manager for any type of projects.
 https://github.com/vmware-tanzu/kubeapps,4997,706,用于在Kubernetes集群中部署和管理应用程序的基于web的UI,A web-based UI for deploying and managing applications in Kubernetes clusters
-https://github.com/Melkeydev/go-blueprint,4997,299,Go蓝图允许用户使用流行的框架快速启动Go项目,Go-blueprint allows users to spin up a quick Go project using a popular framework
 https://github.com/Permify/permify,4986,225,受谷歌桑给巴尔启发的开源授权即服务，旨在为任何应用程序构建和管理细粒度和可扩展的授权系统。,"An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application."
 https://github.com/wallix/awless,4980,263,适用于AWS的强大CLI,A Mighty CLI for AWS
 https://github.com/KubeOperator/KubeOperator,4978,886,KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。,KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
@@ -886,7 +886,7 @@ https://github.com/olekukonko/tablewriter,4303,368,golang中的ASCII表,ASCII ta
 https://github.com/imroc/req,4303,350,使用Black Magic的简单Go HTTP客户端,Simple Go HTTP client with Black Magic
 https://github.com/woodpecker-ci/woodpecker,4301,370,啄木鸟是一个简单但功能强大的CI/CD引擎，具有很强的可扩展性。,"Woodpecker is a simple, yet powerful CI/CD engine with great extensibility."
 https://github.com/diggerhq/digger,4295,577,Digger是一个开源的IaC编排工具。Digger允许您在现有的CI管道中运行IaC⚡️,Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️  
-https://github.com/Masterminds/sprig,4291,445,Go模板的有用模板函数。,Useful template functions for Go templates.
+https://github.com/Masterminds/sprig,4292,445,Go模板的有用模板函数。,Useful template functions for Go templates.
 https://github.com/ktr0731/evans,4287,188,Evans：更具表现力的通用gRPC客户端,Evans: more expressive universal gRPC client
 https://github.com/go-pay/gopay,4282,739,微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】,微信、支付宝、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
 https://github.com/lwch/natpass,4279,486,🔥居家办公，远程开发神器,🔥居家办公，远程开发神器
@@ -977,7 +977,7 @@ https://github.com/fatih/structs,3897,699,Go结构的实用程序,Utilities for 
 https://github.com/xataio/pgroll,3896,70,PostgreSQL零停机迁移变得容易,PostgreSQL zero-downtime migrations made easy
 https://github.com/Jeffail/tunny,3891,309,一个供围棋爱好者使用的goroutine游泳池,A goroutine pool for Go
 https://github.com/netlify/gotrue,3890,289,基于SWT的API，用于管理用户和发布SWT令牌。,An SWT based API for managing users and issuing SWT tokens.
-https://github.com/harvester/harvester,3881,328,开源超融合基础设施（HCI）软件,Open source hyperconverged infrastructure (HCI) software
+https://github.com/harvester/harvester,3881,329,开源超融合基础设施（HCI）软件,Open source hyperconverged infrastructure (HCI) software
 https://github.com/zu1k/proxypool,3867,2447,自动抓取公共互联网上的代理节点，进行重复数据删除和可用性测试，然后提供节点列表,"Automatically crawls proxy nodes on the public internet, de-duplicates and tests for usability and then provides a list of nodes"
 https://github.com/emitter-io/emitter,3866,355,高性能、分布式和低延迟的发布-订阅平台。,"High performance, distributed and low latency publish-subscribe platform."
 https://github.com/volatiletech/authboss,3862,208,http认证的老板。,The boss of http auth.
